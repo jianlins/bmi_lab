@@ -1,0 +1,322 @@
+Chief Complaint:  Dyspnea
+   HPI:
+   Ms. [**Known patient lastname 6960**] is a 68 year old female with a history of dilated
+   cardiomyopathy with resolution on recent ECHO, htn, DM2 who presents
+   with SOB.  She states that her SOB started acutely last night at ~ 8 pm
+   and was associated with lightheadedness. It began after going to the
+   mailbox to get the mail and did not begin until she sat down.  She also
+   had an episode of prolonged coughing which was minimally productive of
+   greenish sputum at the same time. She denies any prior SOB or DOE
+   although she does note chronic orthopnea. She does note increased LE
+   swelling over the last month. She notes her regular weight it 215 lbs
+   and her weight on ICU admission is 240 lbs (she was 212 lbs on [**2920-10-25**]
+   sleep visit). She denies any significant cough prior to last night.
+   She denies fevers but does note chills for the last month. She also
+   notes urinary frequency for the last month but denies dysuria.  Last
+   night, her SOB improved after 30 minutes of rest.  She felt better this
+   am but then had dyspnea while going through her mail and her HHA felt
+   she looked SOB when she got to the house so she hit her medic alert
+   necklace and was brought to the ED. She also notes bilateral calf pain,
+   R worse than L.
+   .
+   In the ED, 97.9, 72, 127/85, 20, 93% RA. Labs remarkable for normal WBC
+   count, Hct at 33 within recent baseline, electrolytes were normal with
+   exception of BUN/Cr 26/1.1 (BL Cr 0.9-1.0, CEs were negative x 1.
+   Lactate was 2.4. CXR showed possible L hilar consolidation. U/A
+   consistent with UTI. She received 1 gram of ceftriaxone and 750 mg of
+   levofloxacin. Her BPs transiently dropped to SBPs in 80s which resolved
+   to 1 L of NS with increase in SBPs to 110s.  She received an additional
+   L of NS following this drop.  At the time of transfer to the ICU, her
+   SBP was in the 120s.  Also of note, her ECG showed weinkeboch at a rate
+   in the 50s which was new compared to prior.  Cardiology was consulted
+   with the ED and did not think any further intervention was required.
+   .
+   On arrival to the ICU, patient is in NAD. She feels comfortable. She
+   denies any significant SOB.  She denies any current or recent chest
+   pain.  She does note calf pain bilaterally which has been chronic. As
+   above she denies fevers but does not chills x 1 month. Denies any
+   nausea, vomiting, abdominal pain, diarrhea, constipation, dysuria. She
+   does note urinary frequency.
+   On admission to the ICU it was noted that LE edema was non-symmteric
+   where R leg was slightly more edematous than the L leg.  Pt underwent
+   U/S which showed a R popliteal venous thrombus.  At that point pt was
+   started on a heparin drip.  Through first night pt's symptoms persisted
+   and she cont'd being SOB.  A CTA was performed and R main pul artery
+   embolus was found. Heparin drip was continued and pt's symptoms
+   improved through he second night where she was found to be
+   symptomatically much better breathing easily with pulse ox in the high
+   90s with a RR ranging from 15-20.  Ms. [**Known patient lastname 6960**] was then sent to the
+   hospital floor.  While on the floor she developed SOB and became
+   tachypneic.  She was ventilated via NRB on 4L and given nebulizer
+   treatments and then transferred to the ICU.  On arrival to the unit she
+   was found to be less tachypneic and saturating in the high 90s.
+   Symptomaticcally she states she feels better.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Patient, Medical records
+   Allergies:
+   Aspirin
+   irritates stoma
+   Niacin
+   Rash;
+   Rash;
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2920-11-21**] 04:00 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   # Dilated cardiomyopathy diagnosed [**2918-12-9**] following spine
+   surgery, with subsequently normalized cardiac function
+   # Hypertension
+   # Diabetes Melitis II (HgA1C 7.3 [**2918-12-20**], with peripheral
+   neuropathy)
+   # Obstructive sleep apnea (uses CPAP)
+   # Gastroesophageal reflux disease
+   # Anemia (baseline Hct = 30-35)
+   # osteoarthritis
+   # Sciatica
+   # Right knee replacement
+   # Cervical stenosis
+   # Restless leg syndrome
+   # Cataracts s/p surgery in left eye
+   # s/p anterior cervical decompression and fusion by Dr. [**First Name8 (NamePattern2) 2185**]
+   [**Last Name (NamePattern1) 364**] on [**2919-7-11**]
+   # Lumbar spondylosis and disk degeneration s/p laminectomy and
+   fusion [**12/2916**]
+   Significant for diabetes and coronary artery disease.  Multiple family
+   members affected.  Mother had DVT following knee surgery.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Divorced with four children, several grandchildren, and great
+   grandchildren.  She used to work as a special education bus monitor.
+   She lives alone in [**Location (un) 393**], with some assistance from her daughter.
+   She gets meals on wheels.  Denies current and past smoke, alcohol, and
+   IVDU.
+   Review of systems:
+   Constitutional: No(t) Fatigue, No(t) Fever, No(t) Weight loss, 25 lb
+   weight gain, chills
+   Ear, Nose, Throat: Dry mouth
+   Cardiovascular: No(t) Chest pain, No(t) Palpitations, Edema, No(t)
+   Tachycardia, Orthopnea, bradycardia
+   Respiratory: Cough, Dyspnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, No(t) Constipation
+   Genitourinary: No(t) Dysuria, urinary frequency
+   Musculoskeletal: Joint pain, No(t) Myalgias, back pain
+   Pain: No pain / appears comfortable
+   Flowsheet Data as of [**2920-11-22**] 09:04 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.3
+   Tcurrent: 37.9
+C (100.3
+   HR: 82 (55 - 89) bpm
+   BP: 134/90(75) {78/41(56) - 141/105(112)} mmHg
+   RR: 32 (17 - 38) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  2,155 mL
+                                                                  1,394 mL
+   PO:
+                                                                  1,800 mL
+                                                                  1,200 mL
+   TF:
+   IVF:
+                                                                    355 mL
+                                                                    194 mL
+   Blood products:
+   Total out:
+                                                                  2,780 mL
+                                                                    920 mL
+   Urine:
+                                                                  2,780 mL
+                                                                    920 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -625 mL
+                                                                    474 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///25/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   179 K/uL
+   9.9 g/dL
+   238 mg/dL
+   1.1 mg/dL
+   18 mg/dL
+   25 mEq/L
+   107 mEq/L
+   4.5 mEq/L
+   138 mEq/L
+   29.2 %
+   11.4 K/uL
+        [image002.jpg]
+                                  [**2917-12-6**]
+                         2:33 A12/18/[**2919**]  12:08 AM
+                                  [**2917-12-10**]
+                         10:20 P12/18/[**2919**]  05:05 AM
+                                  [**2917-12-11**]
+                         1:20 P12/19/[**2919**]  05:00 AM
+                                  [**2917-12-12**]
+                                   11:50 P
+                                  [**2917-12-13**]
+                                   1:20 A
+                                  [**2917-12-14**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2918-1-6**]
+                                   1:20 P
+                                  [**2918-1-6**]
+                                   11:20 P
+                                  [**2918-1-6**]
+                                   4:20 P
+   WBC
+                                     9.6
+                                    11.4
+   Hct
+                                    28.2
+                                    29.2
+   Plt
+                                     177
+                                     179
+   Cr
+                                     0.9
+                                     1.1
+   TropT
+                                    <0.01
+                                    <0.01
+   Glucose
+                                     126
+                                     238
+   Other labs: PT / PTT / INR:14.6/94.2/1.3, CK / CKMB /
+   Troponin-T:43//<0.01, Lactic Acid:1.6 mmol/L, Albumin:3.4 g/dL,
+   Ca++:8.2 mg/dL, Mg++:1.6 mg/dL, PO4:2.5 mg/dL
+   Assessment and Plan
+   68 year old female with a history of dilated cardiomyopathy s/p
+   resolution, htn, DM2 who presents with shortness of breath.
+   .
+   # SOB: Multifactorial. Given her presentation of acute shortness of
+   breath, and recent weight gain w/increasing edema, the main concernf
+   for etiology included DVT/PE, worsening heart failure secondary to
+   ischemic event or pulmonary infection. On exam there is no evidence of
+   infection other than in her urine. Cardiac enzymes are negative. On
+   LENIs appears to have chronic DVT in popliteal vein on R. Started
+   heparin drip night of admission.  CTA shows R lung PE and evidence of R
+   heart strain.  Echo with preserved EF, NL RV size and free wall motion.
+   Trival MR. [**Name13 (STitle) **] evidence of right heart strain. Theory is that PE is
+   subacute given increasing edema over last month. Increased heart
+   strain, possible UTI exacerbated strain on heart causing development of
+   new arrithymia and worsening SOB.
+   - f/u CTA final read
+   - supplemental O2, continue heparin and monitor coags
+   - started coumadin 5 mg today, trend INR
+   - hold antihypertensives given transient hypotension
+   - treat heart block as below
+   - d/ced azithro yesterday once clear lung process [**1-6**] PE. No longer
+   feel PNA likely
+   - cont CPAP at night
+   .
+   # hypotension: Known PE as above likely contributing. Sepsis from UTI
+   unlikely given no other SIRS physiology. Cardiac event unlikely given
+   neg CE.. Very unlikely to be secondary to sepsis given lack of white
+   count, fever and clinically stable. Also this could be somehow related
+   to her bradycardia and newly diagnosed 2^nd degree heart
+   block/Wenkeboch.
+   - treat possible CHF as above. Diuresis limited by low BP
+   - On CTX for possible UTI but U cult NG so far, asymptomatic. Check
+   Urine sediment today given overnight R flank pain (responded to
+   Tylenol), if neg d/c CTX as com[** Location **]g 3 day course anyway
+   - f/u sputum and urine cultures and f/u blood cultures
+   - hold BP meds for now
+   - IVF prn to maintain adequate MAPS, very preload dependent given PE.
+   .
+   # bradycardia/heart block: new Weinkeboch on ECG with 5:4 conduction,
+   3:2 this AM. Differential of new heart block includes progression of
+   calcific conduction system disease, ischemic event, valve abscess
+   (which seems unlikely), and medications. If she is asymptomatic, she
+   may not need further treatment for this. However if her current
+   symptoms can be attributed to her bradycardia, then she may be a
+   candidate for pacemaker. At this point, would work on ruling out other
+   etiologies of her presenting symptoms before considering pacer.
+   - tele monitoring
+   - hold metoprolol and amitiptyline
+   - if persistent, can consider EP consult
+   .
+   # UTI: evidence of UTI on U/A.  However, no leukocytosis or left shift.
+   Has complained of urinary frequency.  U culture NG to date
+   - ceftriaxone to be stoped after neg urine sediment.
+   - f/u urine culture
+   .
+   # ARF: patient in mild ARF with slight increase in Cr and elevated BUN.
+   Potential etiologies include worsening CHF due to bradycardia or other
+   etiology, hypotension in setting of infection. Creatinine improved
+   since admit with hydration overnight.
+   -PO intake to avoid fluid overload
+   - trend Cr
+   - once BP, she may need lasix given her edema
+   .
+   # Diabetes Mellitis: on glipizide, raloxifene as outpt.
+   - hold oral meds
+   - ISS
+   .
+   # Obstructive sleep apnea: has been noncompliant in past with CPAP due
+   to poorly fitting mask.
+   - CPAP
+   .
+   # Gastroesophageal reflux disease: cont PPI [**Hospital1 **]
+   .
+   # Anemia: at most recent baseline.
+   .
+   # restless legs: cont mirapex, ultram, lyrica
+   .
+   # osteoarthritis: calcium, vit D, hold raloxefene
+   .
+   # FEN: Diabetic, low Na diet.
+   .
+   # PPx: heparin sc. PPI.
+   .
+   # ACCESS: PIV x 2.
+   .
+   # CODE: FULL.
+   .
+   # COMM: [**Name (NI) 1583**] (brother) [**Telephone/Fax (1) 6961**], [**Name (NI) 516**] (sister) [**Telephone/Fax (3) 6962**]
+   .
+   # DISP: c/o to floor
+ HYPOTENSION (NOT SHOCK)
+ HEART BLOCK, COMPLETE (CHB)
+ DEEP VENOUS THROMBOSIS (DVT), LOWER EXTREMITY
+ PNEUMONIA, BACTERIAL, COMMUNITY ACQUIRED (CAP)
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2920-11-22**] 08:49 PM
+   20 Gauge - [**2920-11-22**] 08:49 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:

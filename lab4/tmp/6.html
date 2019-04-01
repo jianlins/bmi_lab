@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+            <html>
+            
+            <head>
+                <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+                <title>Brat Embedding 6.html</title>
+                <link rel="stylesheet" type="text/css" href="css/style-vis.css">
+                <script type="text/javascript" src="js/head.js"></script>
+                <script type="text/javascript">
+              function resizeIframe(obj) {
+                obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+              }
+            </script>
+            </head>
+            
+            <body>
+            
+            <!-- load all the libraries upfront, which takes forever. -->
+            <script type="text/javascript" src="js/brat_loader.js"></script>
+            
+            <script type="text/javascript">
+            
+            var collData = {
+                entity_types: [ {
+                        type   : 'Target',
+                        labels : ['Target', 'Tar'],
+                        // Blue is a nice colour for a person?
+                        bgColor: '#7fa2ff',
+                        // Use a slightly darker version of the bgColor for the border
+                        borderColor: 'darken'
+                },
+                 {
+                        type   : 'Modifier',
+                        labels : ['Modifier', 'Mod'],
+                        // Blue is a nice colour for a person?
+                        bgColor: 'lightgreen',
+                        // Use a slightly darker version of the bgColor for the border
+                        borderColor: 'darken'
+                },
+                 {
+                        type   : 'Termination',
+                        labels : ['Termination', 'Termi'],
+                        // Blue is a nice colour for a person?
+                        bgColor: 'orange',
+                        // Use a slightly darker version of the bgColor for the border
+                        borderColor: 'darken'
+                }]
+            };
+            
+            collData['relation_types'] = [ {
+                type     : 'degree',
+                labels   : ['degree', 'deg'],
+                color    : '#9ACD32',
+                args     : [
+                    {role: 'Modifier', targets: ['Modifier'] },
+                    {role: 'Target',  targets: ['Target'] } 
+                ]
+            },{
+                type     : 'degree_t',
+                labels   : ['degree', 'deg'],
+                color    : '#C71585',
+                args     : [
+                    {role: 'Termination', targets: ['Termination'] },
+                    {role: 'Modifier',  targets: ['Modifier'] } 
+                ]
+            },{
+                type     : 'terminate',
+                labels   : ['terminate', 'ter'],
+                color    : '#00FFFF',
+                args     : [
+                    {role: 'Modifier', targets: ['Modifier'] },
+                    {role: 'Target',  targets: ['Target'] } 
+                ]
+            },{
+                type     : 'terminate_t',
+                labels   : ['terminate', 'ter'],
+                color    : '#000080',
+                args     : [
+                    {role: 'Termination', targets: ['Termination'] },
+                    {role: 'Modifier',  targets: ['Modifier'] } 
+                ]
+            }];
+            
+            var docData={"relations": [["R0", "degree", [["Modifier", "T2"], ["Target", "T1"]]]], "text": "Vitals: 38.5 C BP 118/72 HR 103 R 40.", "entities": [["T0", "Target", [[28, 31]]], ["T1", "Target", [[8, 12]]], ["T2", "Modifier", [[13, 14]]]]}
+            
+            </script>
+            <p>Rendering: 6.html ...</p>
+            <div id="embedding-entity-example"></div>
+            <script type="text/javascript">
+                head.ready(function() {
+                    Util.embed('embedding-entity-example', $.extend({}, collData),
+                            $.extend({}, docData), webFontURLs);
+                });
+            </script>
+            
+            </body>
+            </html>
+            

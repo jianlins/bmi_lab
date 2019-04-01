@@ -1,0 +1,209 @@
+TITLE:
+   Chief Complaint:  Weakness
+   HPI:
+   74-year-old gentleman with multiple medical problems including ESRD on
+   HD (last dialysis on [**3-12**]), cryptogenic cirrhosis, history of PEs, and
+   chronically low BPs who is brought in by his partner for 2-3 days of
+   worsening confusion and weakness. Patient was recently admitted to
+   [**Hospital1 17**] on [**3022-1-7**] for orthostatic symptoms; admission was complicated by
+   an iatrogenic peritonitis (induced by paracentesis) for which the
+   patient received a 14 day course of antibiotics. He has been feeling
+   well since this time, though did present to his PCP recently for
+   bilateral pitting edema (DVT ruled out at that time). Pt currently
+   denies weakness and reports that he would like coffee. He denies fever,
+   chills, nausea, vomiting, constipation, urinary symtpoms, cough, chest
+   pain, shortness of breath or palpitations. He does endorse recent
+   anorexia for the past few days that he relates to fatigue.
+   .
+   In the ED, patient's Temp was 97, BP was 67/47, HR of 96, and SP02 of
+   91% on RA. Bibasilar crackles bilaterally and significant pedal edema.
+   Neuro exam was reportedly normal (A&Ox3, no asterixis) and there was no
+   ascites on abdominal exam. Elevated white count, INR, and LFTs.
+   Troponin of 0.25, which is higher than baseline. EKG with NSR in the
+   90s and no ST changes. Patient received vanc/zosyn and ASA in ED.
+   Received 3L NS in ED, but still had an elevated lactate. At baseline pt
+   is hypotensive, P 75-80, RR 18, 98% 2L NC.
+   .
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Metronidazole - [**3022-3-14**] 02:09 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Midodrine 10mg pre-HD
+   Xifaxan 200 mg tid
+   Nadolol 40 mg tid
+   Omeprazole 20 mg Cap [**Hospital1 **]
+   Loperamide 2 mg q6h
+   Calcium Acetate 667 mg Cap, 2caps tid
+   Nephrocaps 1 mg Cap once a day
+   Cipro 250 daily for SBP ppx
+   Past medical history:
+   Family history:
+   Social History:
+   1. Cryptogenic cirrhosis: A portal hypertension, splenomegaly,
+   and ascites per MRI of abdomen. Portal vein thrombosis noted on
+   MRI from [**11/3020**] as well as more recent ultrasound.
+   2. Chronic kidney disease stage IV-V currently undergoing
+   hemodialysis, possibly due to chronic nephrolithiasis, in turn
+   caused by a bowel surgery, possibly combined with chronic
+   hypokalemia and nonsteroidal use. More recently suggested that
+   the possibility of amyloidosis be explored. The patient has
+   secondary hyperparathyroidism due to renal failure.
+   3. Chronic secretory diarrhea: Carcinoid syndrome,
+   neuroendocrine tumors, pellagra, microscopic colitis,
+   hyperthyroidism, and infectious etiologies have been ruled out
+   with an extensive workup in 06/[**3019**]. Currently, attributed to a
+   history of ileal resection.
+   4. History of PE during hospitalization [**5-/3020**] at [**Hospital1 17**].
+   Formerly on Coumadin is stopped in 01/[**3020**].
+   5. A history of likely gallstone pancreatitis with lipase
+   greater than 900 during hospitalization in 06/[**3019**].
+   6. H. pylori gastritis treated in [**3019**].
+   7. MGUS by SPEP.
+   8. A 1.2-cm hypoechoic nodule on the left thyroid lobe without
+   enlargement on ultrasound, follow up in [**3020**]. TSH remains normal
+   in 01/[**3020**].
+   9. Left inguinal hernia.
+   10. Status post ileal resection in [**2971**] for possible Crohn's
+   disease.
+   11. Status post surgical repair perforated ulcer in the [**2981**].
+   12. Status post surgical removal of renal stone in [**2981**].
+   13. Cataracts
+   14. Paracentesis induced bowel perforation in [**12-23**]
+   15. Thyroid nodule
+   Denies family history of liver or kidney disease.
+   Occupation: Formerly a driver for the ride
+   Drugs: None
+   Tobacco: None
+   Alcohol: None
+   Other:
+   Review of systems:
+   Constitutional: Fatigue
+   Gastrointestinal: LOA
+   Flowsheet Data as of [**3022-3-14**] 02:18 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**23**] AM
+   Tmax: 35.6
+C (96
+   Tcurrent: 35.6
+C (96
+   HR: 96 (95 - 103) bpm
+   BP: 75/40(47) {67/40(47) - 144/128(131)} mmHg
+   RR: 12 (12 - 18) insp/min
+   SpO2: 67%
+   Heart rhythm: ST (Sinus Tachycardia)
+             Total In:
+             100 mL
+   PO:
+             TF:
+   IVF:
+   100 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    100 mL
+   Respiratory
+   SpO2: 67%
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Assessment and Plan
+   74-year-old gentleman with a pmhx. of ESRD on HD (last dialysis [**3-12**]),
+   cryptogenic cirrhosis and ascites requiring paracentesis, and PEs who
+   is admitted from the ED with chief complaint of weakness and
+   confusion.
+   .
+   # HYPOTENSION: Pt is mentating well and does not produce urine. Per
+   outpatient records, baseline BP is in 70's systolic. Pt is afebrile but
+   does have a leukocytosis and elevated lactate which raise concern for
+   sepsis.
+   - Bolus NS for BPs<70
+   - Broadly culture
+   - Continue antibiotics for now.
+   - Check Cortisol
+   - Check TSH
+   .
+   # WEAKNESS/CONFUSION: Patient was brought into the ED by his partner
+   who related a history of weakness and confusion for the past 3 days.
+   Patient states that he has had a lack of a[** Location **]e for the past few
+   days. Possibilites for weakness and confusion in this patient include
+   metabolic derrangements (likely from liver failure and hepatic
+   encephalopathy or renal failure, though less likely as dialysis was
+   yesterday), infection (high white count, increased lactate) from
+   peritoneal, blood, pulmonary or biliary source. Albumin is
+   significantly lower at 2.4 than it was in [**Last Name (LF) 23**], [**First Name3 (LF) **] malnutrition may
+   be contributing to weakness.
+   -Blood cultures
+   -Hold off on paracentesis for now given absence of abd pain
+   -Ammonia level low (25), and no asterixis on exam so hepatic
+   encephalopthay seem unlikely.
+   -Repeat electrolyte panel
+   -Repeat lactate
+   -IVF
+   -Touch base with renal re: further dialysis
+   -Continue vanc/zosyn for now
+   -RUQ U/S with dopplers in am
+   -Nutrition consult
+   .
+   # ELEVATED TROPONIN: Patient's troponin is 0.25, which is up from
+   baseline (especially in light of dialysis yesterday). Difficult to
+   interpret baseline EKG, but no overt ST changes concerning for evolving
+   infarct.
+   -Continue ROMI
+   -Repeat EKG
+   -Consider ECHO in am given non-specific fatigue.
+   .
+   # Thrombocytopenia: Pt's plt count today is 57 which is lower than it
+   has been in the past (usually plts are around 90-100). Pt may have a
+   component of s[** Location **] sequestration, given known history of portal
+   hypertension sequelae (varices, ascites).
+   - Repeat plt count
+   - Send RBC morph and IHOS to reveiw for presence of schistos
+   - RUQ U/s as above
+   .
+   # DIARRHEA: Patient reports voluminous diarrhea, and has a history of
+   having diarrhea with up to 5 liters daily. [** Location **]usly the patient's
+   diarrhea was thought to be the result of ileal resection.
+   - Attempt to quantify volume of diarrhea
+   - Send for Cdiff given recent abx
+   .
+   # FEN: prn IVF, replete electrolytes, clears, but NPO now for RUQ U/s
+   in am
+   # Prophylaxis: Pneumoboots
+   # Access: peripherals
+   # Communication: Patient
+   # Code:  Full (discussed with patient)
+   # Disposition: ICU pending clinical improvement
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3022-3-14**] 12:04 AM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:

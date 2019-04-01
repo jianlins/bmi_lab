@@ -1,0 +1,214 @@
+Chief Complaint:  Abdominal pain/nausea x24 hours
+   HPI:
+   This is a [**Age over 90 **]-year-old female with a past medical history of
+   hypertension, hypothyroidism, GI bleed in [**7-/2561**] who presents from home
+   with abdominal pain, [**8-29**] and intermittent nausea, for the past 24
+   hours.
+   Upon arrival in ED, patient was febrile to 101.7, and elevated LFTs
+   were concerning for cholangitis.  A CTA of the abdomen demonstrated a
+   dilated CBD with a stone obstructing the ampula.  Patient was
+   tachycardic to 120-130s, and was given IV fluids and cipro, flagyl,
+   unasyn.  Crackles were heard at her lower lung bases, and IVF were
+   eventually discontinued.  ERCP was consulted, and during the course of
+   a long discussion with ERCP fellow, family, and geriatrics fellow, it
+   was felt that surgical intervention (i.e. ERCP) would not be in
+   accordance with patient's wishes as she is DNR/DNI.  The decision was
+   made to treat patient with antibiotics and symptomatically, and she was
+   transferred to the [**Hospital Unit Name 42**] for further work-up.  Upon transfer to the
+   [**Hospital Unit Name 42**], vitals were: VS: 101.7 129/59 128 24 96% 4L.  An extensive note
+   in the chart by ERCP fellow documents entirety of this conversation.
+   Upon arrival in the [**Hospital Unit Name 42**], patient complained of abdominal discomfort
+   and missing her daughter.  She also complained of thirst.  Vitals on
+   arrival were: T: 98.8, BP: 108/43, RR: 28, SP02 92% on 2L.
+   ROS:  Patient is a poor historian.  But she denies headache, chest
+   pain, shortness of breath, dysuria, or change in bowel habits.
+   Allergies:
+   Sulfonamides
+   Unknown;
+   Codeine
+   Unknown;
+   Hydrochlorothiazide
+   Unknown;
+   Ace Inhibitors
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Morphine Sulfate - [**2561-11-20**] 09:47 PM
+   Haloperidol (Haldol) - [**2561-11-21**] 12:20 AM
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   - Left Temporal Infarct [**2554**] with resulting expressive aphasia
+   - TIAs
+   - Asthma
+   - GERD
+   - Osteoporosis
+   - Htn
+   - Left hip fracture status post left hemiarthroplasty [**11-25**]
+   - Traumatic subdural hematoma status post exploratory
+   - Hypothyroidism
+   - Basal cell carcinoma, left auricle status post excision [**10-25**]
+   - Osteoarthritis
+   - L2 compression fracture - [**4-/2561**]
+   - Syncopal episode - [**4-/2561**]
+   - GI Bleed -  [**7-/2561**]
+   Non-contributory
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Widowed, lives independently with some driving assistance.
+   Former smoker but quit in [**2520**].  One shot of vodka nightly.
+   Review of systems:
+   Flowsheet Data as of [**2561-11-21**] 12:35 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**63**] AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.2
+C (97.2
+   HR: 137 (113 - 137) bpm
+   BP: 113/56(80) {76/42(54) - 113/62(80)} mmHg
+   RR: 20 (17 - 28) insp/min
+   SpO2: 100%
+             Total In:
+                                                                    763 mL
+                                                                     65 mL
+   PO:
+             TF:
+   IVF:
+                                                                    763 mL
+                                                                     65 mL
+   Blood products:
+   Total out:
+                                                                    440 mL
+                                                                    100 mL
+   Urine:
+                                                                    440 mL
+                                                                    100 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    323 mL
+                                                                    -35 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Imaging: CT Ab/Pelvis:
+   Wet Read Audit # 2 CXWc [**First Name9 (NamePattern2) **] [**2561-11-20**] 2:38 PM
+   1. No evidence of mesenteric ischemia. Patent mesenteric vessels.
+   2. Markedly dilated CBD measuring up to 17mm, extending to the ampulla,
+   which bulges into the duodenum and is concerning for an obstructing
+   ampullary mass. Mild dilation of the ventral pancreatic duct to 6mm.
+   Distal/dorsal panc duct not dilated due to pancreatic divisum. Moderate
+   intrahepatic ductal dilatation. ERCP or MRCP recommended.
+   3. Distended gallbladder with stones and pericholecystic fluid; likely
+   due to biliary obstruction rather than acute cholecystitis but
+   correlate clinically.
+   4. Extensive colonic diverticulosis without diverticulitis.
+   .
+   CXR: No acute intrathoracic process. No evidence of free air under the
+   hemidiaphragms.
+   .
+   KUB: Paucity of bowel gas in the upper abdomen with no dilated loops of
+   small bowel identified. No definite free air is identified. However, an
+   upright view of the abdomen is recommended for further evaluation.
+   Assessment and Plan
+   ASSESSMENT AND PLAN:
+   This is a [**Age over 90 **]-year-old lady with choledocholithiasis vs. cholangitis who
+   presents from home with a 24-hour history of abdominal pain and nausea
+   with CT abdomen suggestive of distal CBD obstruction with stone and
+   pancreatitis.  Now with 2/4 blood cultures (so far) growing gram
+   negative rods.
+   CBD OBSTRUCTION/PANCREATITIS:  Patient is bacteremic with gram negative
+   rods, likely source being biliary tract.  After long discussions with
+   family, ERCP team, and geriatrics, the decision was made not to pursue
+   ERCP and to keep patient comfortable and on anti-biotics.  The family
+   is aware that patient could pass away from overwhelming infection, but
+   they do not believe that invasive procedures and/or intubation would be
+   in accordance with her wishes.  Although the obstruction looked like it
+   could be a ampullary mass on initial read of CT, radiology attending
+   asserted that it was most likely a stone.
+   .
+   --Zosyn for empiric gram negative coverage
+   --Fluid as 02 sats tolerate
+   --Pain control with morphine
+   --Continue family discussions/family input
+   --Ap[** Location **]te ERCP recommendations
+   .
+   TACHYCARDIA:  Most likely a combination of pain, anxiety, fever, and
+   infection.  In order to control the tachycardia, we need to treat the
+   underlying source.
+   --Antibiotics
+   --Reorientation, anxiolytics (if needed) for anxiety
+   --Pain control with morphine
+   --EKG if rhythm changes, patient becomes hemodynamically compromised.
+   .
+   HYPOTHYROIDISM:  Continue home levothyroxine dose for now.
+   .
+   HYPERTENSION:  Hold off on home anti-hypertensive medications, as
+   patient has SBPs in the 80s-90s.
+   .
+   AGITATION:  Patient is very agitated overnight, require restraints as
+   not to rip out her IVs.  She received IV haldol PRN.
+   ICU Care
+   Nutrition:
+   Comments: NPO for now
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**2561-11-20**] 06:58 PM
+   20 Gauge - [**2561-11-20**] 06:59 PM
+   Prophylaxis:
+   DVT: Boots(-DVT ppx with Pneumoboots (GI bleed in [**7-/2561**]))
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   -Bowel regimen Colace/Senna
+   -Pain management with Tylenol/Morphine
+   ACCESS: PIV's
+   CODE STATUS: DNR/DNI-, No pressors, No CVL, as confirmed with HCP
+   EMERGENCY CONTACT:  [**Name (NI) **] [**Name (NI) **] [**Name (NI) 11116**] (HCP) [**Telephone/Fax (1) 11120**], [**First Name9 (NamePattern2) 11118**] [**First Name5 (NamePattern1) 2321**]
+   [**Known patient lastname 11116**] Cell [**Telephone/Fax (1) 11119**]
+   DISPOSITION:  [**Hospital Unit Name 42**] Pending above
+   Code status: DNR / DNI
+   Disposition: ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: [**Age over 90 **] y/o, female with history of HTN,
+   hypothyroidism, CVA, GIB, now presents with 10/10 diffuse abdominal
+   pain associated with nausea, febrile in ED with elevated LFT's and
+   stone of CBD causing CBD dilation, ampula obstruction, cholangitis,
+   pancreatitis. ERCP were consulted and given her DNR/DNI status, the
+   family
+s decision was to treat medically and not to proceed with ERCP.
+   Exam notable for Tm 101.7, current  98.8 BP 129/59 HR 128 RR 28 with
+   sat 92% on 2 L. N/C . Abdomen diffuse tenderness with palpation. Labs
+   notable for WBC 9.9 K, HCT 40.7, K+ 2.8, Cr 0.9, lactate 3.4. CXR with
+   , EKG . Blood cultures 2/4 Gram negative rods.
+   Agree with plan to treat cholangitis, pancreatitis, bacteremia with
+   broad spectrum antibiotics, IVF's, supplemental oxygen, replete
+   electrolytes.
+   Patient is DNR/DNI and family are aware of potential poor prognosis by
+   declining the ERCP including septic shock and death.
+   Remainder of plan as outlined above.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 10076**] [**Name8 (MD) 10077**], MD
+   on:[**2561-11-21**] 06:51 ------

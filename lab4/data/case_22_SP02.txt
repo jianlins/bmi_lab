@@ -1,0 +1,215 @@
+Chief Complaint:  Headache, dizziness
+   HPI:
+   80 yo F h/o DM, HTN, ESRD on HD, seizures, h/o SDH and IPH in [**10-9**] who
+   awoke from sleep with c/o headache this morning. Per her sister she was
+   acting differently the night before, and this morning was confused
+   prior to presentation to the ED.  She was scheduled for a line
+   placement today due to recently clotted dialysis line.  The patient and
+   her sister deny any falls, syncope, photophobia, seizure, nausea or
+   vomiting. No loss or change reported from pt in bowel or bladder
+   habits.
+   In the ED: T 98.0 BP 186/80 HR 62 RR 126 100%@3L.  Patient denied
+   dizziness, reported only hunger and headache.  Found to have
+   hyperkalemia to 6.8 (already scheduled for dialysis today) with peaked
+   T waves on EKG.  She was given Labetalol 10mg x1, Ca Gluconate, D50
+   with regular insulin, Kayexalate and Dilantin 1g IV load. K improved to
+   5.7.  Head CT demonstrated subdural bleeds, full report below. Her
+   mental status declined from full sentences to 1 word answers.
+   Transferred to MICU with Neurosurg consulted.
+   On admission to the ICU, the patient is somnolent but responsive to
+   questioning.  She denies any active pain or discomfort at this time.
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Patient, Family / Friend
+   [**Name (NI) 371**] unable to provide history: Sedated
+   Allergies:
+   Lisinopril
+   hyperkalemia at
+   Verapamil
+   Nausea/Vomiting
+   Beta-Adrenergic Agents
+   bradycardia;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Home Meds:
+   ASA 81mg PO QDay
+   Atorvastatin 10mg PO Qday
+   Labetalol 200mg PO BID PRN
+   Colace 100mg PO BID PRN
+   Heparin 5000 units SC TID
+   Lantus
+   Methimazole 15mg PO Qday
+   Phenytoin 125mg PO Q8
+   Starlix 60mg TID AC
+   Sensipar 20mg PO Qday
+   Fosrenol 2g TID QAC
+   Past medical history:
+   Family history:
+   Social History:
+   DM
+   CAD
+   PVD
+   HTN (labile)
+   h/o SDH and IPH in [**10-9**].
+   [**10-9**] s/p syncopal fall resulting in acute SDH and IPH (non
+   surgical)
+   Lower extremity edema/venous insufficiency
+   Arthritis
+   Lumbar disc disease
+   Chronic kidney disease on HD, [** Location **]usly via left UE fistula but that
+   was infected [**7-9**] at an area of repaired aneurysm so no via tunnelled
+   HD cath
+   Pulmonary hypertension
+   Toxic Multinodular Goiter
+   Anemia- low iron and EPO
+   s/p Breast biopsy
+   s/p Hysterectomy,
+   s/p excision of a left ear mass
+   s/p right toe amputation of digits one, two,
+   three, four, and five
+   noncontributory
+   Occupation: N/A
+   Drugs: Denies
+   Tobacco: Denies
+   Alcohol: Denies
+   Other: Lives with her Sister
+   Review of systems:
+   Negative except for HPI
+   Flowsheet Data as of [**3117-2-7**] 12:16 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.1
+C (100.6
+   Tcurrent: 38.1
+C (100.6
+   HR: 72 (50 - 74) bpm
+   BP: 114/87(93) {113/47(66) - 158/87(93)} mmHg
+   RR: 17 (15 - 23) insp/min
+   SpO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 74 kg (admission): 74 kg
+                  Total In:
+                                                                     50 mL
+                  PO:
+                  TF:
+   IVF:
+                                                                     50 mL
+   Blood products:
+   Total out:
+                                                                  3,000 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,950 mL
+                                                                      0 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   ABG: ///28/
+   Physical Examination
+   T 97.3 HR 51 BP 141/54 RR 17 100%@2L Sp02  Weight 74kg
+   General: Somnolent, breathing comfortably on 2L
+   HEENT: PERRL, EOMi, anicteric sclera, conjunctivae pink
+   Neck: supple, trachea midline, no thyromegaly or masses, no LAD
+   Cardiac: RRR, s1s2 normal, no m/r/g, no JVD
+   Pulmonary: CTAB, Dialysis cath in R anterior chest
+   Abdomen: +BS, soft, nontender, nondistended, no HSM
+   Extremities: warm, 1+ DP pulses, no edema
+   Neuro: A&Ox3, speech limited to few word answers, CNII-XII intact,
+   moves all extremities, Slow finger to nose, possible poor cooperation
+   Labs / Radiology
+   188 mg/dL
+   4.3 mg/dL
+   25 mg/dL
+   28 mEq/L
+   100 mEq/L
+   3.7 mEq/L
+   142 mEq/L
+        [image002.jpg]
+   ECG: SR@60 with RBBB, peaked T waves in V3-V6
+   CXR:  Dialysis catherer in place on R, otherwise no acute process
+   CT head: *[** Location **]* Acute on subacute bifrontal subdural hematomas. Acute
+   parafalcine subdural hematoma. Air-fluid level in the right max sinus.
+                                  [**3114-2-2**]
+                          2:33 A1/6/[**3117**]  08:51 PM
+                                  [**3114-2-6**]
+                                   10:20 P
+                                  [**3114-2-7**]
+                                   1:20 P
+                                  [**3114-2-8**]
+                                   11:50 P
+                                  [**3114-2-9**]
+                                   1:20 A
+                                  [**3114-2-10**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3114-3-5**]
+                                   1:20 P
+                                  [**3114-3-5**]
+                                   11:20 P
+                                  [**3114-3-5**]
+                                   4:20 P
+   Cr
+                                     4.3
+   Glucose
+                                     188
+   Other labs: Ca++:9.0 mg/dL, Mg++:1.6 mg/dL, PO4:3.9 mg/dL
+   Assessment and Plan
+   An 80 year old lady with DM, ESRD and history of subdural hematomas
+   presents with new acute/subacute hematomas and hyperkalemia with
+   altered mental status.  On admission she appears somnolent but oriented
+   and able to defend her airway.
+   1) Hyperkalemia: Likely from her renal failure and limited dialysis the
+   week prior.  Also per her sister there was some possible dietary
+   indiscretion in prepartion for her scheduled line replacement today.
+   Currently 5.8 down from 6.7 in ED.
+   - Hemodialysis today in ICU
+   - Renal following
+   - Replete lytes prn
+   - EKG on arrival to unit
+   - Continue Sevelamer & Cincalcet
+   2) Hematomas: Patient has hematomas etiology uncertain.  No fall or
+   syncopal history.  Could be uremia + hypertension.
+   - Ap[** Location **]te Neurosurgical reccomendations
+   - Repeat Head CT @ 9:30pm (12hours post original)
+   - q1 hour neuro checks
+   - Control BP with labetalol IV & PO
+   - Dilantin load complete- 100mg IV TID starting in AM with levels
+   daily.
+   - Hold ASA, anticoagulation
+   3) ESRD: Continue dialysis scheduled as above
+   - Renal consult
+   4) Diabetes Mellitus:
+   - Hold Starlix
+   - Lantus + RISS
+   5) Toxic multinodular goiter: Continue Methimazole 15mg home dose
+   6) Hyperlipidemia:  Continue atorvastatin
+   # FEN: replete 'lytes prn
+   # PPX: Teds/SCD, bowel regimen
+   # Code: FULL (confirmed)
+   # Dispo: ICU
+   # Communication: [**First Name8 (NamePattern2) **] [**Name (NI) **] SISTER/hcp [**Telephone/Fax (1) 1560**] CELL
+   [**Numeric Identifier 1561**]
+   ICU Care
+   Nutrition:
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   Tunneled (Hickman) Line - [**3117-2-6**] 03:54 PM
+   16 Gauge - [**3117-2-6**] 11:25 PM
+   Prophylaxis:
+   DVT: Boots(Systemic anticoagulation: None)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU

@@ -1,0 +1,163 @@
+TSICU
+   HPI:
+   65 M admitted to TSICU from PACU-East due to post-op fever spike to
+   104, tachycardia to 140s, and hypotension to 90s. Pt has a hx of
+   prostate ca s/p RRP and adjuvant XRT in [**2729**], recent difficulty with
+   radiation cystitis and hematuria. Today had removal of his suprapubic
+   tube and construction of urinary diversion- an ileal conduit.
+   Reportedly the procedure was without complication, and the patient went
+   to the PACU in good condition, EBL 150 cc intraop. Approx 4 hours
+   post-op, the pt's tachycardia increased to the 140s, BP dropped, and
+   fever spike as above. Abx were broaded to vanc/zosyn, crystalloid
+   bolused to total approx 6000cc from OR and PACU. Pt sent to TSICU for
+   further resuscitation and monitoring.
+   Chief complaint:
+   abd pain
+   PMHx:
+   HTN, hyperlipidemia, bicuspid aortic valve (no AS), DM 2, prostate ca
+   s/p RRP, radiation cystitis with recurrent hematuria
+   Current medications:
+   Simvastatin 20mg', Moexipril 15mg', Atenolol 25mg', colace, Oxybutynin
+   5mg''', Dilaudid 2mg prn, Metformin 1000mg'', Glipizide 15mg',
+   Nitrofurantoin 50mg'''' x 1 week (end [**4-8**]?)
+   24 Hour Events:
+   [**4-8**]: admitted to TSICU, LR x 2 liters, epidural split to bupiv in
+   epidural and dilaudid IV pca
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Piperacillin/Tazobactam (Zosyn) - [**2738-4-9**] 03:16 AM
+   Infusions:
+   Other ICU medications:
+   Hydromorphone (Dilaudid) - [**2738-4-9**] 12:34 AM
+   Famotidine (Pepcid) - [**2738-4-9**] 01:08 AM
+   Other medications:
+   Flowsheet Data as of  [**2738-4-9**] 07:12 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**40**] a.m.
+   Tmax: 38.1
+C (100.5
+   T current: 38.1
+C (100.5
+   HR: 107 (102 - 116) bpm
+   BP: 102/62(71) {94/50(59) - 113/76(85)} mmHg
+   RR: 11 (11 - 19) insp/min
+   SPO2: 98%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 70.4 kg (admission): 70.4 kg
+             Total In:
+                                                                  6,550 mL
+                                                                  2,567 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  6,550 mL
+                                                                  2,567 mL
+   Blood products:
+   Total out:
+                                                                  2,005 mL
+                                                                  1,610 mL
+   Urine:
+                                                                    200 mL
+                                                                  1,610 mL
+   NG:
+   Stool:
+   Drains:
+                                                                      5 mL
+   Balance:
+                                                                  4,545 mL
+                                                                    957 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SPO2: 98%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended, Tender: appropriate peri-incisional
+   tenderness
+   Left Extremities: (Temperature: Warm)
+   Right Extremities: (Temperature: Warm)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   388 K/uL
+   9.7 g/dL
+   175 mg/dL
+   0.7 mg/dL
+   26 mEq/L
+   4.5 mEq/L
+   7 mg/dL
+   105 mEq/L
+   140 mEq/L
+   28.8 %
+   16.8 K/uL
+        [image002.jpg]
+                             [**2738-4-9**]  12:47 AM
+   WBC
+   16.8
+   Hct
+   28.8
+   Plt
+   388
+   Creatinine
+   0.7
+   Glucose
+   175
+   Other labs: PT / PTT / INR:15.5/30.7/1.4, Lactic Acid:1.9 mmol/L,
+   Ca:7.8 mg/dL, Mg:1.9 mg/dL
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), HYPOTENSION (NOT SHOCK), FEVER
+   (HYPERTHERMIA, PYREXIA, NOT FEVER OF UNKNOWN ORIGIN), TACHYCARDIA,
+   OTHER
+   Assessment and Plan: 65 M s/p construction of ileal conduit, admitted
+   to ICU for post-op tachycardia, hypotension, fever, ? sepsis. Upon
+   arrival to the ICU, generally well appearing, mentating well, with
+   improved vitals.
+   Neurologic: A&0x3, has epidural in place for pain, currently adequately
+   controlled at level [**1-4**]. Pain: Continue epidural, f/u APS recs
+   Cardiovascular: Tachycardia resolving to low 100s, hypotension
+   improved, BPs now 105/60 with fluids; pt is clinically fluid
+   responsive. Will check lactate, labs, continue agressive crystalloid
+   resuscitation, repeat hct.
+   Pulmonary: stable, sp02 high 90s on 2 liters NC
+   Gastrointestinal / Abdomen: npo for now, NGT in place
+   Nutrition: NPO
+   Renal: f/u ileal conduit output, foley with bloody drainage- will leave
+   foley for now, though do not expect much output- bladder likely to clot
+   per urology
+   Hematology: Serial Hct
+   Endocrine: RISS
+   Infectious Disease: Check cultures, Empiric Vanco/Zosyn for sepsis
+   physiology, with urine/bacteremia as likely source. Prior infections
+   sensitive to vanc/zosyn. Follow cultures.
+   Lines / Tubes / Drains: Foley, Surgical drains (hemovac, JP), epidural
+   catheter for pain
+   Wounds:
+   Imaging:
+   Fluids: LR boluses for resuscitation, then will put on maintenance IVF
+   while npo
+   Consults: Urology
+   Billing Diagnosis: Post-op shock
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   18 Gauge - [**2738-4-8**] 10:38 PM
+   20 Gauge - [**2738-4-9**] 12:17 AM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 35 minutes
+   Patient is critically ill

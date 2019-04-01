@@ -1,0 +1,148 @@
+ICU ADMISSION NOTE:
+   [**Hospital Unit Name 4**] Resident Admission Note
+   .
+   Reason for MICU Admission: Acute Hypoxemic Respiratory Distress
+   .
+   Primary Care Physician:
+   .
+   CC: Fatigue
+   .
+   HPI: 62yo M h/o chronic gastric outlet obstruction [**3-14**] pancreatic CA
+   p/w 6-8 weeks LUQ abd pain and worsening nausea, decreased PO intake
+   and vomiting. Today the pt presented to CyberKnife Center for 1 of 3
+   planned fractions to pancreas. A CT abdomen revealed a gastric outlet
+   obstruction. The pt was tachyc and an O2 Sat was 77% on RA, placed on
+   4LO2NC with improvement to 96% and HR returned to low 90's. Pt reports
+   decreased po intake over the last couple of days and increased nausea.
+   He reports [**8-20**] pain to his left mid-abdomen which radiates through to
+   his back and up to his left shoulder and across to his right shoulder.
+   The pt was subsequently sent to the E.D.
+   .
+   In the ED, his vitals were 98.4 75 133/69 rr 16 98%, the pt received 2L
+   NS, Zofran 4mg, Morphine 2mg, Combivent Nebs, Solumedrol 125mg,
+   Cefepime 2gm, Protonix 40mg. A central line was placed following a
+   hypotensive episode to the 70s and the pt was started on levophed
+   0.06mcg. CVP was ~7. CXR revealed a large gastric bubble and an NGT was
+   placed revealing coffee ground emesis. Labs revealed a 4 point Hct
+   Drop. EKG  showed new biphasic TWs V1-2 although CEs 1st set neg. A CT
+   Torso was performed to r/o PE, dissection, infection. The pt received
+   Unasyn.
+   .
+   The pt was seen by both ERCP and Surgery that suggested the pt be kept
+   NPO overnight, with transfer to the MICU for likely duodenal stenting
+   in the AM for gastric outlet obstruction.
+   .
+   ROS: The patient denies any fevers, chills, weight change, nausea,
+   vomiting, abdominal pain, diarrhea, constipation, melena, hematochezia,
+   chest pain, shortness of breath, orthopnea, PND, lower extremity
+   oedema, cough, urinary frequency, urgency, dysuria, lightheadedness,
+   gait unsteadiness, focal weakness, vision changes, headache, rash or
+   skin changes.
+   .
+   Past Medical and Surgical History:
+   # pancreatic CA (dx [**4-18**] at ME Med)
+   # CAD s/p CABG '[**37**]
+   # s/p laser ablation of plaque '[**42**]
+   # s/p ex lap, CCY [**7-19**] (unable to do Whipple - ME Med)
+   # s/p chemoTx
+   # ?COPD (pt denies)
+   # s/p umbo hernia repair
+   # multiple back & shoulder surgeries
+   .
+   Medications:
+   AMITRIPTYLINE - 10mg PO Daily
+   CLONAZEPAM -  0.5 mg Tablet - PO BID
+   FENTANYL - 12mcg Patch
+   HYDROCODONE-ACETAMINOPHEN - 5mg-500mg Tablet - 2 Tabs TID
+   METFORMIN -  1,000 mg PO BID
+   METOPROLOL SUCCINATE (SR)- 50 mg PO BID
+   PREGABALIN  75 mg PO Daily
+   COMPAZINE - 10 mg PO Q8H PRN Take 30 minutes prior to CyberKnife
+   RANITIDINE HCL- 150 mg PO BID
+   .
+   Allergies:  Penicillins / Cipro
+   .
+   Social History: Lives in Brewer ME, No EtOH, + Tob abuse [**2-11**] ppdx40yrs.
+   .
+   Family Medical History:nc
+   .
+   Physical Exam:
+   Vitals:T. 98.3, BP 91/56, HR 74, RR 10 sat 94% on 6L
+   GEN: lying in bed, NAD, pale, thing
+   HEENT:perrla, EOMI, icteric, slightly dry MM,
+   neck: supple, No JVD, no LAD
+   chest: b/l ae +crackles to mid lung field
+   heart: s1s2 rrr 3/6 systolic flow murmur
+   abd: +bs, +RUQ CCY scar, soft, TTP LLQ, +hepatomegaly, no guarding or
+   rebound
+   ext: no c/c/e 2+pulses
+   neuro: aaox3, CN 2-12 intact, non-focal.
+   .
+   Laboratories: Initial Labs notable for:
+   WBC 12.8 -> 6.5 Hct 34.4 -> 29.7 Plt 183
+   134 / 92 / 29  280
+   ----------------
+   4.2 / 26 / 0.7
+   PT: 15.2  PTT: 31.1  INR: 1.3
+   ALT: 12 AP: 123  Alb: 3.3
+   AST: 11 Tbili: 0.6
+   Lactate:1.3
+   Trop-T: <0.01
+   .
+   ECG: NSR, Normal Axis, Inferior Q waves, New Inverted V2. Biphasic T
+   waves in V3-4.
+   .
+   CT Abdomen: (Wet-Read)
+   Widespread pulmonary ground glass opacities with broad differential
+   including infectious, drug reaction, edema, hemorrhage. Aspiration also
+   possible but not typical in distribution. New mediastinal
+   lymphadenopathy. Dialated stomach suggesting gastric outlet
+   obstruction. Recommend NGT placement.
+   .
+   Assesment: 62yo M h/o chronic gastric outlet obstruction [**3-14**] pancreatic
+   CA now presenting with Acute Respiratory Distress and hypotension.
+   .
+   # Acute Respiratory Distress: The pt now on 6L NC from a baseline of no
+   O2 in the setting of new ground glass opacities. DDx: includes
+   infection (Aspiration PNA, Atypical), inflamatory rxn (potentially
+   secondary to chemotherapy, edema, hemorrhage.
+   - Keep NG in place
+   - Abx to cover aspiration PNA, atypicals. Less likely PCP.
+   [**Name Initial (NameIs) 2541**]/Cefepime and Doxycylcine (given Cipro and Macrolide allergies)
+   - Nebs PRN
+   .
+   # Hypotension: Episode in ED to SBP in 70s. DDx: Intravascular
+   de[** Location **]n secondary to decreased PO, Unlikley Sepsis, Less likley GIB.
+   Pt placed on Levophed. NG tube placed without heme positive aspirate.
+   - Gentle IVF resuscitation
+   - Wean Levophed
+   .
+   # Gastric Outlet Obstruction: Likely the origin of LUQ abd pain and
+   worsening nausea and secondary to extrinsic compression from pancreatic
+   mass. NG placed and lavaged
+   - ERCP to place duodenal stent
+   - Holding off on Cyberknife treatment
+   .
+   # CAD: Pt presented with EKG changes in the setting of a hx of CAD and
+   Hct < 30. CEs Negative x1.
+   - Serial EKGs
+   - Consider transfuse to goal > 30
+   - r/o MI with CEs
+   .
+   #DM-On metformin at home.
+   - FS qid
+   - HISS
+   .
+   # FEN:NPO, IVF
+   .
+   # Access: RIJ
+   .
+   # PPx: H2, bowel reg, pneumoboots
+   .
+   # Code: Full
+   .
+   # Dispo: [**Hospital Unit Name 4**]
+   .
+   # Comm: with patient
+   Son [**Name (NI) 87**] [**Name (NI) 2542**] JR ([**Telephone/Fax (1) 2543**]
+   Wife 1-([**Telephone/Fax (1) 2544**]

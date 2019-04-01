@@ -1,0 +1,136 @@
+TITLE: admission note
+   MICU [**Location (un) 137**] Admit Note
+   .
+   Primary Care Physician:
+   .
+   Chief Complaint: shortness of breath, ICU transfer for unstable
+   respiratory status
+   .
+   History of Present Illness: 63M with Hx of COPD, recent hospital stay
+   for COPD exacerbation due to Influenza A viral (antigen+) [**Date range (1) 5925**],
+   returns with 2d worsening dyspnea, continued productive cough, and
+   subjective fevers at home. Patient was treated with prednisone 50 mg x
+   5 days, antibiotics x 5 days, and nebulized albuterol, tiotropium and
+   fluticasone. Patient improved within the first two days, with normal O2
+   Sats on room air, was discharged with two more days of
+   antibiotics (Azythromycin) and prednisone 50mg. Currently he reports...
+   In the ED: sats initially 80s on RA, up to mid 90s on 3L. CxR showing
+   new lobar PNA ceftriaxone, cefepime, vanco, nebs. Vitals: 102 107/55
+   93% 4L 20. Has had tenuous sat in ED and 3-4L NC, desatted on
+   nebulizer.  ABG okay, but working on NRB
+   .
+   .
+   On the floor, pt feel much better, satting 90% on 60% face mask,
+   changed to NRB.
+   ROS: 2 days of worsening SOB, tightness, and subjective fevers, no CP,
+   no dizziness, no n/v/ but some loose stools atributed to milk and
+   cereal.
+   .
+   Past Medical History:
+   - COPD: mild-moderate; FEV1 66% [** Location **]ted, FEV1/FVC 80%
+   [** Location **]ted
+   - Cauda equina syndrome: dx [**8-6**], s/p L2-laminectomy in [**11-5**],
+   with baseline BLE paresis, neuropathic pain, and neurogenic
+   bladder/bowel
+   - Abdominal pain / Dyspepsia
+   - H. pylori gastritis, s/p treatment; ?hiatal hernia on CXR
+   today
+   - Hyperthyroidism [**1-8**] [**Doctor Last Name **] disease s/p radioi-active iodine
+   ablation [**10/2767**], now on replacement therapy
+   - Erectile dysfunction
+   - h/o Pneumonia, [**2762**]
+   - L hip sebaceous cyst
+   - chronic groin pain, on Ultram
+   .
+   Medications:
+   1. Albuterol
+   2. Doxazosin 1 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime).
+   3. Fluticasone 110 mcg
+   4. Gabapentin 800 mg, PO Q4H
+   5. Omeprazole 20 mg Capsule
+   6. Levothyroxine 125 mcg
+   7. Tramadol 50 mg  PO DAILY (Daily).
+   8. Tiotropium Bromide 18 mcg Capsule, w/Inhalation
+   9. Calcium Carbonate 500 mg 3 times a day
+   10. Cholecalciferol (Vitamin D3) 400 unit [**Unit Number **] times a day
+   11. Multivitamin,Tx-Minerals
+   12. Cyanocobalamin  Oral
+   13. Pepcid  Oral
+   14. Prednisone 50 mg PO DAILY 2 days.
+   15. Azithromycin 250 mg Tablet PO Q24H for 2 days.
+   16. Ibuprofen 400 mg  PO Q8H as needed.
+   .
+   Allergies: Primidone
+   .
+   Social History:
+   60 pk-yr smoker, quit 5 yrs ago. Denies EtOH use, no IVDA. He is
+   divorced and lives alone in [**Location 83**]. He went on disability
+   after the surgery for the cauda equina syndrome. Semi-retired,
+   [** Location **]usly worked in administration for construction company.
+   Family History:
+   Denies any major family illnesses. Father died age [**Age over 90 **], mother
+   died age [**Age over 90 **]. Sister w/breast cancer. No premature heart disease
+   or other cancers.
+   .
+   Physical Exam:
+   Vitals: T: BP: 120/73 P: 102 R: 16 18 O2 99% NRB:
+   General: Alert, oriented, no acute distress
+   HEENT: Sclera anicteric, MMM, oropharynx clear
+   Neck: supple, JVP not elevated, no LAD
+   Lungs: good air movement, minimal posterior wheezes, and left lll
+   crackles,
+    CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+   gallops, distant
+   Abdomen:  soft, non-tender, non-distended, bowel sounds present, no
+   rebound tenderness or guarding, no organomegaly
+   Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema
+   .
+   Labs: see omr
+   .
+   .
+   Micro:see omr
+   .
+   Images:see omr
+   .
+   Assessment and Plan: This is a 63 yo with COPD, recent hospital stay
+   for Influenza A, returning with SOB and CxR showing new left sided PNA.
+   # SOB: combination of COPD exacerbation in the setting of viral and now
+   bacterial superinfection. good air movement, not tachypnic, not
+   retaining
+   - Abx for nosocomial pna
+   - f/u cultures
+   - Solumedrole 3 doses with quick taper of po prednisone afterwards
+   - droplet precaution as recent influenza and still symptomatic
+   - wean o2
+   - standing nebs
+   .
+   #. Hyperthyroidism - The patient had a history of Grave's
+   disease s/p radioactive iodine ablation.  Synthroid was
+   continued at home dose.
+   .
+   #. GERD / dyspepsia - The patient had a history of H Pylori
+   gastritis, s/p tx with ongoing symptoms. CXR showed large hiatal
+   hernia.  Home regimen of Protonix 20mg daily and Pepcid [**Hospital1 7**] was
+   continued.
+   .
+   #. Cauda equina syndrome - Symptoms were at baseline per
+   patient, with right foot drop requiring brace, which he brought
+   with him.  Gabapentin was continued at outpatient dose.
+   .
+   #. Chronic pain - Tramadol and ibuprofen PRN. High dose Gabapentin,
+   stabilized at home, but impressive dose. pt insists on continuation of
+   this dose. will cont for now, needs to be readressed on the floor and
+   as outpatient
+   .
+   # FEN: 1L NS IVF, replete electrolytes, regular diet
+   .
+   # Prophylaxis: Subcutaneous heparin
+   .
+   # Access: peripherals
+   .
+   # Code: full
+   .
+   # Communication: Patient
+   .
+   # Disposition: pending above
+   At 9pm, patient sating well 98% on 4L stable for floor, called out

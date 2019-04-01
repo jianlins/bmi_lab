@@ -1,0 +1,329 @@
+Chief Complaint:  transferred from [**Hospital **] [**Hospital 3634**] hospital with
+   respiratory failure [**3-3**] severe PNA,  s/p tracheostomy
+   HPI:
+   85 y/o M h/o CAD s/p CABG, dCHF, CRI, AFib on coumadin, CHB s/p pacer,
+   CLL transferred from [**Male First Name (un) 2172**] s/p tracheostomy for management of
+   respiratory failure and septic shock. According to reports he was in
+   St. [**Doctor Last Name 37**] with his wife where they live part of the year when he
+   suffered a fall.  Following that he had progressive dyspnea.  He
+   presented to the local hospital [**2570-7-31**] where he had a chest xray that
+   showed complete white out of the left lung.  He was seen by the
+   surgical consultant in the ED who performed a thoracotomy and chest
+   tube placement with a small amount of red blood.  CT scan was
+   reportedly suggestive of a hemothorax.  His VS at that time were T 97
+   BP 85/49 WBC 5.2 Hgb 8.6 PLT 106 PTT 28.2 INR 1.49  Na 136 K4.2 AST 22
+   ALT 32 CKMB 1.6 Trop <0.05  ABG 7.5 pCO2 32.7 PO2 63, BUN 25 creat
+   2.4.  Chest CT from [**2570-8-2**] reportedly with complete opacification of
+   the left lung with air bronchograms.  Findings suggestive of extensive
+   pneumonic consolidation vs malignancy.   According to physician notes
+   felt most likely to be hemothorax [**3-3**] pneumonia with supratheraputic
+   INR of 4.4.
+   .
+   He was subsequently transferred to a hospital in [**Male First Name (un) 2172**] on [**2570-8-1**]
+   for treatment by a pulmonologist.  He was treated with levophed,
+   imipenem/cilastin, vancomycin, Intropin?. He was mechanically
+   ventilated with settings CMV 50% 500 20 7.   During his course he had
+   bronchoscopy which showed LL atelctasis and pneumonia.  He had an Echo
+   [**2570-8-8**] which showed EF 60%, dilated left atrium, mild MR, trivial TR,
+   calcific aortic valve, severe LV diastolic dysfunction, no pericardial
+   effusion, no intracardiac thrombus.  On [**2570-8-14**] he had tracheostomy
+   given severity of underlying lung process.  Levophed was weaned
+   starting on [**2570-8-14**].  CXR from [**2570-8-16**] reportedly showed bilateral
+   perihilar and basal opacities with obscuration of the diaphragm and
+   costophrenic angles most likely pleural effusion.  On [**2570-8-17**] he was
+   transfused 10 units platelets.  Sputum CX from [**8-14**] with [**Female First Name (un) 176**]
+   albicans, urine culture from [**8-18**] with 10,000 [**Female First Name (un) 176**].  Blood culture
+   [**8-15**] with no growth.  Labs on [**8-16**] with Vanco T 29.6, [**8-18**] WBC 15.2 HCT
+   26.3 PLT 55, creatinine 1.4, BUN 85, Na 149, CL 129, CO2 19.
+   .
+   During his [**Hospital 3636**] transfer to [**Hospital1 52**] his V/S were stable with blood
+   pressure 112/46 - 135/69, uneventful per report.
+   Patient admitted from: Transfer from other hospital, [**Male First Name (un) 2172**]
+   History obtained from Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   Iodine
+   Hives; Rash;
+   Last dose of Antibiotics:
+   Vancomycin - [**2570-8-19**] 12:00 AM
+   Meropenem - [**2570-8-19**] 12:58 AM
+   Infusions:
+   Norepinephrine - 0.05 mcg/Kg/min
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2570-8-19**] 12:57 AM
+   Heparin Sodium (Prophylaxis) - [**2570-8-19**] 12:57 AM
+   Other medications:
+   Medications on Transfer:
+   Captopril 12.5mg TID
+   Imipenam/Cilastin 500mg Q8
+   levofloxacin 750mg q48
+   lorazepam 1mg q8
+   Meds on Transfer from [**Hospital **] hospital:
+   methylprednisolone 125mg [**Hospital1 **]
+   pantoprazole 40mg daily
+   vancomycin 1g IV qday
+   Home Meds:
+   MEDS:
+   amlodipine 2.5 mg daily
+   norvasc 7.5 mg daily
+   metoprolol 25 mg [**Hospital1 **]
+   spironolactone 25 mg daily
+   lasix 60 mg qAM, 20 mg qPM
+   coumadin 2.5 mg daily
+   ASA 81 mg daily
+   lipitor
+   flomax 0.4 mg daily
+   finasteride
+   zantac 150 mg [**Hospital1 **]
+   vit D 1000 U daily
+   FeSO4
+   B12 1000 mcg daily
+   citracel
+   dulcolax
+   MVI
+   Past medical history:
+   Family history:
+   Social History:
+   CAD s/p CABG [**2566**]
+   CHB s/p pacemaker
+   dCHF (EF 55% in [**6-6**])
+   AFib
+   Tachy-brady syndrome
+   CLL
+   CRI b/l Cr 1.5
+   Anemia b/l Hct 30-32%
+   HTN
+   COPD
+   Hyperlipidemia
+   s/p hernia repair
+   s/p tonsillectomy
+   BPH
+   NC
+   Occupation: retired
+   Drugs: denies
+   Tobacco: quit smoking 50 years ago
+   Alcohol: occasional
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**2570-8-19**] 02:36 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.5
+   Tcurrent: 35.7
+C (96.2
+   HR: 64 (64 - 86) bpm
+   BP: 108/48(62) {83/31(44) - 108/48(62)} mmHg
+   RR: 20 (18 - 23) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   CVP: 9 (9 - 9)mmHg
+   Total In:
+                                                                  1,605 mL
+                                                                  1,472 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,605 mL
+                                                                  1,472 mL
+   Blood products:
+   Total out:
+                                                                      5 mL
+                                                                     15 mL
+   Urine:
+                                                                      5 mL
+                                                                     15 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,600 mL
+                                                                  1,457 mL
+   Respiratory
+   AC 500/20/5/40%
+   Physical Examination
+   V/S T 97.5 HR 86 BP 94/45 RR 18 96% on AC 500/20/5/40% CVP 9
+   GEN: intubated, sedated
+   HEENT: PERRL, poor dentition; NGT
+   NECK: tracheostomy; R subclavian
+   CV: RRR nl S1S2 no m/r/g
+   PULM: asymmetric chest wall with sunken-appearing left hemithorax;
+   absent BS on left, coarse BS with scattered end-exp wheeze on right
+   ABD: soft, NTND +BS
+   EXT: warm, dry; DP pulses + with doppler; extensive bandages cover all
+   4 ext
+   SKIN: multiple areas of skin breakdown, friability, ecchymosis; 2 cm R
+   lateral arm ulceration
+   NEURO: withdraws to painful stimuli
+   Labs / Radiology
+   82 K/uL
+   9.6 g/dL
+   390 mg/dL
+   1.5 mg/dL
+   98 mg/dL
+   21 mEq/L
+   130 mEq/L
+   5.9 mEq/L
+   158 mEq/L
+   30.0 %
+   29.3 K/uL
+        [image002.jpg]
+                                  [**2568-2-1**]
+                          2:33 A7/19/[**2570**]  11:00 PM
+                                  [**2568-2-5**]
+                                   10:20 P
+                                  [**2568-2-6**]
+                                   1:20 P
+                                  [**2568-2-7**]
+                                   11:50 P
+                                  [**2568-2-8**]
+                                   1:20 A
+                                  [**2568-2-9**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2568-3-3**]
+                                   1:20 P
+                                  [**2568-3-3**]
+                                   11:20 P
+                                  [**2568-3-3**]
+                                   4:20 P
+   WBC
+                                    29.3
+   Hct
+                                    30.0
+   Plt
+                                     82
+   Cr
+                                     1.5
+   TropT
+                                    0.21
+   Glucose
+                                     390
+   Other labs: PT / PTT / INR:14.6/21.6/1.2, CK / CKMB /
+   Troponin-T:64/7/0.21, ALT / AST:[**1-13**], Alk Phos / T Bili:78/0.9,
+   Amylase / Lipase:41/22, Fibrinogen:187 mg/dL, Albumin:3.0 g/dL, LDH:292
+   IU/L, Ca++:8.1 mg/dL, Mg++:3.2 mg/dL, PO4:4.6 mg/dL
+   Assessment and Plan
+   85 y/o M h/o CAD s/p CABG, dCHF, CRI, AFib on coumadin, CHB s/p pacer,
+   CLL, s/p tracheostomy transferred for management of respiratory failure
+   and septic shock.
+   .
+   #Resp Failure - s/p tracheostomy; records incomplete but suspect
+   hypoxic resp failure in the setting of septic shock, airway collapse;
+   bronchoscopy revealed friable airways, bronchomalacia, mucous, old
+   blood; also consider cardiogenic shock in light of PMH but appears
+   intravascularly volume depleted with preserved LV fxn by echo and
+   fairly clear R lung field on CXR; also recurrent lymphoma or another
+   primary malignancy remains on DDx (had bloody tap [**6-6**])
+   -cont. full vent support AC 500/20/5; wean FiO2 to maintain sats>92%,
+   PO2 > 80
+   -repeat CXR in AM
+   -consider dx/tx thoracentesis if left lung field does not improve
+   -cycle CE's
+   -albuterol nebs PRN
+   .
+   #Septic shock - BP did not respond to 3L NS, levophed started, a-line
+   placed; presumed [**3-3**] PNA based on CXR, OSH records; bronch findings c/w
+   severe hemorrhagic aspiration PNA (does have bad dentition); also
+   consider line sepsis or translocation of skin flora; less likely GI/GU
+   source; was treated with high-dose steroids @ OSH then apparently
+   stopped abruptly, which may be contributing to HoTN
+   -LR boluses to maintain CVP 8-10
+   -titrate levophed to maintain MAP>65; holding antiHTN meds
+   -vanco/meropenem for broad empiric cov'g
+   -hydrocort 100 mg IV q8h
+   -follow DIC labs
+   -when stable, place new central line and d/c old line, send for Cx
+   -blood, urine, BAL GS/Cx pending
+   -dress skin wounds
+   .
+   #Hyperkalemia - unclear etiology; no EKG changes
+   -kayexelate 30 g x 1
+   .
+   #Hypernatremia - free H20 deficit ~ 3L; will correct [**1-31**] in 24 hrs
+   -D5W 1.5 L x 70 cc/hr x 24 hr.
+   .
+   #CAD - elev. troponin but MB WNL, no EKG changes, suspect demand in the
+   setting of poor CrCl
+   -trend CE's
+   -cont ASA
+   -systemic anticoagulation not indicated at this time
+   .
+   #AFib -
+   -holding B-blocker in the setting of HoTN
+   -holding coumadin as low level of likely dysfunctional platelets
+   .
+   #CHF
+   -holding diuretics, afterload reducers [**3-3**] HoTN
+   .
+   CKD - Cr @ b/l
+   -cont. to trend
+   .
+   #Anemia- at/near b/l; has had aranesp in the past; suspect
+   multifactorial (CLL, CKD, ACD, Fe/B12-deficiency); no s/sx bleeding
+   -T&S
+   -guaiac stools
+   -x-fuse for <24%
+   .
+   #Thrombocytopenia - appears chronic, but at high risk for DIC
+   -cont. to trend plts, fibrinogen, d-dimer
+   -x-fuse for s/sx bleeding or plts < 30
+   .
+   #CLL - leukocytosis likely in the setting of severe infection;
+   lymphocytosis is chronic,
+   -consider onc C/S re: cell counts, aranesp, possibility of
+   recurrence/new primary in lung
+   .
+   #Sedation
+   -fentanyl boluses PRN; may need versed gtt if agitated
+   .
+   #F/E/N
+   -correct free H20 deficit as above
+   -LR boluses if needs IVF since incr. Na, Cl
+   -nutrition recs re: TF
+   -RISS
+   .
+   #PPx - PPI, SQH, bowel regimen
+   .
+   #CONTACT - wife, son
+   .
+   #CODE STATUS - DNR per records, must confirm with wife and son
+   ICU [**Name (NI) **]
+   Nutrition: TF per nutrition recs
+   Glycemic Control: Regular insulin sliding scale
+   Lines:
+   Multi Lumen - [**2570-8-18**] 11:35 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP: HOB elevation
+   Communication: ICU consent signed
+   Code status: DNR (do not resuscitate)
+   Disposition: ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADMISSION NOTE ADDENDUM
+   Patient seen and case reviewed in detail with Dr [**Last Name (STitle) **], whose excellent
+   note reflects my thoughts. Briefly, Mr. [**Known patient lastname 3635**] is an 85M c CAD, CRI,
+   AF, CLL and chronic lung disease who is transferred from PR after a
+   long hospital course c/b PNA, resp failure and septic shock following a
+   fall. On arrival, hypotensive and in respiratory distress, bronch with
+   evidence of severe necrotic PNA and L lung collapse. Fluid resuscitated
+   and weaned off pressors overnight. Currently, intubated and sedated on
+   A/C vent 500x12 c 5 PEEP and FiO2 0.5 with SPB 110 and paced rhythm at
+   60 with occasional native beats. O/P dry, skin with diffuse weeping and
+   purpura. Decreased L BS with kyphosis and limited CW excursion. RRR
+   s1s2, abd soft, 3+ pitting edema. CXR minimally changed post bronch
+   with L whiteout. Labs notable for evolving NSTEMI and cr 1.5. Na 156,
+   WBC 30K.
+   A/P
+ 85M with multiple comorbidities and severe pneumonia. Will
+   continue broad spectrum abx, vent support, fluid and free water
+   resuscitation. Start HC 100 Q8 and change CVL ASAP. Echo and cards
+   eval, hold heparin for now. Above d/w wife, son and team in detail.
+   Patient is critically ill, total time 60 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**2570-8-19**] 08:23 ------

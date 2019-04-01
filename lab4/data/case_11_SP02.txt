@@ -1,0 +1,195 @@
+CVICU
+   HPI:
+   [**11-11**] POD 8
+   84F s/p CABG x3 (LIMA>LAD, SVG>OM, SVG>PDA), AVR (21mm porcine) [**11-3**] EF
+   30-35%
+   Chief complaint:
+   PMHx:
+   hypercholesterolemia, hypothyroidism, ?claudication
+   Current medications:
+   24 Hour Events:
+ NON-INVASIVE VENTILATION - START [**3457-11-10**] 06:30 PM
+   Post operative day:
+   24 hr events:
+   -on and off bipap
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Furosemide (Lasix) - 5 mg/hour
+   Other ICU medications:
+   Furosemide (Lasix) - [**3457-11-10**] 06:10 PM
+   Hydralazine - [**3457-11-11**] 05:09 AM
+   Heparin Sodium (Prophylaxis) - [**3457-11-11**] 11:41 AM
+   Pantoprazole (Protonix) - [**3457-11-11**] 11:42 AM
+   Other medications:
+   Flowsheet Data as of  [**3457-11-11**] 01:20 PM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**60**] a.m.
+   Tmax: 37.7
+C (99.8
+   T current: 37.6
+C (99.6
+   HR: 77 (64 - 100) bpm
+   BP: 127/46(72) {103/39(63) - 155/64(97)} mmHg
+   RR: 26 (19 - 42) insp/min
+   SPO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 91.6 kg (admission): 88.5 kg
+   Height: 64 Inch
+             Total In:
+                                                                  1,592 mL
+                                                                  1,251 mL
+   PO:
+             Tube feeding:
+                                                                    450 mL
+                                                                    808 mL
+   IV Fluid:
+                                                                    942 mL
+                                                                    353 mL
+   Blood products:
+   Total out:
+                                                                  4,210 mL
+                                                                  1,340 mL
+   Urine:
+                                                                  4,210 mL
+                                                                  1,340 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -2,618 mL
+                                                                    -89 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: Standby
+   Vt (Spontaneous): 305 (218 - 307) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 23
+   PEEP: 5 cmH2O
+   FiO2: 100%
+   PIP: 16 cmH2O
+   SPO2: 97%
+   ABG: 7.43/52/243/33/9
+   Ve: 7.2 L/min
+   PaO2 / FiO2: 486
+   Physical Examination
+   General Appearance: No acute distress, Overweight / Obese
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Diminished: bibasilar), (Sternum: Stable )
+   Abdominal: Soft, Non-distended, Non-tender, Bowel sounds present
+   Left Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Trace), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Skin: (Incision: Clean / Dry / Intact), stenal wound clean
+   Neurologic: (Awake / Alert / Oriented: x 2), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   196 K/uL
+   10.9 g/dL
+   135 mg/dL
+   0.8 mg/dL
+   33 mEq/L
+   3.7 mEq/L
+   24 mg/dL
+   101 mEq/L
+   143 mEq/L
+   32.5 %
+   8.3 K/uL
+        [image002.jpg]
+                            [**3457-11-10**]  03:31 AM
+                            [**3457-11-10**]  06:50 AM
+                            [**3457-11-10**]  08:44 AM
+                            [**3457-11-10**]  11:57 AM
+                            [**3457-11-10**]  04:43 PM
+                            [**3457-11-10**]  08:55 PM
+                            [**3457-11-11**]  03:20 AM
+                            [**3457-11-11**]  03:35 AM
+                            [**3457-11-11**]  06:25 AM
+                            [**3457-11-11**]  11:10 AM
+   WBC
+   8.3
+   Hct
+   32.5
+   Plt
+   196
+   Creatinine
+   0.8
+   TCO2
+   34
+   29
+   32
+   30
+   32
+   32
+   36
+   35
+   36
+   Glucose
+   72
+   67
+   135
+   Other labs: PT / PTT / INR:15.2/32.4/1.3, ALT / AST:20/73, Alk-Phos / T
+   bili:46/1.3, Amylase / Lipase:32/11, Fibrinogen:150 mg/dL, Lactic
+   Acid:1.0 mmol/L, Albumin:3.5 g/dL, LDH:412 IU/L, Ca:8.4 mg/dL, Mg:2.2
+   mg/dL, PO4:3.3 mg/dL
+   Assessment and Plan
+   BALANCE, IMPAIRED, AIRWAY CLEARANCE, IMPAIRED, AROUSAL, ATTENTION, AND
+   COGNITION, IMPAIRED, AEROBIC CAPACITY / ENDURANCE, IMPAIRED, KNOWLEDGE,
+   IMPAIRED, RESPIRATION / GAS EXCHANGE, IMPAIRED, TRANSFERS, IMPAIRED,
+   ANXIETY, [**Last Name 9**] PROBLEM - ENTER DESCRIPTION IN COMMENTS,
+   ATRIAL PREMATURE BEATS (APB, APC, PAC), HYPOTENSION (NOT SHOCK),
+   DELIRIUM / CONFUSION, HYPERGLYCEMIA, PAIN CONTROL (ACUTE PAIN, CHRONIC
+   PAIN), CORONARY ARTERY BYPASS GRAFT (CABG), ACIDOSIS, METABOLIC,
+   ACIDOSIS, MIXED
+   Assessment and Plan: [**11-11**] POD 8
+   84F s/p CABG x3 (LIMA>LAD, SVG>OM, SVG>PDA), AVR (21mm porcine) [**11-3**] EF
+   30-35%
+   Neurologic: Neuro checks Q: 4 hr, Pain controlled, -improving mental
+   status --> DC zyprexa
+   Cardiovascular: Aspirin, Beta-blocker, Statins, -Afib controlled on
+   amiodarone, incr b-blocker
+   -hemodynamically stable--> cont afterload reduction, incr ACEI dose
+   Pulmonary: IS, -resp distress overnight resolved --> likely cardiogenic
+   --> cont diuresis, incr ACEI
+   -encourage cough
+   -improved vent status --> cont oxygen mask, bipap prn, order CXR
+   -keep sp02 >92%
+   Gastrointestinal / Abdomen: no issues
+   Nutrition: may be overfeeding: decr TF rate; change to nutren pulm
+   Renal: Foley, Adequate UO, -contraction alkalosis --> change lasix to
+   intermittent dosing, start acetozolamide
+   Hematology: Serial Hct, -anemia stable
+   Endocrine: RISS, -euglycemic on riss
+   -cont levothyroxine
+   Infectious Disease: -afebrile, nl wbc --> no e/o infection
+   Lines / Tubes / Drains: Foley, Pacing wires
+   Wounds: Dry dressings
+   Imaging: CXR today
+   Fluids: KVO
+   Consults: CT surgery, P.T.
+   Billing Diagnosis: Arrhythmia, (Respiratory distress: Insufficiency /
+   Post-op), Post-op hypotension
+   ICU Care
+   Nutrition:
+   Replete with Fiber (Full) - [**3457-11-10**] 06:35 PM 70 mL/hour
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**3457-11-3**] 06:24 PM
+   Multi Lumen - [**3457-11-9**] 11:49 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: PPI
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: ICU
+   Total time spent: 31 minutes
+   Patient is critically ill

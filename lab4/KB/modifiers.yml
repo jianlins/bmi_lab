@@ -1,0 +1,137 @@
+Comments: ''
+Direction: backward
+Lex: Celsius
+Regex: ''
+Type: degree
+---
+Comments: ''
+Direction: backward
+Lex: C
+Regex: ''
+Type: degree
+---
+Comments: ''
+Direction: backward
+Lex: F
+Regex: ''
+Type: degree
+---
+Comments: ''
+Direction: backward
+Lex: degree
+Regex: ''
+Type: degree
+---
+Comments: ''
+Direction: forward
+Lex: Temp
+Regex: '\b[Tt](emp(erature)?|:)'
+Type: degree
+---
+Comments: ''
+Direction: forward
+Lex: Tm
+Regex: ''
+Type: degree
+---
+Comments: ''
+Direction: forward
+Lex: T
+Regex: ''
+Type: degree
+---
+Comments: ''
+Direction: forward
+Lex: febrile
+Regex: ''
+Type: degree
+---
+Comments: ''
+Direction: forward
+Lex: vs
+Regex: '\bVS:'
+Type: degree
+---
+Comments: ''
+Direction: terminate
+Lex: /
+Regex: ''
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: BP
+Regex: ''
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: term pulse
+Regex: ''
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: term hr
+Regex: ''
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: term rr
+Regex: ''
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: term %
+Regex: '%'
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: tmax
+Regex: ''
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: tcurrent
+Regex: ''
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: term temp
+Regex: '\b[Tt](emp(erature)?|:)'
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: term T
+Regex: '\bT\b'
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: Tm
+Regex: ''
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: Celsius
+Regex: ''
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: C
+Regex: ''
+Type: terminate
+---
+Comments: ''
+Direction: terminate
+Lex: F
+Regex: ''
+Type: terminate

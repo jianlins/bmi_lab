@@ -1,0 +1,205 @@
+Chief Complaint:  tachycardia
+   HPI:
+   62 yo male with history of renal cell carcinoma with mets and VP shunt
+   was admitted from his nursing home with tachycardia.
+   According to family, patient was found to have increased heart rate,
+   decreased blood pressure, and having "junky" sounding lungs. They were
+   then recommended to come to the hospital. Upon arrival to the ED, temp
+   97, HR 135, BP 98/71, RR 14, and pulse ox 96% RA. Upon arrival to the
+   ED, patient received 2.5-3L NS and 750mg IV levofloxacin x 1, 500mg IV
+   flagyl x 1, decadron 10mg IV x 1, cefepime 1g IV x 1.
+   Regarding his mental status, family reports that he has waxing and
+   [**Doctor Last Name 40**] mental status. At his best, patient will respond to questions;
+   however at his worst, patient looks like he is "sleeping with his eyes
+   open."
+   Patient did not answer any questions for me; however per nursing
+   reports, patient denies being in pain.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Family / Friend, Medical records
+   Patient unable to provide history: Unresponsive
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**2979-3-22**] 12:00 AM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   1. Metastatic Clear Cell Renal Cancer with metastases to brain and lung
+   - right radical nephrectomy and right lower lung wedge resection in
+   [**11-30**]
+   -  completed Tarceva/Avastin trial [**7-/2975**] --> [**2977-5-28**] --> started
+   Avastin alone.
+   - [**1-4**] increased lung nodules --> s/p 1 cycle IL-2
+   - [**1-4**] found to have brain metastases
+   - s/p:
+   1. Cyberknife SRS [**Date range (1) 1724**] to 2750 cGy brainstem
+   2. Cyberknife SRS [**2978-5-26**] to 1800 cGy left cerebellar met
+   3. WBXRT [**Date range (1) 1725**]/07 to 3600 cGy
+   4. Sutent started [**2978-7-28**]
+   - VP shunt placed on [**11-5**] for hydrocephalus seen secondary to
+   met in tectum.
+   2. Hypertension
+   3. Hyperlipidemia
+   4. History of aspiration pneumonia
+   5. Steroid induced hyperglycemia
+   Mother - alive in her 80s - history of CAD
+   Father - died at age 49 yo with MI
+   3 sisters, 2 brothers - healthy
+   Daughter and Son - healthy
+   Occupation: graduated from high school, now retired
+   Drugs: none
+   Tobacco: 20 PPY history, quit 15 years ago
+   Alcohol: none, history of social EtOH only
+   Other: patient is staying at skilled nursing facility, married
+   Review of systems:
+   Constitutional: Fatigue
+   Cardiovascular: Tachycardia
+   Respiratory: Cough
+   Neurologic: not responding to voice or noxious stimuli consistently
+   Flowsheet Data as of [**2979-3-22**] 01:14 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.3
+C (97.3
+   Tcurrent: 36.2
+C (97.1
+   HR: 110 (104 - 112) bpm
+   BP: 109/79(85) {86/60(66) - 109/79(85)} mmHg
+   RR: 13 (11 - 23) insp/min
+   SpO2: 93%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 71 Inch
+             Total In:
+                                                                  3,553 mL
+                                                                    210 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,053 mL
+                                                                    210 mL
+   Blood products:
+   Total out:
+                                                                    290 mL
+                                                                      0 mL
+   Urine:
+                                                                    290 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  3,263 mL
+                                                                    210 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   Physical Examination
+   General Appearance: No acute distress, lying in bed with eyes closed,
+   not answering questions
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL, Supraclavicular WNL
+   Cardiovascular: (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Not assessed), (Left DP pulse: Not assessed)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: No(t)
+   Wheezes : , Rhonchorous: bibasilar)
+   Abdominal: Soft, Non-tender, Bowel sounds present, PEG tube in place
+   without erythema, tenderness, or discharge
+   Extremities: Right: Absent, Left: Absent
+   Musculoskeletal: Muscle wasting
+   Skin:  Warm
+   Neurologic: Responds to: Unresponsive, Movement: Not assessed, Tone:
+   Normal, does not respond to verbal or noxious stimuli consistently;
+   unable to complete neurologic exam
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: [**2979-3-21**] - 12pm
+   Na 145 / K 4.6 / Cl 110 / CO2 23 / BUN 38 / Cr .7 / BG 181
+   CK 24 / MB not done / Trop T .03
+   Ca 9.6 / Mg 2.3 / Phos 2.9
+   WBC 10.1 / Hct 39.4 / Plt 173
+   N 78 / Bands 3 / L 7 / M 6 / E 0 / metas 4 / Myelo 2 / NRBCs 9
+   Lactate 3.4.
+   UA - mod blood, neg nit, 30 pr, tr gluc, neg ket, [**6-8**] RBCs, 0-2 WBCs,
+   few bacteria, no yeast, 0-2 epis
+   Imaging: - ECG [**2979-3-21**] - Sinus tachycardia
+   - Head CT - [**2979-3-21**] - Unchanged appearance of hyperdense right midbrain
+   mass lesion. The hyperdense appearance may represent internal
+   hemorrhage or progressive dystrophic calcification as described
+   before.  No additional intracranial hemorrhage is seen.; Ventricular
+   size has decreased from before.
+   - Shunt Series - [**2979-3-18**] -
+   1.  Moderate fecal loading with a large amount of stool within the
+   rectum.
+   2.  Retrocardiac opacity which may be secondary to atelectasis,
+   however, aspiration/consolidation cannot be excluded.
+   3.  No plain radiograph evidence of shunt malfunction.
+   - Echo - [**2976-6-28**] -
+   1. EV > 55%; 2. aortic root - mildly dilated.; 3. 1+ AR; 4. 1+ MR
+   Microbiology: [**2979-3-21**] - Blood Cx x 2 - pending
+   [**2979-3-21**] - Urine Cx - pending
+   No history of positive blood or urine cultures
+   ECG: - ECG [**2979-3-21**] - Sinus tachycardia
+   Assessment and Plan
+   62 yo male with history of metastatic renal cell carcinoma to brain and
+   lungs was admitted with tachycardia and increased cough.
+   PLAN:
+   1. Tachycardia
+   Patient with sinus tachycardia thought most likely secondary to
+   infection. Most likely etiology for infection is pulmonary source given
+   patient's decreased responsiveness and signs of pneumonia on CXR. Signs
+   against pneumonia however are lack of leukocytosis and lack of fever
+   (although may not mount an adequate response).  Additional source
+   includes urinary tract infection, although difficult to assess in
+   setting of traumatic and likely contaminated UA. Additional
+   differential includes hypovolemia, although no clear history of
+   decreased tube feeds, increased UOP, or increased stool. Blood
+   pressures currently stable with MAP > 65. Additional possibility to
+   consider includes PE. Given that patient is s/p right nephrectomy and
+   currently appears dry, would be hesitant to check CTA. Also, patient
+   would certainly be a poor anticoagulation candidate in the setting of
+   brain mets.
+   - follow-up blood and urine cultures
+   - send sputum gram stain and culture
+   - check urine legionella
+   - send DFA
+   - continue vancomycin, cefepime, and levofloxacin to cover
+   hospital-acquired pneumonia and specifically pathogens of MRSA,
+   Pseudomonas, and atypical
+   - IVF bolus prn
+   - chest PT
+   - suctioning as needed
+   - maintain 2 peripheral IVs
+   - wean O2 as tolerated
+   - check LENIs
+   - consider ordering VQ scan
+   2. Metastatic Renal Cell Ca
+   Per Dr.[**Name (NI) 1726**] note on [**2979-3-2**], patient is currently off of sutent
+   due to complications with bleeding. Systemic and neurologic disease
+   currently appears stable per outpatient neuro-onc and oncology notes,
+   and patient is to have follow-up scans as an outpatient.
+   - will defer to outpatient team
+   - will alert oncology and neuro-oncology teams to patient's admission
+   - continue steroids
+   - f/u with Dr. [**Last Name (STitle) 520**] regarding steroid taper
+   ICU Care
+   Nutrition:
+   Comments: NPO for now, consider restarting tube feeds in the AM
+   Glycemic Control:
+   Lines:
+   PICC Line - [**2979-3-21**] 06:38 PM
+   18 Gauge - [**2979-3-21**] 06:39 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: ICU consent signed Comments:
+   Code status: DNR / DNI
+   Disposition: ICU

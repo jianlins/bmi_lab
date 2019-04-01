@@ -1,0 +1,195 @@
+TSICU
+   HPI:
+   47 yo F s/p take down of prior Nissen fundoplication, [**Doctor Last Name 6509**]
+   myotomy, and partial fundoplication on [**5-19**], returning today in
+   transfer from an OSH with complaints of abdominal pain and
+   dyspnea. She was discharged to home on [**5-21**] after an unremarkable
+   hospital course. She was transferred from an OSH after she was
+   seen there with the complaints listed above. A CT scan was
+   performed there, which noted a possible PNA, no PE, as well as
+   free air and fluid in the upper abdomen that was concerning for a
+   leak versus normal postoperative changes. She had fevers 101 at home,
+   Had flatus, + Vomiting.
+   Chief complaint:
+   abdominal pain, respiratory insufficiency
+   PMHx:
+   GERD, COPD, Achalasia
+   Current medications:
+   1000 mL LR 2. Acetaminophen 3. Albuterol 0.083% Neb Soln 5. Bisacodyl
+   6. Calcium Gluconate 7. Docusate Sodium (Liquid) 8. Famotidine 9.
+   Furosemide 10. HYDROmorphone (Dilaudid) 11. Heparin 12. Insulin 13.
+   Ipratropium Bromide Neb 14. Ketorolac 15. Magnesium Sulfate 16.
+   Nicotine Patch 17. Ondansetron 18. Piperacillin-Tazobactam Na 19.
+   Potassium Chloride 21. Vancomycin
+   24 Hour Events:
+ ARTERIAL LINE - STOP [**2911-5-25**] 09:58 PM
+ ARTERIAL LINE - START [**2911-5-25**] 10:00 PM
+   Allergies:
+   Aspirin
+   Wheezing; swell
+   Last dose of Antibiotics:
+   Vancomycin - [**2911-5-25**] 07:32 PM
+   Piperacillin/Tazobactam (Zosyn) - [**2911-5-26**] 05:06 AM
+   Infusions:
+   Other ICU medications:
+   Furosemide (Lasix) - [**2911-5-25**] 03:07 PM
+   Famotidine (Pepcid) - [**2911-5-26**] 12:36 AM
+   Heparin Sodium (Prophylaxis) - [**2911-5-26**] 12:36 AM
+   Hydromorphone (Dilaudid) - [**2911-5-26**] 06:10 AM
+   Other medications:
+   Flowsheet Data as of  [**2911-5-26**] 07:03 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**13**] a.m.
+   Tmax: 37.6
+C (99.6
+   T current: 37.6
+C (99.6
+   HR: 107 (98 - 122) bpm
+   BP: 88/54(62) {88/54(62) - 88/54(62)} mmHg
+   RR: 23 (19 - 36) insp/min
+   SPO2: 91%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 53.2 kg (admission): 45.6 kg
+             Total In:
+                                                                    940 mL
+                                                                    285 mL
+   PO:
+                                                                    210 mL
+             Tube feeding:
+   IV Fluid:
+                                                                    730 mL
+                                                                    285 mL
+   Blood products:
+   Total out:
+                                                                  2,715 mL
+                                                                    645 mL
+   Urine:
+                                                                  2,715 mL
+                                                                    345 mL
+   NG:
+   Stool:
+   300 mL
+   Drains:
+   Balance:
+                                                                 -1,775 mL
+                                                                   -360 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   SPO2: 91%
+   ABG: 7.46/42/56/32/5
+   PaO2 / FiO2: 140
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Crackles :
+   bilateral bases, improved, Rhonchorous : bases)
+   Abdominal: Soft, Bowel sounds present, Distended, Tender: point tender
+   trocar sites
+   Left Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Right Extremities: (Edema: Absent), (Temperature: Warm), (Pulse -
+   Dorsalis pedis: Present)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities
+   Labs / Radiology
+   337 K/uL
+   9.4 g/dL
+   107 mg/dL
+   0.5 mg/dL
+   32 mEq/L
+   3.1 mEq/L
+   8 mg/dL
+   97 mEq/L
+   138 mEq/L
+   27.5 %
+   17.8 K/uL
+        [image002.jpg]
+                             [**2911-5-23**]  10:21 PM
+                             [**2911-5-24**]  01:29 AM
+                             [**2911-5-24**]  01:49 AM
+                             [**2911-5-24**]  05:37 AM
+                             [**2911-5-24**]  04:17 PM
+                             [**2911-5-25**]  02:01 AM
+                             [**2911-5-25**]  02:07 AM
+                             [**2911-5-25**]  02:36 AM
+                             [**2911-5-25**]  04:40 PM
+                             [**2911-5-26**]  03:09 AM
+   WBC
+   11.2
+   13.4
+   17.8
+   Hct
+   31.5
+   28.6
+   27.5
+   Plt
+   322
+   301
+   337
+   Creatinine
+   0.7
+   0.5
+   0.5
+   TCO2
+   28
+   29
+   37
+   28
+   36
+   36
+   31
+   Glucose
+   136
+   123
+   104
+   107
+   Other labs: PT / PTT / INR:13.3/28.4/1.1, Differential-Neuts:85.2 %,
+   Lymph:10.3 %, Mono:4.1 %, Eos:0.3 %, Albumin:2.8 g/dL, Ca:8.0 mg/dL,
+   Mg:2.0 mg/dL, PO4:4.2 mg/dL
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), RESPIRATORY FAILURE, ACUTE
+   (NOT ARDS/[**Doctor Last Name 73**])
+   Assessment and Plan: 47 yo F s/p [**Doctor Last Name 6509**] myotomy, redo fundoplication
+   s/p d/c ([**5-21**]). Now back w/ SOB, ? PNA vs. fluid overload.
+   Neurologic: Neuro checks Q: 4 hr, Dilaudid PRN severe pain; added
+   Ketorolac, goal decrease opiods to lessen ileus
+   Cardiovascular: HD stable, sinus tachycardia likely secondary to
+   hypoxemia. Per primary team, baseline SBPs are 80s-90s.
+   Pulmonary: Hx of COPD,  Respiratory status improved w/ Neb's, chest PT.
+   Cxr right basilar consolidation which likely represents combination of
+   effusion, atelectasis and possibly infection. Minimal left basilar
+   atelectasis. Cont gentle diuresis for pulmonary edema. Goal Sp02 around
+   90% given COPD.
+   Gastrointestinal / Abdomen: s/p [**Doctor Last Name 6509**] myotomy, redo fundoplication,
+   NPO and NO NG or OG tube per primary team, PE consistent w/ rebound and
+   tenderness. Ct scan OSH c/w Pneumoperitoneum and free fluid close the
+   left Liver [**Last Name (LF) **], [**First Name3 (LF) 74**] primary team c/w postop course changes
+   Nutrition: NPO for abdominal pain and nausea/vomiting yesterday
+   Renal: Foley, Adequate UO, Creatinine stable, Diurese as above with
+   small lasix dose.
+   Hematology: Post op anemia stable
+   Endocrine: RISS, BS<150
+   Infectious Disease: Sputum cultures contaminated, Afebrile, WBC
+   trending down 11 today, we will monitor closely. Continue course of
+   Zosyn and Vancomycin for ? post-op Pneumonia, likely to complete 7 day
+   course.
+   Lines / Tubes / Drains: PIV, foley, a-line
+   Fluids: KVO
+   Consults: General surgery
+   Billing Diagnosis: (Respiratory distress: Insufficiency / Post-op),
+   Post-op complication
+   ICU Care
+    Lines:
+   22 Gauge - [**2911-5-24**] 03:18 AM
+   Arterial Line - [**2911-5-25**] 10:00 PM
+   Prophylaxis:
+   DVT: Boots, SQ UF Heparin
+   Stress ulcer: H2 blocker
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor
+   Total time spent: 31 minutes

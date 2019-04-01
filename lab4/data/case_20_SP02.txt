@@ -1,0 +1,164 @@
+TSICU
+   HPI:
+   22M unrestrained backseat passenger in MVC (~30mph) vs. tree. +LOC,
+   EtOH intox. Admit exam intact except rt lateral nystagmus, resolved as
+   pt sober.
+   .
+   Injuries:
+   Small L temporal parenchymal hemorrhage/contusion
+   Scalp laceration (closed in ED)
+   C6-7 disc space widening suggestive of ligamentous injury
+   Chief complaint:
+   headache
+   PMHx:
+   none
+   Current medications:
+   1. 2. 1000 mL NS 3. 1000 mL LR 4. Acetaminophen 5. Bisacodyl 6.
+   HYDROmorphone (Dilaudid) 7. HYDROmorphone (Dilaudid)
+   8. HydrALAzine 9. Ondansetron 10. Pantoprazole 11. Phenytoin 12. Sodium
+   Chloride 0.9% Flush
+   24 Hour Events:
+   [**6-22**]: admitted to ICU for q1 hr neuro checks
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Hydromorphone (Dilaudid) - [**3072-6-22**] 08:13 PM
+   Pantoprazole (Protonix) - [**3072-6-22**] 09:00 PM
+   Dilantin - [**3072-6-23**] 03:48 AM
+   Other medications:
+   Flowsheet Data as of  [**3072-6-23**] 05:25 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**75**] a.m.
+   Tmax: 37.5
+C (99.5
+   T current: 37.3
+C (99.1
+   HR: 89 (82 - 98) bpm
+   BP: 121/56(72) {105/45(61) - 155/69(88)} mmHg
+   RR: 15 (11 - 23) insp/min
+   SPO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                    645 mL
+                                                                  1,499 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                    645 mL
+                                                                  1,499 mL
+   Blood products:
+   Total out:
+                                                                    950 mL
+                                                                    210 mL
+   Urine:
+   80 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -305 mL
+                                                                  1,289 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 96%
+   ABG: ///26/
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL, EOMI
+   Cardiovascular: (Rhythm: Regular) no murmur
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : ) no rales, rhonchi
+   Abdominal: Soft, Non-distended, non-tender, +bowel sounds
+   Left Extremities: (Temperature: Warm) no edema
+   Right Extremities: (Temperature: Warm) no edema
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities, no focal neuro
+   deficits. CN II-XII intact.  No narcotics or confounding injuries
+   have cleared his T/L/S spine
+ no tenderness, deformity or step-off.  I
+   have cleared his C-spine clinically
+ full flexion, extension,
+   rotation, and lateral bending with no tenderness, pain, deformity or
+   step-off
+   Labs / Radiology
+   252 K/uL
+   12.7 g/dL
+   80 mg/dL
+   0.8 mg/dL
+   26 mEq/L
+   4.2 mEq/L
+   17 mg/dL
+   103 mEq/L
+   141 mEq/L
+   36.8 %
+   11.7 K/uL
+        [image002.jpg]
+                             [**3072-6-23**]  01:24 AM
+   WBC
+   11.7
+   Hct
+   36.8
+   Plt
+   252
+   Creatinine
+   0.8
+   Glucose
+   80
+   Other labs: PT / PTT / INR:12.7/24.6/1.1, Ca:9.2 mg/dL, Mg:1.8 mg/dL,
+   PO4:4.5 mg/dL
+   Imaging: [**6-22**] CT head: 5 x 9 mm focus of hyperdensity at the left
+   temporal lobe, consistent with contusion, unchanged since 9:15 am.
+   [**6-22**] CT Sinus: No fx. Extensive sinus wall thickening and fluid in the
+   left maxillary sinus, likely from sinus disease.
+   [**6-23**] repeat head CT wet read: "No change."
+   [**6-22**] from OSH:
+   *CT head: No official read, given going to be repeated by NSG.
+   Unofficially, small L temporal contusion.
+   *CT A/P: R pubis abnormality, congenital versus old fx. No other acute
+   injuries.
+   *CT C-spine: C6-7 disc space widening, suggestive of ligamentous
+   injury.
+   Assessment and Plan
+   TRAUMA, S/P
+   Assessment and Plan: 22M s/p MVC with L temporal parenchymal contusion,
+   [** Location **]usly intoxicated, normal neuro exam.
+   Neurologic: Neuro checks Q: 2hr: normal since admit. Repeat HCT w/thin
+   cut of skull base shows no change, repeat HCT [**6-23**] at midnight shows no
+   change. Dilantin loaded
+ probably d/c after NSURG evaluation. Pain:
+   use NSAIDs prn. C/T/L/S spines now cleared.
+   Cardiovascular: HD stable, no current issues
+   Pulmonary: Sp02 high 90s room air. No issues.
+   Gastrointestinal / Abdomen: soft, NT, ND. Feed as tolerated.
+   Nutrition: ADAT today
+   Renal: normal Cr, lytes. HL IV.
+   Hematology: No issues.
+   Endocrine: RISS
+   Infectious Disease: no current issues
+   Lines / Tubes / Drains: foley, PIV
+   Wounds: Dry dressings, scalp lac repaired in ED
+   Imaging: CT scan head today
+ done
+ no change.
+   Fluids: NS at 75cc/hr while npo
+   Consults: Neuro surgery, Trauma surgery
+   Billing Diagnosis:  Intracerebral hemorrhage s/p trauma.
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   20 Gauge - [**3072-6-22**] 10:37 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: Not indicated
+   VAP bundle: HOB elevation, Mouth care
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , ICU
+   Code status: Full code
+   Disposition: Transfer to floor or home
+   Total time spent: 35 min.

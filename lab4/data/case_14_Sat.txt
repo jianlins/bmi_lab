@@ -1,0 +1,277 @@
+Chief Complaint:  Lower gastrointestinal bleed, hypoxia
+   HPI:
+   Ms. [**Known patient lastname 3905**] is a 71yo female with PMH significant for ESRD on HD,
+   respiratory failure, who presents from HD with BRBPR. Patient was at HD
+   earlier this morning and was noted to have 400cc BRBPR. She was also
+   hypotensive and HD was stopped. Her blood pressure was 118/80 before
+   her BP dropped. It is unclear what her BP or how much fluid was removed
+   at this time. Per NH records, she had quaiac positive BM last night.
+   While in transport to the ED, she sounded extremely congested per EMS
+   reports.
+   In the ED, initial vitals were T 97.1 BP 80/70 AR 80 RR 24 O2 sat 70%
+   on 50% flowmask. She was placed on 95% high flow mask and her oxygen
+   saturation increased to 99%. She was noted to have thick, creamy
+   looking secretions. Given improvement in her O2 sat, the FIO2 was
+   decreased to 0.50. She received Protonix 80mg IV and 1L NS bolus. She
+   was then transferred to the MICU for further management.
+   Home medications: Combivent MDI, Aluminum hydroxide gel, Aspirin 81mg
+   PO daily, Chlorhexidine gluconate, Vitamin B-12 monthly, Colace 100mg
+   PO BID, Flonase, folate, heparin SQ [**Hospital1 **],  Levothyroxine, Lidocaine
+   patch, Nystatin , Omeprazole 20mg PO BID, Oxycodone 2.5mg 3x.week.
+   History obtained from Medical records
+   Patient unable to provide history: Difficulties with communication
+   Allergies:
+   Proxy[**Name (NI) 3906**]
+   Unknown;
+   Caffeine
+   Unknown;
+   Butalbital
+   Unknown;
+   Barbiturates
+   Unknown;
+   Xanthines
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   1)ESRD on HD of unclear etiology.
+   2)Respiratory failure s/p trach in [**12-27**], vent dependent until  [**11-27**]
+   when she was successfully weaned
+   3)COPD
+   4)Chronic pleural effusions
+   5)Recurrent aspiration PNA
+   6)PVD, s/p R CEA, s/p bilateral iliac stents and gangrene of  toes
+   bilaterally and autoamputating
+   7)HTN
+   8)Hypothyroidism
+   9)h/o GI bleeding
+   10)CHF no [** Location **]us echo here, so unclear [**Name2 (NI) 281**]
+   11)h/o Cholesterol emboli syndrome
+   12)Paroxysmal AF
+   13)Anemia
+   14)s/p multiple embolic CVA
+   [**37**])Dementia
+   16)Adenocarcinoma of the colon s/p resection in [**3428**]
+   17)hx of C.diff colitis
+   18)Sepsis [**1-22**] to PNA d/c'd from MICU [**3431-5-11**]
+   Her parents lived until old age. One brother died of an MI in his 60s.
+   Another brother with schizophrenia. Son with hypothyroidism.
+   Occupation: Unemployed
+   Drugs: N/A
+   Tobacco: Quit years ago
+   Alcohol: None
+   Other:
+   Review of systems:
+   Cardiovascular: Hypotension
+   Respiratory: Dyspnea
+   Gastrointestinal: BRBPR
+   Flowsheet Data as of [**3431-7-27**] 01:57 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Chief Complaint:
+   HPI:
+   Allergies:
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other:
+   Review of systems:
+   Flowsheet Data as of
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Respiratory
+   Physical Examination
+   Labs / Radiology
+        [image002.jpg]
+                                  [**3428-12-22**]
+                                   2:33 A
+                                  [**3428-12-26**]
+                                   10:20 P
+                                  [**3428-12-27**]
+                                   1:20 P
+                                  [**3428-12-28**]
+                                   11:50 P
+                                  [**3428-12-29**]
+                                   1:20 A
+                                  [**3428-12-30**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3429-1-22**]
+                                   1:20 P
+                                  [**3429-1-22**]
+                                   11:20 P
+                                  [**3429-1-22**]
+                                   4:20 P
+   WBC
+   Hct
+   Plt
+   Cr
+   TropT
+   TC02
+   Glucose
+   Imaging:
+   Microbiology:
+   ECG:
+   Assessment and Plan
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Communication:  Comments:
+   Code status:
+   Disposition:
+   Tcurrent: 35.4  (95.8 )
+   HR: 84 () bpm
+   BP: 133/67
+   RR: 20 ()
+   SpO2: 89
+   Total In:
+   PO:
+   TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   O2 Delivery Device: Trach mask  70% O2
+   Physical Examination
+   General Appearance: Anxious, responds to verbal commands
+   Eyes / Conjunctiva: PERRL, Anicteric sclera
+   Lymphatic: Cervical WNL
+   Cardiovascular: RRR, distant heart sounds, no m,r,g
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Diminished), (Left DP pulse:
+   Diminished)
+   Respiratory / Chest: (Breath Sounds: Crackles : , Diminished: ), CTA
+   anteriorly, scattered crackles anteriorly and posteriorly
+   Abdomen: Soft, NT/ND, +BS; PEG tube in place
+   Extremities: Right: Absent, Left: Absent, Clubbing, Gangrenous toes
+   with evidence of auto-amputation
+   Skin:  Not assessed, No rashes
+   Neurologic: Follows simple commands, Responds to: Verbal stimuli,
+   Movement: Not assessed, Tone: Not assessed
+   Labs / Radiology
+        [image002.jpg]
+   Assessment and Plan:  Ms. [**Known patient lastname 3905**] is a 71yo female with PMH significant
+   for ESRD on HD, anemia, respiratory failure s/p tracheostomy who is
+   being transferred to the MICU for LGIB.
+   1)LGIB: Patient presents with approximately 400cc of BRBPR at HD. Per
+   her PMH, she has a history of GI bleeding but no additional information
+   is know at this time. Differential for LGIB includes hemmoroids,
+   diverticuliosis, angiodysplasia, colitis (infectious, ischemia, IBD,
+   and neoplasm. No report of fevers, chills, or diarrhea to suggest an
+   infectious colitis or IBD. Also, IBD would be unusual to present for
+   the first time in a 71yo woman. She has no prior history of CAD to
+   suggest ischemic colitis. Most likely diverticulitis vs. hemorrhoids.
+   Per OMR, she has not had a colonoscopy here. Her baseline Hct is
+   between 25-30 but her Hct on admission today of 35.5. Her INR and PTT
+   are elevated today.  She is on Aspirin as an outpatient but is not on
+   any anti-coagulation (in light of history of atrial fibrillation).
+   - Hct [**Hospital1 **]
+   - 2 PIVs in place
+   - GI consult; consider colonoscopy
+   - Hold ASA
+   - Active type and screen
+   - Transfuse if Hct<25
+   - If PTT remains significantly elevated, consider Protamine
+   2)Hypotension:  Patient was noted to be hypotensive with SBPs in 80
+   possibly lower at dialysis. Unclear how much fluid was removed at
+   dialysis. She also had 400cc of BRBPR which may be accounting for her
+   transient hypotension.  She received 1L NS in the ED and her BP quickly
+   stabilized and remains at baseline. No fevers or chills to suggest an
+   underlying infectious process.  Lactate was elevated to 3.9 but this
+   was in the setting of renal failure.
+   - Monitor on telemetry
+   - f/u blood cultures
+   - Repeat lactate
+   3)Respiratory: Patient has history of respiratory failure s/p
+   tracheostomy and was successfully weaned in [**11-27**]. Patient was acutely
+   hypoxic with O2 saturation between 50-70%. She was also noted to have
+   increased secretions; she likely mucous plugged given acute
+   desaturation. Her Upon transfer to the MICU, her respiratory status
+   stabilized.  She is currently on 50% trachmask.  No evidence of a
+   pneumonia on cxray.
+   - Check ABG
+   - Sputum cx
+   - Continue albuterol and atrovent nebs
+   4)Coagulopathy: Patient presents with elevated INR and PTT. She is not
+   on any anti-coagulation or blood thinners as outpatient. These labs may
+   have been draw via a line that was flushed with heparin. This may also
+   be due to heparin SQ she has been receiving at home.
+   - Repeat coags
+   5)ESRD on HD: Patient underwent dialysis today but prematurely stopped
+   in the setting of BRBPR. Her BP during this time dropped and remained
+   below baseline upon transfer to the ED.
+   - Consult renal to let her know that she is here
+   - Follow daily electrolytes
+   6)COPD:  Continue Atrovent and Albuterol
+   7)Anemia: Baseline Hct between 25-30. Hct on admission was 35, which is
+   slightly elevated from baseline.  She receives Epogen at HD.
+   - Hct [**Hospital1 **]
+   - Trend daily Hct
+   8)Hypothyroidism: Continue outpatient Levoxyl.
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Prophylaxis:
+   DVT:  Hold heparin for now given GI bleed and elevated PTT
+   Stress ulcer:  No PPI necessary
+   VAP:  N/A
+   Comments:
+   Communication:  Comments:
+   Code status:  Chemical code ; no shocks or compressions
+   Disposition:  Remain in MICU
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 71F ESRD on HD, colon cancer, COPD /
+   aspiration c/b T+G [**11-27**] p/w BRBPR at HD with drop in SBP to 80s. Desat
+   in ED to 70% requiring aggressive suctioning, now c SPB 110 and sat 99%
+   on 40% TM.
+   Exam notable for Tm 96.8 BP 110/62 HR 78 RR 18 with sat 99% on 40%TM.
+   Trach with thick secretions, clear lungs without rales, RRR s1s2 [**1-26**] SM
+   at base. G-tube intact, no abd tend, stasis changes. Labs notable for
+   WBC 10K, HCT 31%.
+   Agree with plan to consult GI re bowel prep, continue to monitor serial
+   HCT, maintain IV access and BBS, keeping HCT >25%. Would consider RBC
+   scan / angio for brisk bleeding, otherwise hope to prep for colonoscopy
+   in AM. Will hold HSC and recheck PTT given PTT >150. Will check ABG now
+   and cx sputum; remainder of plan as outlined above.
+   Patient is critically ill.
+   Total time: 70 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**3431-7-27**] 05:23 PM ------

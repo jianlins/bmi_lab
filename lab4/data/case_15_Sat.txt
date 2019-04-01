@@ -1,0 +1,266 @@
+Chief Complaint: Found down
+   24 Hour Events:
+   Tube feeds started
+   HD catheter placed at bedside, right femoral, required TPA
+   HD performed, 2.9L out
+   Residuals high, patient aspirated. 700cc suctioned
+ INVASIVE VENTILATION - START [**3414-8-9**] 12:00 PM
+ ARTERIAL LINE - START [**3414-8-9**] 12:34 PM
+ MULTI LUMEN - START [**3414-8-9**] 12:40 PM
+ DIALYSIS CATHETER - START [**3414-8-9**] 04:52 PM
+ BLOOD CULTURED - At [**3414-8-10**] 05:11 AM
+   1set periferal, 1set from A-line and from RIJ
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Propofol - 40 mcg/Kg/min
+   Other ICU medications:
+   Fentanyl - [**3414-8-10**] 03:03 AM
+   Lorazepam (Ativan) - [**3414-8-10**] 04:00 AM
+   Other medications:
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**3414-8-10**] 06:18 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.6
+C (99.7
+   Tcurrent: 37.6
+C (99.7
+   HR: 108 (98 - 117) bpm
+   BP: 145/76(97) {126/74(93) - 178/94(120)} mmHg
+   RR: 25 (12 - 25) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 70 Inch
+    CVP: 16 (0 - 20)mmHg
+   Total In:
+                                                                 13,777 mL
+                                                                    778 mL
+   PO:
+   TF:
+                                                                    198 mL
+                                                                     42 mL
+   IVF:
+                                                                    369 mL
+                                                                    207 mL
+   Blood products:
+   Total out:
+                                                                  3,634 mL
+                                                                  3,700 mL
+   Urine:
+                                                                    759 mL
+                                                                    100 mL
+   NG:
+                                                                    700 mL
+   Stool:
+   Drains:
+                                                                    875 mL
+   Balance:
+                                                                 10,143 mL
+                                                                 -2,922 mL
+   Respiratory support
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 881 (676 - 908) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 15
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   RSBI: 22
+   PIP: 12 cmH2O
+   SpO2: 99%
+   ABG: 7.30/30/110/13/-9
+   Ve: 14.6 L/min
+   PaO2 / FiO2: 275
+   Physical Examination
+   General: Sedated, intubated, not following commands
+   HEENT: Improved facial edema and erythema
+   Cardiovascular: Regular rate, no murmurs, rubs or gallops
+   Lugns: diffuse Ronchi anteriorly
+   Peripheral Vascular: (Right radial pulse: 2+), (Left radial pulse: 2+),
+   (Right DP pulse: 2+), (Left DP pulse: 2+)
+   Skin:  Warm, dry
+   Abdomen: Firm, non tender, hyperactive bowel sounds.
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   71 K/uL
+   13.2 g/dL
+   134 mg/dL
+   7.1 mg/dL
+   13 mEq/L
+   5.1 mEq/L
+   61 mg/dL
+   119 mEq/L
+   145 mEq/L
+   38.3 %
+   11.7 K/uL
+        [image002.jpg]
+                             [**3414-8-9**]  12:42 AM
+                             [**3414-8-9**]  05:41 AM
+                             [**3414-8-9**]  06:00 AM
+                             [**3414-8-9**]  10:38 AM
+                             [**3414-8-9**]  10:40 AM
+                             [**3414-8-9**]  04:34 PM
+                             [**3414-8-9**]  09:44 PM
+                             [**3414-8-9**]  09:50 PM
+                             [**3414-8-10**]  03:16 AM
+                             [**3414-8-10**]  03:29 AM
+   WBC
+   10.3
+   11.7
+   Hct
+   37.6
+   38.3
+   Plt
+   90
+   71
+   Cr
+   6.2
+   6.3
+   6.8
+   7.1
+   7.1
+   TropT
+   1.02
+   1.10
+   TCO2
+   15
+   13
+   13
+   12
+   15
+   Glucose
+   116
+   125
+   111
+   107
+   134
+   Other labs: PT / PTT / INR:14.3/139.6/1.2, CK / CKMB /
+   Troponin-T:[**Numeric Identifier 3889**]/40/1.10, ALT / AST:1128/472, Alk Phos / T Bili:80/1.4,
+   Differential-Neuts:92.8 %, Band:0.0 %, Lymph:4.1 %, Mono:2.6 %, Eos:0.5
+   %, Fibrinogen:377 mg/dL, Lactic Acid:1.5 mmol/L, Albumin:2.1 g/dL,
+   LDH:1139 IU/L, Ca++:7.3 mg/dL, Mg++:2.0 mg/dL, PO4:6.0 mg/dL
+   Assessment and Plan
+   Mr. [**Known patient lastname 738**] is a 50M with a history of polysubstance abuse who is
+   presenting with altered mental status after being found down by family
+   members.
+   #. Hypertension / Tachycardia: Concerning for acute alcohol withdrawal
+   given history of alchol abuse, in addition to emesis and diaphoresis
+   -- IV Valium boluse 15mg x 1
+   -- Midazolam for sedation, stop propofol
+   -- Would not mask hypertension until withdrawal appropiately treated
+   -- Avoid beta blockers in setting of amphetamine use
+   -- If BP meds needed, would favor peripheral CCB as this would also
+   help with CNS vasospasm
+   #. Coma: Multifactorial; MRI from OSH showing multiple embolic strokes,
+   polysubstance abuse, (including ETOH, IV heroin, crack/cocaine),
+   possible withdrawal, history of hepatic encephalopathy, now with uremia
+   and critical illness.
+   -- Concern for endocarditis with septic emboli given IVDU.
+   -- Intubated for airway protection
+   -- withdrawal prophylaxis as above
+   -- On Lactulose for possible hepatic encephalopathy contribution
+   -- Continue to treat metabolic derrangements
+   #. Strokes: Distribution concerning for embolic phenomena with embolic
+   shower
+   -- No heparin drip at this time
+   -- f/u neuro recs
+   #. Rhabdomyolysis: CK ~40,000 at presentation. Complicated by ARF,
+   Improving after agressive hydration and dialysis
+   -- Monitor CKs
+   -- Continue agressive dialysis
+   #. Infection: Several sources are of concern
+   A) Bacteremia: GPC's in blood cultures, also sputum
+   -- Continue vancomycin
+   -- Follow levels, dose qHD
+   -- F/U Cultures
+   B) Aspiration pneumonia: Patient had witnessed aspiration event today.
+   -- Add Unasyn for gram negative coverage
+   -- F/U CXR
+   C) Sinusitis: Patient with NG tube and recent severe facial edema
+   -- Vanc and Unasyn as above
+   D) Urinary track infection: GPC in urine also
+   -- Vanc and Unasyn should cover as well.
+   -- D/C Cipro for concerns of angioedema.
+   #. Acute renal failure: Started on dialysis, anticipate frequent
+   treatments
+   -- F/U Renal recs
+   #. Facial Edema: Concerning for angioedema
+   -- D/C Cipro
+   -- Continue Dialysis as above, suspect edema was secondary to gross
+   overload from agressive hydration for rhabdo
+   #. Liver failure: Unclear contribution of muscle breakdown to
+   ALT/AST/LDH. Suspect element of shock liver as well
+   -- Continue to trend LFT's
+   #. Coagulopathy: Likely secondary to liver disfunction
+   -- FFP for active bleeding
+   -- Would consider ddAVP also, although dose already given.
+   #. Left upper extremity compartment syndrome: Now POD 3 S/p fasciotomy
+   in the OR.
+   -- Vac dressing in place
+   -- F/U Ortho recs
+   #. ETOH withdrawal: See above
+   #. Intubation: for airway protection, no known respiratory failure.
+   -- Continue mechanical ventillation for now
+   -- Unclear extent of neurologic impairment at this time
+   #. NSTEMI: Troponin of 1.1 today, up from 1.02 yesterday but down from
+   peak of 1.92 shortly after admission
+   -- Likely from coronary spasm [**2-5**] cocaine intoxication
+   -- Would consider aspirin
+   -- Patient coagulopathic now
+   -- Liver failure now and rhabdomyolisis, statin contraindicated
+   -- Follow serial ECG's
+   -- Would stop trending enzymes unless ECG changes are seen.
+   #. Positive UTI: GPC, for now continue vanc
+   FEN: NPO for now
+   .
+   PPX:
+   -DVT ppx: SC Heparin
+   -VAP ppx: mouth care, HOB elevation, IV H2 blocker
+   .
+   ACCESS: RIJ, A line, PIV
+   .
+   CODE STATUS: Presumed full
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Arterial Line - [**3414-8-9**] 12:34 PM
+   Multi Lumen - [**3414-8-9**] 12:40 PM
+   20 Gauge - [**3414-8-9**] 12:46 PM
+   Dialysis Catheter - [**3414-8-9**] 04:52 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP: HOB elevation, Mouth care
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   ------ Protected Section ------
+   MICU ATTENDING ADDENDUM
+   I saw and examined the patient, and was physically present with the ICU
+   team for the key portions of the services provided. I agree with the
+   note above, including the assessment and plan. I would emphasize and
+   add the following points: 50M polysubstance OD c/b rhabdo, ARF, LUE
+   compartment syndrome, bacteremia, shock liver and respiratory failurein
+   the setting of massive volume resuscitation.
+   Exam notable for Tm 99.7 BP 130/70 HR 110-120 RR 12 with sat 99% on PSV
+   [**5-9**]. Decreased edema, distant BS with scattered wheeze, RRRs1s2. Abd
+   distended, [**Month (only) 36**] BS. 3+ edema, VAC c/d/i. Labs notable for WBC 11K, HCT
+   38%, Cr 7.1, CK 10K, AST 1000.
+   Agree with plan to continue aggressive fluid removal with HD,
+   transition to standing benzos given risk of EtOH withdrawal, change NGT
+   to OGT and broaden ABX to vanco / unasyn. Will increase PEEP to 10
+   given derecruitment from edema and check IAP with bladder pressure.
+   Will d/w neuro re MRI/A. Remainder of plan as outlined above.
+   Patient is critically ill.
+   Total time: 40 minutes.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**3414-8-10**] 05:31 PM ------

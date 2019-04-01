@@ -1,0 +1,311 @@
+Chief Complaint:  hypotension
+   HPI:
+   86 yo male with history of atrial fibrillation, s/p pacemaker placement
+   on [**3261-3-31**], and known AAA was admitted from the ED with cellulitis and
+   hypotension.
+   Patient reports that on the morning of admission he woke up to urinate
+   but was unable to stand up. He was then brought in by ambulance to the
+   [**Hospital1 329**] ED. ROS was notable for the following: increased left lower
+   extremity swelling, erythema, and tenderness x 3 weeks for which he has
+   been taking increased doses of lasix. Reivew of systems was otherwise
+   unremarkable. Denies feeling lightheaded, dizzy, SOB, chest pain, loss
+   of consciousness, diarrhea, dysuria, nausea, or vomiting.
+   .
+   Patient initially presented to [**Hospital1 329**] with temp 100, BP 78/50. HR
+   and pulse ox not documented. He was started on peripheral dopamine,
+   received broad spectrum antibiotics with ceftriaxone 1 g IV x 1
+   andvancomycin 1g IV x 1, and received approximately 3.5-4L NS. He was
+   then transferred to [**Hospital1 17**] ED, where upon arrival temp 98.3, HR 60s, BP
+   114/64, RR 18, and 100% on 4L NC. He had a central line placed and was
+   started on levophed.
+   Patient admitted from: [**Hospital1 17**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Home Medications:
+   1. Lasix 100mg qAM / 8qPM
+   2. Multivitamin daily
+   3. Terazosin 4mg PO qPM
+   4. Primidone 250mg PO qAM / 125mg PO qPM
+   5. Calcium Carbonate 1000mg PO daily
+   6. Timolol ou gtt .25% 1 drop each eye
+   7. Testim 1% daily
+   8. Vitamin B12 1000mg PO daily
+   9. Vitamin D 50,000mg twice weekly
+   10. Tylenol prn
+   11. Claritin prn
+   12. Fosamax 70mg PO q weekly
+   13. Mysoline 250mg PO qAM / 125mg PO qPM
+   14. Aspirin 81mg PO daily
+   15. Enbrel 50mg PO q weekly
+   Past medical history:
+   Family history:
+   Social History:
+   1. Atrial Fibrillation
+   2. Rheumatoid Arthritis
+   3. Hypertension
+   4. Tremor
+   5. Glaucoma
+   6. Abdominal Aortic Aneurysm
+   7. Anemia
+   8. Edema
+   9. Prostate Cancer
+   10. Chronic Renal Insufficiency
+   11. Radiation Proctitis
+   12. Osteoarthritis
+   PAST SURGICAL HISTORY:
+   1. s/p hemorrhoidectomy
+   2. s/p left inguinal hernia 20 years ago
+   3. s/p R inguinal hernia repair
+   4. s/p right knee surgeries x2
+   5. s/p pacemaker placement [**3261-3-31**]
+   Father - died of MI at 62.
+   Mother - died at 91 of bowel ischemia.
+   Occupation: retired FBI [**Doctor Last Name **] and executive at Hertz Corporation
+   Drugs: Denies
+   Tobacco: quit smoking approximately 50 years ago with a 15-20 PPY
+   history
+   Alcohol: Denies
+   Other: lives with wife and daughter in [**Name (NI) 239**]
+   Review of systems:
+   Constitutional: Fatigue
+   Musculoskeletal: Red, swollen left lower extremity x 3 weeks
+   Integumentary (skin): Rash
+   Flowsheet Data as of [**3261-4-24**] 05:40 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.9
+C (100.3
+   Tcurrent: 37.9
+C (100.3
+   HR: 79 (76 - 80) bpm
+   BP: 102/54(65) {88/45(60) - 117/69(75)} mmHg
+   RR: 19 (18 - 22) insp/min
+   SpO2: 97%
+   Heart rhythm: AF (Atrial Fibrillation)
+   Height: 74 Inch
+   CVP: 13 (11 - 15)mmHg
+   CO/CI (Fick): (14.8 L/min) / (7.2 L/min/m2)
+   SvO2: 84%
+   Total In:
+                                                                  1,085 mL
+   PO:
+   TF:
+   IVF:
+                                                                  1,085 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    150 mL
+   Urine:
+                                                                    150 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    935 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 97%
+   ABG: ///23/
+   Physical Examination
+   General Appearance: Well nourished, No acute distress
+   Eyes / Conjunctiva: PERRL, Conjunctiva pale
+   Head, Ears, Nose, Throat: Normocephalic
+   Lymphatic: Cervical WNL, Supraclavicular WNL, Cervical adenopathy
+   Cardiovascular: (S1: Normal), (S2: Normal), irregular
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Diminished)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: Clear : )
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right: Trace, Left: 2+, left lower extremity - erythema
+   and edema to just inferior to knee with tenderness to deep palpation;
+   slightly decreased ROM of left ankle but intact left DP/PT pulses
+   Skin:  Not assessed
+   Neurologic: Attentive, Responds to: Not assessed, Oriented (to):
+   person, place, and time, Movement: Purposeful, Tone: Normal
+   Labs / Radiology
+   65 K/uL
+   10.0 g/dL
+   71 mg/dL
+   2.5 mg/dL
+   64 mg/dL
+   23 mEq/L
+   94 mEq/L
+   4.0 mEq/L
+   130 mEq/L
+   31.5 %
+   2.2 K/uL
+        [image002.jpg]
+                                  [**3259-2-3**]
+                          2:33 A3/23/[**3261**]  10:45 AM
+                                  [**3259-2-7**]
+                         10:20 P3/23/[**3261**]  01:41 PM
+                                  [**3259-2-8**]
+                                   1:20 P
+                                  [**3259-2-9**]
+                                   11:50 P
+                                  [**3259-2-10**]
+                                   1:20 A
+                                  [**3259-2-11**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3259-3-6**]
+                                   1:20 P
+                                  [**3259-3-6**]
+                                   11:20 P
+                                  [**3259-3-6**]
+                                   4:20 P
+   WBC
+                                     2.2
+   Hct
+                                    29.0
+                                    31.5
+   Plt
+                                     65
+   Cr
+                                     2.4
+                                     2.5
+   Glucose
+                                     75
+                                     71
+   Other labs: ALT / AST:57/107, Alk Phos / T Bili:76/1.0,
+   Differential-Neuts:32.0 %, Band:18.0 %, Lymph:41.0 %, Mono:8.0 %,
+   Eos:1.0 %, Lactic Acid:2.4 mmol/L, Albumin:2.6 g/dL, LDH:195 IU/L,
+   Ca++:7.3 mg/dL, Mg++:1.8 mg/dL, PO4:3.4 mg/dL
+   Fluid analysis / Other labs: OSH LABS: - 5am
+   INR 1.9 / PTT 34.3
+   pH 7.48 / PCO2 36 / POs 82 / O2 sat 97%
+   WBC 2.7 / Hb 9.7 / Hct 27.2 / Plt 62
+   N 53 / L 32 / M 15 / E .1 / B .3
+   UA - small bili, trace ketones, 1.015, negative blood, pH 5.5, 100
+   protein, negative nitrite, negative LE, 0-2 RBCs, 2-5 WBCs,
+   innumberable bacteria
+   Lactate 3.3
+   Na 129 / K 3.9 / Cl 90 / CO2 27 / BUN 66 / Cr 2.9
+   Ca 7.4 / Alb 2 / TP 5.9 / TB .98 / Alk Phos 90 / ALT 50 / AST 67
+   OSH Labs: 8:30am
+   Na 131 / K 4.1 / Cl 94 / CO2 25 / BUN 65 / Cr 2.7 / BG 87
+   Ca 7.9 / Mg 1.8 / Phos 3.5
+   ALT 63 / AST 108 / Alk Phos 90 / Lipase 12 / Alb 3
+   Cortisol 40
+   CRP 213
+   WBC 2.8 / Hct 34.7 / Plt 68
+   N 39 / Bands 28 / L 28 / M 5 / E 0
+   INR 2.1
+   UA 1.017, [**4-6**] RBCs, 3-5 WBCs, moderate bacteria, 30 protein, neg glu,
+   tr ketones, no yeast, 0-2 epis
+   Lactate 2.7
+   .
+   10:45am
+   Na 131 / K 3.8 / Cl 94 / CO2 24 / BUN 64 / Cr 2.4 / BG 75
+   WBC 2.2 / hct 29 / Plt 54
+   N 32 / B 18 / L 41 / M 8 / E 1 / Bas 0
+   Lactate 2.3
+   Baseline Cr 1.6-2
+   Baseline WBC 1.5-2.5
+   Baseline Hct 22-27
+   Baseline Plt 50-70
+   Imaging: [**3261-4-24**] - Left LE US - No evidence of left lower extremity
+   DVT.
+   [**3261-4-24**] - CXR - Standard placement of right internal jugular central
+   venous line without pneumothorax.
+   [**3261-3-31**] - Echo - EF > 55% with mild AS (1.2-1.9 [**Location (un) 330**]), 1+ AR, 3+ TR,
+   borderline dilated LV with preserved global/regional systolic function,
+   dilated RV with mild globa systolic dysfunction. mild pulmonary HTN
+   Microbiology: [**3261-4-24**] - [**Hospital1 17**] - Blood Cx - pending
+   [**3261-4-24**] - [**Hospital1 17**] - Urine Cx - pending
+   [**3261-4-24**] - [**Hospital1 7**] [**Location (un) 239**] - Urine Cx - pending
+   [**3261-4-24**] - [**Hospital1 7**] [**Location (un) 239**] - Blood Cx x 2 - pending
+   ECG: [**3261-4-24**] - AV paced with occasional PVCs
+   Assessment and Plan
+   ASSESSMENT:
+   86 yo male with history of recent pacemaker placement on [**3261-3-31**] for
+   complete heart block, atrial fibrillation, and hypertension was
+   admitted with fever and hypotension concerning for severe sepsis.
+   PLAN:
+   1. Sepsis
+   Patient with evidence of severe sepsis given bandemia, hypotension, and
+   acute on chronic renal failure. Source of infection includes most
+   likely cellulitis but additional possibilities include urinary tract
+   given innumerable bacteria. Pulmonary source appears unlikely in the
+   setting of adequate O2 sat with minimal O2 supplementation. Pacer
+   pocket without signs of inflammation.
+   - follow-up blood and urine cultures
+   - start vancomycin and ceftriaxone for broad spectrum coverage and
+   concern for MRSA
+   - maintain MAP > 65 with goal CVP of [**11-13**]
+   - wean pressors as tolerated
+   - follow-up final read of CXR
+   - monitor pacer pocket and access lines closely for signs of infection
+   2. Acute on Chronic Renal Insufficiency
+   Patient with creatinine elevated from baseline, appears most likely
+   secondary to pre-renal in the setting of hypotension and creatinine has
+   already begun to improve with hydration and pressor support.
+   - send urine lytes
+   - consider checking renal US if creatinine doesn't continue to improve
+   with improved BPs
+   3. Cellulitis
+   Left lower extremity with increased erythema, edema, tenderness to
+   palpation; although patient has intact neurologic exam and no evidence
+   of clear effusion of left ankle. LE US was negative for DVT.  Per
+   patient report, has not taken any further antibiotics for this and was
+   only taking increased lasix dosing.
+   - start vancomycin for concern for MRSA given recent hospitalization
+   and recent pacemaker placement
+   - follow-up blood cultures
+   4. Coagulopathy
+   Patient with elevated INR of unclear etiology. Differential includes
+   most likely nutritional.
+   - give 5 PO Vitamin K
+   5. Rheumatoid Arthritis
+   Stable
+   - continue Enbrel per outpatient
+   6. Hypertension
+   Patient with a history of hypertension but now clearly with hypotension
+   likely in the setting of infection.
+   - holding ant-HTN in the setting of severe sepsis
+   - hold lasix
+   7. Glaucoma
+   Stable
+   - continue eye drops
+   8. BPH
+   History of BPH in the past and on terazosin as an outpatient.
+   - hold terazosin in the setting of hypotension
+   9. Pancytopenia
+   Patient with a history of pancytopenia and possibly with a diagnosis of
+   myelodysplastic syndrome. All counts appear within range of recent
+   hospitalization.
+   - obtain further information from PCP
+   [**Name Initial (PRE) **] continue B12
+   10. Osteoporosis
+   Stable
+   - continue fosamax, calcium, and Vitamin D
+   11. Tremor
+   Stable
+   - continue Primidone per outpatient regimen
+   ICU Care
+   Nutrition:
+   Comments: Regular diet
+   Glycemic Control:
+   Lines:
+   18 Gauge - [**3261-4-24**] 11:35 AM
+   Multi Lumen - [**3261-4-24**] 11:36 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:  Patient, Wife [**Name (NI) 331**] [**Name (NI) 332**] [**Telephone/Fax (1) 333**],
+   PCP [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) 334**] [**Name (STitle) 335**]
+   Code status: Full code
+   Disposition: ICU

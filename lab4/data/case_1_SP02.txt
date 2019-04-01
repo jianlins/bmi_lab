@@ -1,0 +1,168 @@
+SICU
+   HPI:
+   83 yo man found by family on [**2-28**] unable to speak and with right sided
+   weakness.  Imaging at OSH revealed large bleed so he was intubated and
+   given Mannitol 100gm IV, then transfered to [**Hospital1 5**] ED where CT of head
+   revealed extensive left hemis[** Location **] parenchymal hemorrhage w/ edema,
+   mass effect and 5mm right shift of mildline.  Scant medical records
+   available from OSH.  In ED he was continued on mannitol, no
+   neurosurgical intervention.  Now with dense right hemiparesis, some
+   movement of left arm.  Cranial nerves intact, pinpoint pupils.  Pt
+   admitted to SICU for observation and further care.  No collateral
+   information available.
+   Chief complaint:
+   PMHx:
+   Alzheimers, GERD, BPH
+   Current medications:
+   gtt: fentanyl
+   meds: tylenol prn, artificial tears
+   24 Hour Events:
+   Allergies:
+   Morphine
+   Unknown;
+   Demerol (Oral) (Meperidine Hcl)
+   Unknown;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2605-3-2**] 10:32 PM
+   Infusions:
+   Fentanyl - 100 mcg/hour
+   Other ICU medications:
+   Other medications:
+   Flowsheet Data as of  [**2605-3-5**] 06:15 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**08**] a.m.
+   Tmax: 37.1
+C (98.7
+   T current: 36.8
+C (98.3
+   HR: 72 (63 - 72) bpm
+   BP: 147/63(84) {100/42(55) - 165/76(99)} mmHg
+   RR: 11 (9 - 18) insp/min
+   SPO2: 90%
+   Heart rhythm: SR (Sinus Rhythm)
+   Wgt (current): 82.8 kg (admission): 82.8 kg
+   Height: 72 Inch
+             Total In:
+                                                                  2,640 mL
+                                                                    670 mL
+   PO:
+             Tube feeding:
+   IV Fluid:
+                                                                  2,640 mL
+                                                                    670 mL
+   Blood products:
+   Total out:
+                                                                    880 mL
+                                                                    315 mL
+   Urine:
+                                                                    880 mL
+                                                                    315 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,760 mL
+                                                                    355 mL
+   Respiratory support
+   O2 Delivery Device: None
+   SPO2: 90%
+   ABG: ////
+   Physical Examination
+   General Appearance: appears comfortable
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+   Rhonchorous : )
+   Abdominal: Soft
+   Left Extremities: (Edema: Absent)
+   Right Extremities: (Edema: Absent)
+   Neurologic: (Awake / Alert / Oriented: x 1), (Responds to: Tactile
+   stimuli), Moves all extremities
+   Labs / Radiology
+   200 K/uL
+   11.2 g/dL
+   116 mg/dL
+   0.7 mg/dL
+   24 mEq/L
+   3.5 mEq/L
+   14 mg/dL
+   110 mEq/L
+   143 mEq/L
+   33.1 %
+   10.6 K/uL
+        [image002.jpg]
+                             [**2605-2-28**]  11:00 PM
+                             [**2605-3-1**]  03:02 AM
+                             [**2605-3-1**]  03:16 AM
+                             [**2605-3-2**]  02:19 AM
+                             [**2605-3-2**]  02:26 AM
+                             [**2605-3-3**]  02:40 AM
+                             [**2605-3-3**]  03:20 AM
+   WBC
+   19.0
+   13.7
+   10.6
+   Hct
+   36.0
+   36.0
+   33.1
+   Plt
+   233
+   215
+   200
+   Creatinine
+   0.9
+   0.8
+   0.7
+   Troponin T
+   <0.01
+   TCO2
+   28
+   27
+   25
+   26
+   Glucose
+   167
+   137
+   122
+   116
+   Other labs: PT / PTT / INR:13.0/30.2/1.1, CK / CK-MB / Troponin
+   T:92//<0.01, Lactic Acid:1.0 mmol/L, Ca:8.4 mg/dL, Mg:1.8 mg/dL,
+   PO4:2.0 mg/dL
+   Assessment and Plan
+   COMFORT CARE ([**Year (4 digits) 110**], COMFORT MEASURES), INTRACEREBRAL HEMORRHAGE (ICH)
+   Assessment and Plan:
+   Neurologic: Neuro checks Q: 4 hr, large ICH with mass effect - pt [**Name (NI) 110**],
+   no further mannitol/diuresis.
+   Cardiovascular:
+   Pulmonary: extubated, maintain Sp02 mid-90s on room air.
+   Gastrointestinal / Abdomen:
+   Nutrition: NPO
+   Renal: Foley, foley for comfort.
+   Hematology: No labs for [**Name (NI) 110**].
+   Endocrine: no fingersticks.
+   Infectious Disease:
+   Lines / Tubes / Drains: Foley
+   Wounds: none
+   Imaging: none
+   Fluids: NS, NS @ 100ml/hr
+   Consults: Neuro surgery, Neurology
+   Billing Diagnosis: (Hemorrhage, NOS), (Respiratory distress), Other:
+   intracranial bleed
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   Multi Lumen - [**2605-3-1**] 01:07 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer:
+   VAP bundle:
+   Comments:
+   Communication: Family meeting planning, Family meeting held  Comments:
+   Code status: Comfort measures only
+   Disposition: ICU
+   Total time spent: 32

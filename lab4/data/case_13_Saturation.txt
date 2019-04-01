@@ -1,0 +1,170 @@
+Date of service: [**3333-12-9**]
+   Initial visit, Cardiology service: CCU
+   Presenting complaint: Dyspnea, Edema
+   History of present illness: Mr. [**Known patient lastname 3780**] is a 74-year-old man with
+   idiopathic dilated cardiomyopathy, VT on amioderone, who was initially
+   admitted for VT and ICD firings, s/p battery change and attempted
+   ablation, who was sent from the CCU to the floor on [**3333-12-4**] but is now
+   being transferred back to the CCU with worsening edema, dyspnea, and
+   renal failure.
+   The patient was euvolemic when he was transferred to the floor.
+   However, for the past few days he has been oliguric with rising
+   creatinine to 4.2. Urine lytes were consistent with prerenal azotemia.
+   He received NS boluses, but urine output was still low. Diuretics were
+   held. On [**3333-12-9**] he became more dyspneic, albeit with O2 saturation in
+   the high 90s on room air, and persistently oliguric despite more NS
+   boluses. His lung exam revealed worsening bibasilar crackles and cold,
+   edematous lower extremities. Due to his worsening clinical status, he
+   was transferred back to the CCU.
+   Past medical history: Idiopathic cardiomyopathy, NYHA class III
+   mod-severe MR
+   mild AS
+   VT
+   bilateral knee OA s/p R knee replacement in [**3331**]
+   gout
+   dyslipidemia
+   CAD Risk Factors
+   CAD Risk Factors Present
+   Dyslipidemia
+   CAD Risk Factors Absent
+   Diabetes mellitus, Hypertension, Family Hx of CAD, Family Hx of sudden
+   cardiac death
+   (Tobacco: No)
+   Cardiovascular Procedural History
+   Pacemaker / ICD
+   There is no history of:
+   PCI
+   CABG
+   Allergies:
+   Codeine
+   Unknown;
+   Demerol (Oral) (Meperidine Hcl)
+   Unknown;
+   Current medications: Piperacillin-Tazobactam Na 2.25 g IV Q8H
+   MetRONIDAZOLE (FLagyl) 500 mg IV Q8H
+   Vancomycin 1000 mg IV X1 Duration: 1 Doses
+   Lorazepam 0.5 mg PO BID:PRN anxiety
+   Amiodarone 400 mg PO DAILY
+   Mexiletine 150 mg PO Q8H
+   Carvedilol 6.25 mg PO BID
+   Simethicone 40-80 mg PO QID:PRN
+   Ondansetron 4 mg IV Q8H:PRN
+   Acetaminophen 650 mg PO/PR Q6H:PRN
+   Atorvastatin 40 mg PO DAILY
+   Heparin 5000 UNIT SC TID
+   Docusate Sodium (Liquid) 100 mg PO BID
+   Senna 1 TAB PO BID:PRN
+   Bisacodyl 10 mg PO/PR DAILY:PRN
+   Cardiovascular ROS
+   Cardiovascular ROS Signs and Symptoms Present
+   Murmur, SOB, Edema
+   Cardiovascular ROS Signs and Symptoms Absent
+   Rheumatic fever, Chest pain, DOE, Palpitations, Pulmonary embolism,
+   DVT, Claudication, Exertional buttock pain, Exertional calf pain
+   Physical Exam
+   Date and time of exam: [**3333-12-9**]
+   General appearance: Elderly man, uncomfortable, oriented x 3
+   Vital signs: per other:
+   BP right arm:
+   100 / 53 mmHg
+   T current: 35.8 C
+   HR: 75 bpm
+   RR: 34 insp/min
+   O2 sat: 97 %  on Room air
+   Ears, Nose, Mouth and Throat: (Oral mucosa: Abnormal, dry), (Teeth,
+   gums and palette: WNL)
+   Neck: (Jugular veins: JVP, 9 cm)
+   Back / Musculoskeletal: (Chest wall structure: WNL)
+   Respiratory: (Effort: Abnormal, slightly labored breathing),
+   (Auscultation: Abnormal, bibasilar crackles)
+   Cardiac: (Rhythm: Regular), (Palpation / PMI: WNL), (Auscultation: S1:
+   WNL, S2: wnl), (Murmur / Rub: Present), (Auscultation details: [**1-8**]
+   systolic murmur loudest at apex)
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Bruits: No),
+   (Pulsatile mass: No), (Hepatosplenomegaly: No)
+   Genitourinary: (WNL)
+   Extremities / Musculoskeletal: (Edema: Right: 2+, Left: 2+), (Extremity
+   details: cold and clammy)
+   Labs
+   Outside / other labs:
+    138 | 103 | 63
+   -----------------< 85
+   4.7 | 13   | 4.2
+   22.6 > 37.4 < 92 (86%N, 7%L, 6.6%M, no bands)
+   ABG (11 am, [**12-9**]): 7.47/24/85
+   lactate 3.2
+   Tests
+   Echocardiogram: (Date: [**3333-11-28**]), The left atrium is moderately
+   dilated. Left ventricular wall thicknesses are normal. The left
+   ventricular cavity is severely dilated with severe regional systolic
+   dysfunction including akinesis of the inferolateral and anterolateral
+   walls. Overall LVEF is ~25%. No masses or thrombi are seen in the left
+   ventricle. [Intrinsic left ventricular systolic function is likely more
+   depressed given the severity of valvular regurgitation.] The right
+   ventricular cavity is mildly dilated with moderate global free wall
+   hypokinesis. The aortic valve leaflets (3) are mildly thickened but
+   aortic stenosis is not present. Moderate (2+) aortic regurgitation is
+   seen. The mitral valve leaflets are mildly thickened. The effective
+   regurgitant orifice is >=0.40cm2. Severe (4+) mitral regurgitation is
+   seen. The tricuspid valve leaflets are mildly thickened. There is no
+   pericardial effusion.
+   Assessment and Plan
+   Mr. [**Known patient lastname 3780**] is a 74-year-old man with idiopathic dilated
+   cardiomyopathy, VT on amiodarone, who was initially admitted for VT and
+   ICD firings, s/p battery change and attempted ablation, who was sent
+   from the CCU to the floor on [**3333-12-4**] but is now being transferred back
+   to the CCU with worsening edema, dyspnea, and renal failure.
+   # PUMP: history of chronic systolic heart failure. Evidence of
+   hypovolemia in the past few days with urine lytes consistent with
+   prerenal azotemia. Lung exam reveals slightly worse bibasilar crackles,
+   but patient still has high oxygen saturation on room air; hence, likely
+   with minimal pulmorary edema. Extremities are cold and clammy,
+   concerning for cardiogenic shock. However, worsening leukocytosis with
+   a left shift and thrombocytopenia are concering for septic shock as
+   well.
+   - a-line
+   - IVF boluses as needed
+   - dopamine despite stable BP in order to increase forward flow
+   - monitor I/O closely
+   - compression stockings for peripheral edema
+   # RHYTHM: history of VT with ICD  and on amio and mexilitine currently
+   - continue amio and mexilitine
+   # CORONARIES: no chest pain. No active issue.
+   # Dyspnea: with stable O2 sat on room air. Bibasilar crackles on lung
+   exam. Recent pneumonia might have not been completely treated.
+   - monitor O2 sat closely
+   - if desating, consider furosemide and, if necessary, intubation
+   - repeat CXR
+   - empiric vanco and pip-tazo again
+   # Renal failure: Cr has been rising to 4.2 today. Urine lytes so far
+   have been consistent with prerenal azotemia, likely from hypovolemia.
+   Renal ultrasound on [**3333-12-8**] was unrevealing. Labs reveal anion-gap
+   metabolic acidosis, due to ?renal failure, sepsis,
+   - f/u renal recs
+   - IVF boluses as needed
+   - monitor renal labs closely
+   - avoid nephrotoxins
+   - renally dose all medications
+   # Leukocytosis: WBC [**Numeric Identifier 3781**] with left shift. No fever. No diarrhea.
+   Concurrent thrombocytopenia is suggestive of a consumption process
+   secondary to an infection. WBC started to rise after discontinuation of
+   vancomycin and pip-tazo on [**3333-12-5**], both of which were given for
+   bilateral pneumonia. Elevated lactate is also consistent with an
+   infectious process.
+   - pan-culture
+   - empiric vancomycin, pip-tazo, and metronidazole, the last of which is
+   for C. diff
+   - repeat C. diff toxin
+   # Thrombocytopenia: plts in the 300s on admission, 92 today. Likely
+   from an infectious process. Has been on heparin SC since admission on
+   [**3333-11-25**]. 4T pre-test score is 4 (2 points each for amplitude of
+   platelet drop and for timing). No sign of active bleeding.
+   - stop heparin SC
+   - send PF-4
+   - send DIC labs
+   - monitor CBC closely
+   # Code: FULL
+   # Access: PIV, a-line
+   - will likely need CVL
+   # Dispo: ICU care for now
+   # Ppx: pneumoboots

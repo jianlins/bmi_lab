@@ -1,0 +1,235 @@
+Chief Complaint:  ?Septic joint
+   HPI:
+   Pt is a [**Age over 90 **] yo Russian-speaking man with PMHx sig. for tachy-brady
+   syndrome s/p PCM, afib on coumadin, CVA in [**3210**], and dementia who
+   presents with R shoulder pain and fever.  He first was seen in the ED
+   on [**1-16**] for right wrist pain and swelling.  He had a tap that showed
+   WBC 4250, RBC [**Numeric Identifier 11299**], 57%PMNs, 13%L, 30%M. and was discharged home.  He
+   represented in the ED on [**1-18**] with continued wrist pain and erythema
+   and was admitted to Medicine.  No fever at that point.  Pt had an x-ray
+   of the R wrist showed "no fracture or dislocation. Generalized
+   demineralization. Joint space narrowing and associated osteophytes at
+   the first CMC joint. Minimal chondrocalcinosis and vascular
+   calcifications."  Plastic surgery/Hand servcie was consulted and did
+   not feel that he had evidence of septic arthritis.  He was treated for
+   cellulitis and rapidly improved on Vancomycin/CTX.  Blood cultures were
+   negative.  He was discharged on [**3222-1-23**] on 10 day course of
+   Vancomycin/CTX.  The hospital course was also notable for severe
+   constipation and fecal impaction.
+   .
+   Today, pt presents from NH with complaint of shoulder pain.  Per his
+   wife who visits him on a daily basis, he was fine until this morning.
+   He was complaining of R shoulder pain.  The nursing home noted that he
+   was yelling out in pain.  VS were:  pulse 86-104, sat 96% on RA.
+   .
+   In the emergency department, initial vitals were: 97.3 84 irreg 107/74
+   18 98.  He had a temp up to 105 rectally.  X-ray showed no fracture or
+   dislocation.  US showed moderate-sized right shoulder joint effusion
+   with debris and internal septations.  Ortho was consulted and attempted
+   to tap the joint, unsuccessful.  He received Levofloxacin and Flagyl.
+   Vitals prior to transfer were: 99.5, 98, 138/76, 22, 97% on 2L.
+   .
+   In the ICU, pt only complains of R shoulder pain.  The nursing home
+   does not note any fevers.  He denies any chest pain, dyspnea, abdominal
+   pain, diarrhea.  + constipation.  No dysuria.  Ortho came by and tapped
+   20 cc of purulent drainage.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Family / Friend
+   Allergies:
+   [**Name2 (NI) 55**] Known Drug Allergies
+   Last dose of Antibiotics:
+   Vancomycin - [**3222-1-27**] 08:05 PM
+   Ceftriaxone - [**3222-1-27**] 09:11 PM
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Past medical history:
+   Family history:
+   Social History:
+   PAST MEDICAL HISTORY:
+   1. Tachy/Brady syndrome s/p PPM placement
+   2. CVA in [**3210**] with residual R eye deviation to the right and RLE
+   weakness
+   3. HTN
+   4. Dementia, of probable Alzheimer type
+   5. A.fib on coumadin
+   6. Gastritis
+   7. h/o chronic R heel pressure ulcer s/p skin graft, now healed.
+   8. H/o cholangitis
+   Per record: Denies significant family history (parents died in
+   [**Country 2035**]).
+   Per record: Born in [**Country 2035**]. He lives in a nursing home, living very
+   close to his wife.  [**Name (NI) **] is wheelchair bound.  He notes smoking 1 ppd x
+   20 years, quit 30 years ago, denies etoh use since past 11 years.
+   Review of systems:
+   Constitutional: No(t) Fatigue, Fever
+   Ear, Nose, Throat: Dry mouth
+   Cardiovascular: No(t) Chest pain, No(t) Edema, No(t) Tachycardia, No(t)
+   Orthopnea
+   Respiratory: No(t) Cough, No(t) Dyspnea
+   Gastrointestinal: No(t) Abdominal pain, No(t) Nausea, No(t) Emesis,
+   No(t) Diarrhea, Constipation
+   Genitourinary: No(t) Dysuria
+   Heme / Lymph: No(t) Lymphadenopathy
+   Neurologic: No(t) Headache
+   Flowsheet Data as of [**3222-1-28**] 01:44 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since [**23**] AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.7
+C (98
+   HR: 83 (74 - 88) bpm
+   BP: 108/50(64) {108/50(64) - 141/68(86)} mmHg
+   RR: 15 (14 - 25) insp/min
+   SpO2: 92%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+                                                                  1,289 mL
+                                                                     17 mL
+   PO:
+             TF:
+   IVF:
+                                                                  1,289 mL
+                                                                     17 mL
+   Blood products:
+   Total out:
+                                                                    550 mL
+                                                                    200 mL
+   Urine:
+                                                                    550 mL
+                                                                    200 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                    739 mL
+                                                                   -184 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 92%
+   Physical Examination
+   GENERAL: Pleasant, well appearing man in NAD, appears young for age
+   HEENT: Normocephalic, atraumatic. No conjunctival pallor. No scleral
+   icterus. PERRLA/EOMI. MM dry. OP clear.
+   Neck:  supple, No LAD.
+   CARDIAC:  Irregular rhythm.  Normal rate.  No murmurs.  No JVD.
+   LUNGS: Few end expiratory wheezes on the left, coarse bibasilar
+   crackles, good air movement biaterally.
+   ABDOMEN: NABS. Soft, NT, ND.
+   EXTREMITIES:  R shoulder more edematous than L but no warmth or
+   increased erythema.  RUE is in general slighly more edematous but not
+   erythematous or warm.  Pain in R shoulder with both passive and active
+   movement.  No edema or calf pain, 2+ dorsalis pedis/ posterior tibial
+   pulses.
+   SKIN: No rashes/lesions, ecchymoses.  Healed heel ulcer on R.
+   NEURO: A&O. Appropriate. CN 2-12 grossly intact.  5/5 strength on LUE
+   and LLE, [**4-4**] in RUE, [**2-4**] in RLE.
+   PSYCH: Listens and responds to questions appropriately with one-word
+   answers
+   Labs / Radiology
+        [image002.jpg]
+   Imaging: RUE U/S:
+   No DVT present. Occlusion of right common carotid. Complex joint
+   effusion with debris and partial septation.
+   .
+   Shoulder X ray:  There is no fracture or dislocation.
+   There are degenerative changes involving the acromioclavicular and
+   glenohumeral joints with osteophytic spurring.
+   .
+   Chest X ray:  Mild interstitial pulmonary edema, improved from prior
+   study.
+   Microbiology: Aspirate pending.
+   ECG: Afib
+   Assessment and Plan
+ SEPSIS WITHOUT ORGAN DYSFUNCTION
+   [**Age over 90 **] yo Russian-speaking man with PMHx sig. for tachy-brady syndrome s/p
+   PCM, CVA in [**3210**], and dementia who presents with R shoulder pain and
+   fever, concerning for septic shoulder.
+   .
+   #.  R shoulder pain:  According to Ortho, 20 cc of purulent drainage
+   aspirated from R shoulder.  48,000 WBC in aspirate.  This is most
+   concerning for septic shoulder given his fever, leukocytosis.  This may
+   have been brewing since last admission as he was discharged with a
+   lidocaine patch on his shoulder.  He was discharged on Vanc/CTX, which
+   is adequate coverage for Strep/Staph/gram-neg bacilli.  However, source
+   control would require OR.  No crystals in aspirate to suggest
+   gout/pseudogout.  There is evidence of degenerative disease.
+   - cont. vanc/CTX
+   - f/u gram stain, joint fluid culture
+   - Ortho following, would need wash-out
+   .
+   #.  Fever:  Patient's only complaint is R shoulder pain.  CXR does not
+   reveal any infiltrate.  U/A was unremarkable for infection.  Given abx
+   use, C. diff is a concern but pt reporting constipation rather than
+   diarrhea.  PICC line site was nontender, nonerythematous without
+   purulence.  Per wife, mental status is at baseline.
+   - As above
+   .
+   #.  A.fib:  Currently rate-controlled
+   - hold metoprolol while with sepsis
+   - therapeutic on coumadin, hold for now given question of OR
+   - can use heparin gtt as needed for bridge
+   .
+   #.  HTN:
+   - hold metoprolol as above
+   .
+   FEN:  IVF boluses, monitor/replete electrolytes, NPO for now given
+   question of surgery
+   .
+   PPX:
+   -DVT ppx with coumadin
+   -Bowel regimen colace, senna, and miralax
+   -Pain management with acetaminophen
+   .
+   ACCESS: L Midline
+   CODE STATUS: DNR/DNI
+   EMERGENCY CONTACT:  Wife [**Name (NI) **] [**Name (NI) 11300**]
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   PICC Line - [**3222-1-27**] 04:45 PM
+   18 Gauge - [**3222-1-27**] 04:45 PM
+   Indwelling Port (PortaCath) - [**3222-1-27**] 08:11 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Coumadin)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: Family meeting held  Comments:
+   Code status: DNR / DNI
+   Disposition: Transfer to floor in AM if stable
+   ------ Protected Section ------
+   I have seen and examined the patient with the resident and agree with
+   the assessment and plan as above with the following
+   modifications/emphasis:
+   [**Age over 90 **] year old male with history and presentation as above
+ complains of
+   right shoulder pain and fever noted at NH.  Orthopedics tapped shoulder
+   in ED and found WBC [**Numeric Identifier 1486**]
+   T 37.1 P 83  BP 108/50  RR 15  Sp02: 92%
+   Awake NAD
+   R shoulder edematous, tender
+   CTA bilaterally
+   S1 S2 reg
+   Soft NT ND
+   Xray
+ above
+   Joint fluid: 4500 WBC
+   Assessement:
+   1) Septic Joint
+   2) Fever
+ likely secondary to septic joint
+   3) A. fib
+ currently stable
+   Plan:
+   1)       Antibiotics
+   2)       OR in AM
+   3)       Monitor vitals and perfusion
+   Time Spent: 25 minutes
+   ------ Protected Section Addendum Entered By:[**Name (NI) 140**] [**Last Name (NamePattern1) 294**], MD
+   on:[**3222-1-28**] 02:54 AM ------

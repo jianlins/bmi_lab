@@ -1,0 +1,233 @@
+Chief Complaint:  fever and hypotension
+   HPI:
+   49 yo female with metastatic colon cancer on chemotherapy and s/p renal
+   transplant on peritoneal dialysis was admitted from the ED with fever
+   to 10 and hypotension to 80.
+   .
+   Patient reports that 2 days ago ([**2987-5-12**]) she awoke with pain in her
+   left lower quadrant, which she describes as a "hurting" pain, no
+   radiations, worse with touching and movement, and with no known
+   relievers. Associated symptoms include the following:
+   - nausea
+   - vomiting: nonbloody, nonbilious
+   - [**3-11**] stools per day: loose, nonbloody, watery but mixed with stool
+   - inability to tolerate solid or liquid POs
+   - an episode of shaking chills on Saturday [**2987-5-12**]
+   - productive cough with nonbloody but yellow-colored sputum
+   She otherwise denies dysuria, back pain, headache, or neck pain. She
+   also reports that she has had difficulty tolerating her oral
+   medications the last 2-3 days. Of note, patient was [** Location **]usly admitted
+   to the MICU in [**3-16**] after being hypotensive in the IR suite. Her
+   hypotension was thought most likely secondary to hypovolemia given that
+   her symptoms improved rapidly with fluid resuscitation alone.
+   .
+   Upon admission to the ED, vital signs were 98.4, HR 124, BP 133/102 and
+   follow-up BP 86/64, and 100% RA. While in the ED, her blood pressure
+   declined to as low as 80/49. She received 2.3L NS, tylenol 650mg PR,
+   zofran 2mg x 1, vancomycin 1 g x 1, and ceftriaxone 1g x 1.
+   Patient admitted from: [**Hospital1 52**] ER
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   Home Medications:
+   1. Prednisone 5mg PO daily
+   2. Compazine 10mg PO q8h prn
+   3. Sirolimus 2mg PO daily
+   4. Bactrim 400-80 qMWF
+   5. Tylenol prn
+   6. Aspirin 81mg PO daily
+   7. Calcium Carbonate
+   Past medical history:
+   Family history:
+   Social History:
+   1. Metastatic Colon Cancer
+   Patient initially presented with bowel obstruction in [**2983**] and
+   underwent resection, which revealed a stage III colon adenocarcinoma
+   with lymphovascular, venous, and perineural invasion. She underwent
+   treatment with FOLFOX. Then in [**2986-9-6**], she was undergoing
+   evaluation for a third renal transplant, when she was found to have a
+   mass on CXR. Follow-up PET scan demonstrated FDG-avid right upper lobe
+   mass and left adrenal gland. Pathology was consistent with metastatic
+   colon adenocarcinoma. She underwent 3 cycles of capecitabine and
+   oxaliplatin. her course has been complicated by hypotension and patient
+   was recommended to increase her salt intake.
+   2. ESRD
+   Patient is now s/p two failed renal transplants (first transplant from
+   sister in [**2958**] and second transplant in [**2980**]) and has restarted
+   peritoneal dialysis in late [**2986**]/early [**2987**]. Now undergoes peritoneal
+   dialysis 3 times per day
+   3. s/p stroke in 8/98 with no residual deficit
+   4. Hyperlipidemia
+   5. Dyspepsia
+   6. SLE
+   Diagnosed as a teenager and was maintained on chronic steroids
+   7. Osteoporosis
+   8. Mitral Regurgitation
+   noncontributory
+   Occupation: was employed until [**2-13**] as a file clerk at a local hospital
+   Drugs: denies
+   Tobacco: denies
+   Alcohol: denies
+   Other: lives alone in [**Location (un) 1964**]
+   Review of systems:
+   Constitutional: Fatigue, Fever
+   Respiratory: Cough
+   Gastrointestinal: Abdominal pain, Nausea, Emesis, Diarrhea
+   Pain: [**6-12**] Moderate
+   Pain location: LLQ
+   Flowsheet Data as of [**2987-5-14**] 10:38 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.1
+C (98.8
+   Tcurrent: 36.2
+C (97.1
+   HR: 97 (94 - 100) bpm
+   BP: 96/66(73) {91/64(70) - 97/67(73)} mmHg
+   RR: 22 (22 - 24) insp/min
+   SpO2: 98%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+             2,363 mL
+   PO:
+             TF:
+   IVF:
+   63 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  2,363 mL
+   Respiratory
+   O2 Delivery Device: None
+   SpO2: 98%
+   Physical Examination
+   T 98.8 / HR 100 / BP 97/67 / RR 23 / Pulse ox 99% RA
+   Gen: resting comfortably in bed, tired appearing but in no acute
+   distress
+   HEENT: Clear OP, dry mucous membranes, mild right-sided facial droop
+   with flattening of the right nasolabial fold
+   NECK: Supple, No LAD, No JVD
+   CV: RR, NL rate. NL S1, S2. No murmurs, rubs or gallops
+   LUNGS: CTA, BS BL, No W/R/C
+   ABD: + BS, soft, tender to soft palpation in LLQ with positive guarding
+   and rebound. PD catheter insertion site clean and without evidence of
+   drainage or discharge
+   EXT: No edema. 2+ DP pulses BL
+   SKIN: No lesions
+   NEURO: A&Ox3. Appropriate. Preserved sensation throughout. 5/5 strength
+   throughout. Normal coordination. Gait assessment deferred. slight
+   right-sided facial droop with flattening of nasolabial fold
+   PSYCH: Listens and responds to questions appropriately, pleasant
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: [**2987-5-7**]
+   WBC 8.1 / Hct 30.4 / Plt 327
+   .
+   [**2987-5-14**] - 12pm
+   Na 141 / K 3.3 / Cl 101 / CO2 26 / BUN 42 / Cr 8 / BG 82
+   Ca 6.1 / Mg 1.4 / phos 2.9
+   ALT 30 / AST 57 / Alk Phos 102 / TB .9
+   PTT 27.3 / INR 1.3
+   Lactate 1.6
+   .
+   [**2987-5-14**] - 9am
+   Na 139 / K 3.5 / Cl 99 / CO2 28 / BUN 41 / Cr 7.8
+   WBC 29.1 / Hct 30.1 / Plt 232
+   Imaging: - [**2987-5-14**] - CXR -
+   Known right mid lung mass is seen. A second mass in the right
+   upper lung is partially visualized though evaluation is limited due to
+   overlying ekg lead. Recommend repeat study after removing the EKG
+   leads.
+   - [**2987-5-14**] - CT Abd/Pelvis -
+   1. New evidence of thickened bowel loop in the left lower quadrant,
+   which has a broad differential and may be due to low albumin or
+   compression from other adjacent structures.
+   2. No significant change in the pelvic mass size.
+   3. Mild enlargement in the left adrenal lesion.
+   4. Moderate ascites and free fluid in the pelvis.
+   - CT Chest/Abdomen/Pelvis - [**2987-4-12**]
+   1. Enlarging right upper lobe mass lesion as noted above.
+   2. Moderate pericardial effusion.
+   3. Moderate ascites.
+   4. Enlarging left adrenal lesion.
+   5. Enlarging pelvic mass lesion which may represent a metastatic
+   focus.  Ultrasound may be used for further characterization of this
+   finding is clinically dictated.
+   Microbiology: [**2987-5-14**] - Peritoneal Fluid GS and Cx - pending
+   [**2987-5-14**] - Blood Cx x 2 pending
+   Assessment and Plan
+   ASSESSMENT:
+   49 yo female with history of metastatic colon adenocarcinoma, SLE, ESRD
+   on peritoneal dialysis s/p 2 failed transplants, and history of
+   [** Location **]us stroke was admitted to the [**Hospital Unit Name 42**] with sepsis.
+   .
+   PLAN:
+   1. Sepsis
+   Patient admitted with sepsis, given that she has evidence of fever and
+   leukocytosis. Most likely sources include abdominal source given LLQ
+   tenderness and findings on CT scan. Differential includes Cdiff
+   (especially given elevated WBC) or other infectious colitis. Additional
+   infectious sources include urinary or pulmonary source. Peritoneum
+   appears unlikely source given the peritoneal fluid. Blood is certainly
+   another possibility given history of shaking chills and fever.
+   - send UA and culture
+   - send stool culture and C. diff
+   - follow-up blood cultures
+   - send sputum gram culture and stain
+   - start broad spectrum antibiotics with cefepime given that patient is
+   immunosuppressed and at risk for pseudomonas, vancomycin given risk for
+   MRSA, flagyl given concern for C. diff, and azithromycin for atypical
+   coverage
+   - wean antibiotics once cultures and sensitivities have returned
+   - IVF bolus as needed for goal MAP > 65
+   .
+   2. ESRD on PD
+   Patient on PD due to ESRD secondary to SLE. Has missed last three
+   treatments at home due to feeling ill.
+   - ap[** Location **]te renal recs
+   - start peritoneal dialysis tonight per renal recs
+   - continue sirolimus and prednisone for immunosuppression
+   - check rapamycin levels in the AM
+   - continue bactrim for prophylaxis
+   .
+   3. SLE
+   Stable
+   - continue plans per outpatient rheumatologist
+   .
+   4. Metastatic Colon Adenocarcinoma
+   Patient now on chemotherapy.
+   - continue current management per outpatient oncology team
+   .
+   5. Stroke
+   Patient with a history of stroke in the past. Has had neurologic
+   deficits in the setting of hypotension during her recent admission in
+   [**3-16**]
+   - continue aspirin
+   ICU Care
+   Nutrition: NPO for now, consider advancing to clears in the AM
+   Glycemic Control:  under adequate control for now
+   Lines:
+   22 Gauge - [**2987-5-14**] 04:16 PM
+   20 Gauge - [**2987-5-14**] 04:16 PM
+   Prophylaxis:
+   DVT: heparin SC
+   Stress ulcer: not needed
+   VAP:  not needed
+   Comments:
+   Communication:  Comments: Patient, [**Name (NI) 4**] [**Last Name (NamePattern1) 5**] [**Telephone/Fax (1) 6**]
+   Code status: FULL CODE, confirmed with patient on [**2987-5-14**]
+   Disposition: ICU for now pending improvement in BP

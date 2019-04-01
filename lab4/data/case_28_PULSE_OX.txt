@@ -1,0 +1,197 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   31yo man with a h/o depression and prior heroin abuse who was found
+   down at ~11PM on [**9-26**] covered in vomit, lying on his left side. He was
+   taken to [**Hospital3 **]where he was intubated for hypoxia (pulse ox
+   ~86% on NRB.) He had a negative head CT, a tox screen positive for
+   opiates (and only opiates) and he received Ceftriaxone and Azithro. He
+   was transferred to [**Hospital1 5**] for further care. He has a left-sided
+   pulmonary infiltrate and is moderately hypoxic (although he has
+   improved thusfar during his hospital stay with a decreasing FiO2.) He
+   was extubated yesterday ([**9-29**]) without difficulty.
+   24 Hour Events:
+ INVASIVE VENTILATION - STOP [**3300-9-29**] 11:45 AM
+ no subjective
+   respiratory complaints. Oxygenation stable.
+ ARTERIAL LINE - STOP [**3300-9-29**] 02:32 PM
+ FEVER - 101.5
+F - [**3300-9-29**] 08:00 PM
+ cultured. Remains on
+   Ceftriaxone and Clinda.
+   Allergies:
+   Last dose of Antibiotics:
+   Metronidazole - [**3300-9-28**] 10:00 AM
+   Ceftriaxone - [**3300-9-30**] 12:00 AM
+   Clindamycin - [**3300-9-30**] 02:00 AM
+   Infusions:
+   Other ICU medications:
+   Heparin Prophylaxis - [**3300-9-29**] 07:50 AM
+   Other medications:
+   Heparin subQ
+   Atrovent
+   Albuterol
+   Tylenol
+   Day 3:
+   Ceftriaxone
+   Clinda
+   Changes to medical and family history: None since admission.
+   Review of systems is unchanged from admission except as noted below
+   Review of systems: No changes since admission.
+   Flowsheet Data as of  [**3300-9-30**] 07:30 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.6
+C (101.5
+   Tcurrent: 38.1
+C (100.5
+   HR: 93 (89 - 121) bpm
+   BP: 113/60 {98/54 - 146/82} mmHg
+   RR: 25 (17 - 32) insp/min
+   SpO2: 89% - 94% on 4L NC
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  3,042 mL
+                                                                    895 mL
+   PO:
+                                                                  1,000 mL
+                                                                    720 mL
+   TF:
+   IVF:
+                                                                  1,982 mL
+                                                                    175 mL
+   Blood products:
+   Total out:
+                                                                  4,945 mL
+                                                                    500 mL
+   Urine:
+                                                                  4,945 mL
+                                                                    500 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,903 mL
+                                                                    395 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   Ventilator mode: CPAP/PSV
+   Vt (Set): 450 (450 - 450) mL
+   Vt (Spontaneous): 398 (398 - 456) mL
+   PS : 5 cmH2O
+   RR (Set): 24
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 11 cmH2O
+   Plateau: 20 cmH2O
+   SpO2: 89%
+   ABG:
+   Ve: 7.4 L/min
+   Physical Examination
+   General: Comfortable  no acute distress.
+   HEENT: PERRL, anicteric sclera, OP clear without thrush or exudate.
+   CV: S1S2 RRR w/o m/r/g
+s. No heave.
+   Lungs: CTA bilaterally anteriorly without wheezing. He does have
+   bibasilar crackles.
+   Ab: Positive BS
+s. NT/ND. No masses or HSM ap[** Location **]ted.
+   Ext: No edema. No clubbing / cyanosis. Tattoos noted.
+   Neuro: Sedated, withdraws from pain in all extremities.
+   Labs / Radiology
+   12.6 g/dL
+   159 K/uL
+   97 mg/dL
+   0.9 mg/dL
+   23 mEq/L
+   3.6 mEq/L
+   7 mg/dL
+   108 mEq/L
+   140 mEq/L
+   35.9 %
+   8.7 K/uL
+        [image002.jpg]
+   Differential-Neuts:77.2 %, Lymph:17.7 %, Mono:3.5 %, Eos:1.3 %
+   Micro:
+   Sputum NGTD
+                            [**3300-9-28**]  01:20 PM
+                            [**3300-9-28**]  04:16 PM
+                            [**3300-9-28**]  07:03 PM
+                            [**3300-9-28**]  08:21 PM
+                            [**3300-9-28**]  09:37 PM
+                            [**3300-9-29**]  03:38 AM
+                            [**3300-9-29**]  03:51 AM
+                            [**3300-9-29**]  07:46 AM
+                            [**3300-9-29**]  02:30 PM
+                            [**3300-9-30**]  03:29 AM
+   WBC
+   8.9
+   8.0
+   9.6
+   8.7
+   Hct
+   35.1
+   35.0
+   34.2
+   35.9
+   Plt
+   167
+   164
+   151
+   159
+   Cr
+   1.0
+   0.9
+   TropT
+   <0.01
+   TCO2
+   26
+   26
+   26
+   26
+   28
+   Glucose
+   101
+   97
+   Other labs:
+   PT / PTT / INR:14.5/27.5/1.3,
+   CK / CKMB / Troponin-T:475/4/<0.01,
+   ALT / AST:[**12-2**], Alk Phos / T Bili:53/0.6,
+   Lactic Acid:1.1 mmol/L, Albumin:3.3 g/dL, LDH:247 IU/L,
+   Ca++:7.9 mg/dL, Mg++:1.9 mg/dL, PO4:1.9 mg/dL
+   Assessment and Plan
+   31yo man with a h/o depression and prior heroin abuse who was found
+   down at ~11PM on [**9-26**] here with opiate overdose and primarily
+   left-sided aspiration pneumonia nad respiratory failure.
+ ALTERED MENTAL STATUS (NOT DELIRIUM)
+   Acute altered mental status on presentation was [**1-18**] opiate overdose
+   (given positive tox screen.) He has clinically improved with time.
+ PNEUMONIA, ASPIRATION
+   His x-ray has improved impressively from [**9-28**] to [**9-29**] which argues
+   against an actual aspiration pneumonia, and is more consistent with
+   acute pulmonary edema in the setting of opiate use. After initially
+   requiring significant ventilatory support on [**9-28**], he was able to be
+   weaned over night from [**3305-9-28**] and was extubated [**9-29**] without
+   difficulty. He is currently stable from a respiratory point of view. .
+ ATRIAL FIBRILLATION (AFIB)
+   Resolved after resolution of his hypoxia. Monitor, but no indication
+   for further rate control.
+   ICU Care
+   Nutrition: NPO for now.
+   Glycemic Control:
+   Lines: 20 Gauge - [**3300-9-28**] 09:12 AM, 22 Gauge - [**3300-9-28**] 07:00 PM
+   Prophylaxis:
+   DVT: Heparin subQ
+   Stress ulcer: PPI
+   VAP: N/A
+   Comments:
+   Communication:  Comments:
+   Code status: FULL
+   Disposition : Stable for transfer to the floor
+   Total time spent:

@@ -1,0 +1,291 @@
+Date of service: [**2640-11-24**]
+   Initial visit, Cardiology service: CCU
+   Presenting complaint: Arrhythmia
+   History of present illness: The patient is an 86 y.o. male with pmh
+   significant for CAD s/p PCI to LAD, LMCA and LCX in [**2636**], chronically
+   occluded RCA with L->R collaterals, dilated cardiomyopathy of [**9-2**]%
+   presenting to his outpatient Cardiologist with several weeks of
+   lethargy, and found to be bradycardic with HR in the 30's.  EKG in
+   office showed Junctional bradycardia at a rate of 30, blood pressure
+   60/palp.  He was given atropine 2mg with increased Hr to 40's, and then
+   transferred to the ED.  In the ED his HR remained in the 30-40's with
+   blood pressure of 110/50.  He developed an increased oxygen requirement
+   with O2 saturation 60-70% on NRB.  Head CT was performed to rule out
+   CVA as cause of bradycardia and was found to be negative for acute
+   bleed.  Patient was also found to be in acute renal failure with
+   creatinine of 5.5 from baseline 2.5. His potassium was also initially
+   found to elevated at 9.0 in a hemolyzed sample. Repeat K was 5.0.
+   Diqoxin level was found to be 0.7.  Repeat K was 5.0.  Given his
+   progressive hypoxia he was intubated with O2 saturation of 100% on FiO2
+   100%.  In the ED his rhythm alternated between sinus and junctional
+   bradycardia.
+   His vitals were HR 37-39, blood pressure (77-116)/(33-46).  He was
+   given aspirin, atropine, sodium bicarbonate, insulin 10 units, an amp
+   of D50, albuterol nebs.
+   Per medical records, the patient has been hospitalized several times in
+   the past for both acute on chronic congestive heart failure and acute
+   renal failure attributed to poor forward flow from CHF. he was most
+   revcently admitted from [**2640-10-15**] through [**2640-10-22**], during which he was
+   diuresed 10L in the CCU on a lasix drip with BP support from milrinone
+   and phenylephrine. Upon discharge, bumex was added and torsemide was
+   discontinued.  On [**11-10**] the patient had increased creatinine detected
+   on routine labs, which resulted in a decrease of his bumex from 4mg to
+   3mg PO BID.  He then experienced a 5lb increased weight gain and had
+   his bumex increased to 4mg PO BID on [**2640-11-20**].
+   .
+   Per wife, patient has had increased confusion over past three days, in
+   addition to abdominal pain and diahrrea.
+   Past medical history: 1  CAD: s/p PCI to LAD, LMCA and LCX in [**2636**];
+   chronically
+   occluded RCA with L->R collaterals
+   2  History of Colon cancer - last scope [**2635**] with polyp
+   3  Atrial fibrillation/flutter - on coumadin
+   4  History of Basal cell carcinoma
+   5  Mitral valve replacement [**11/2637**] - (#29 Perimount Thermafix
+   pericardial valve).
+   6  Hypertension
+   7  Gout
+   8  Peripheral vascular disease (PVD)
+   9  Mild aortic stenosis
+   10 History of deep venous thrombosis - IVF filter placed [**2636**]
+   11 Hypercholesterolemia
+   12 Spinal stenosis
+   13 Familial hand tremor
+   14 Hernia repair, R-side inguinal
+   15 Cataract repair, last [**2639-6-12**]
+   16 Nephrolithiasis
+   17 Chronic kidney disease  ( baseline Cr 2-2.7 per recent labs)
+   CAD Risk Factors
+   CAD Risk Factors Present
+   Dyslipidemia, Hypertension, Family Hx of CAD
+   CAD Risk Factors Absent
+   Diabetes mellitus, Family Hx of sudden cardiac death
+   (Tobacco: No), (Quit: Yes)
+   Cardiovascular Procedural History
+   PCI: Most recent: [**2637-11-1**]
+   COMMENTS:     1.  Selective coronary angiography in this co dominant
+   patient revealed patent stents.  The LMCA had a 20% origin occlusion.
+   The LAD and LCX had patent stents and provided left to right
+   collaterals.  The RCA was a small vessel and was occluded after mid
+   segment.
+   2.  Resting hemodynamics revealed elevation of left sided filling
+   pressures with PCWP and LVEDP of 25-28mmHG.  There were [**Doctor Last Name **] v waves
+   on the wedge tracing to 45mmHG consistent with severe MR.  There was
+   moderate pulmonary hypertension with mean PA pressure of 38mmHG.
+   Cardiac output was not formally calculated but mean PA sat was 66%
+   3.  LV gram revealed global hypokinesis with EF 25-30% and 3plus MR.
+   4.  Aortogram revealed 2plus AI
+   There is no history of:
+   CABG
+   Pacemaker / ICD
+   Allergies:
+   Vasotec (Oral) (Enalapril Maleate)
+   Cough;
+   Niacin
+   Facial erythema
+   Current medications: Aspirin 81 mg Tablet PO daily, Chewable
+   Simvastatin 20 mg Tablet PO daily
+   Omeprazole 20 mg Capsule, Delayed Release(E.C.) 1 tablet PO daily
+    Digoxin .0625 mcg PO daily
+   Camphor-Menthol 0.5-0.5 % Lotion TID PRN
+   Minocycline 100 mg Capsule PO BID
+   times a day).
+   Warfarin 4 mg  PO daily
+   Bumetanide 4mg PO BID
+   Hydroxyzine HCl 12.5mg PO daily
+   Metoprolol Tartrate 50 mg PO TID
+   Colace 100 mg PO BID
+   Cardiovascular ROS
+   Cardiovascular ROS Signs and Symptoms Present
+   Murmur, SOB, Edema, Lightheadedness
+   Cardiovascular ROS Signs and Symptoms Absent
+   Chest pain
+   Review of Systems
+   Organ system ROS abnormal
+   Constitutional, Gastrointestinal
+   ROS Details: confusion, abdominal pain, and diahrrea for past three
+   days
+   Social History
+   Marital status: married
+   Occupation: retired orthodontist
+   (Alcohol: No), (Recreational drug use: No)
+   Family history:   FAMILY HISTORY:
+   - Father had heart attack at age 60.
+   - Denies history of CA, diabetes in family.
+   Social history details: - Former orthodontist.
+   - Smoked until early 40s at 1-1.5 packs/day since age 22. Denies
+    smoking since. Denies drinking.
+   - Lives with wife in [**Location (un) 321**].
+   Physical Exam
+   Date and time of exam: [**2640-11-24**], 19:19
+   General appearance: intubated, sedated. elderly man
+   Vital signs: per R.N.
+   BP right arm:
+   95 / 46 mmHg
+   supine
+   Weight: 70.2 kg
+   T current: 94 C
+   HR: 45 bpm
+   RR: 12 insp/min
+   O2 sat: 100 %  on Supplemental oxygen: FiO2 .40
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: left pupil dilated 5cm,
+   reactive. right pupil 3mm, minimally reactive)
+   Neck: (Jugular veins: JVP, 9cm)
+   Respiratory: (Effort: Abnormal, intubated), (Auscultation: Abnormal,
+   crackles)
+   Cardiac: (Rhythm: Regular), (Auscultation: S1: WNL, S2: normal),
+   (Murmur / Rub: Absent)
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Pulsatile mass:
+   No), (Hepatosplenomegaly: No)
+   Extremities / Musculoskeletal: (Dorsalis pedis artery: Right:
+   dopplerable, Left: dopplerable), (Posterior tibial artery: Right:
+   dopplerable, Left: dopplerable), (Edema: Right: 2+, Left: 2+)
+   Skin: (Abnormal, arms covered with ecchymoses)
+   Labs
+   4.1
+        [image002.jpg]
+                            [**2640-11-24**]  04:18 PM
+                            [**2640-11-24**]  05:25 PM
+   K + (Whole blood)
+   5.0
+   4.1
+   ABG: 7.41 / 34 / [**Telephone/Fax (1) 7247**] /  / -1   Values as of [**2640-11-24**] 05:25 PM
+   Tests
+   ECG: (Date: [**2639-11-24**]), Junctional Bradycardia with leftward axis and
+   occasional ventricular escape rhythm.  ST T-wave changes at baseline
+   Echocardiogram: (Date: [**2640-10-17**]), The left atrium is dilated. A mass is
+   seen in the body of the left atrium. There is mild symmetric left
+   ventricular hypertrophy. The left ventricular cavity is moderately
+   dilated. There is severe global left ventricular hypokinesis (LVEF =
+   15-20%). Diastolic function could not be assessed. The right
+   ventricular free wall is hypertrophied. The right ventricular cavity is
+   dilated with moderate global free wall hypokinesis. The aortic root is
+   mildly dilated at the sinus level. The number of aortic valve leaflets
+   cannot be determined. The aortic valve leaflets are moderately
+   thickened. There is moderate to severe aortic valve stenosis (area
+   0.8-1.0cm2). Mild to moderate ([**11-20**]+) aortic regurgitation is seen. A
+   bioprosthetic mitral valve prosthesis is present. The mitral prosthesis
+   appears well seated, with normal leaflet/disc motion and transvalvular
+   gradients. The transmitral gradient is normal for this prosthesis.
+   Trivial mitral regurgitation is seen. [Due to acoustic shadowing, the
+   severity of mitral regurgitation may be significantly UNDERestimated.]
+   The tricuspid valve leaflets are mildly thickened. There is mild
+   pulmonary artery systolic hypertension. There is no pericardial
+   effusion.
+   IMPRESSION: There appears to be a mass in the body of the left atrium.
+   It appears to be attached to the posterior wall. This may be a tumour,
+   thrombus or an artifact from the prosthetic mitral valve. It has been
+   present, with a similar size on echocardiograms on [**2-17**]/8 and 11/18/8.
+   It was also seen on a cardiac MRIon [**2639-8-13**]. A TEE could be done to
+   further clarify, if indicated.
+   Moderately dilated left ventricle with severe global hypokinesis.
+   Moderate to severe aortic stenosis and mild to moderate aortic
+   regurgitation. Normally functioning mitral prosthesis. Mild pulmonary
+   artery systolic hypertension.
+   Stress Testing: (Date: [**2639-6-7**]), (Protocol: persantine), (Duration: 4
+   minutes), ETT: [**2639-6-7**]:
+   INTERPRETATION: The patient is an 85 yo male with a history of afib,
+   HTN, CHF EF 10%, MVR, and known CAD s/p PCI to LAD, LMCA and LCX
+   referred for CAD evaluation, pre-op cardiac assessment for cataract
+   surgery. The patient received 0.142 mg/kg/min of persantine over 4
+   minutes. The patient reported no chest,back,or arm discomfort. EKG
+   showed sinus rhythm with a right bundle branch block at baseline. There
+   were no ST-T wave changes during infusion of persantine or recovery.
+   Rhythm was sinus with occasional PVCs. The patient received 125 mg
+   aminophylline IV to reverse persantine.
+   IMPRESSION: No ischemic ECG changes or anginal symptoms. Nuclear report
+   sent separately.
+   .
+   Nuclear report:
+   IMPRESSION: 1. No reversible perfusion defects. 2. Fixed inferior wall
+   defect.
+   3. Markedly dilated left ventricle. 4. Diffuse hypokinesis. 5. EF 17%
+   Ventilator: CMV 500/12, PEEP 5, FiO2 .40
+   Assessment and Plan
+   86M w/ pmh CAD, dilated cardiomyopathy with LVEF 15%, presenting with
+   junctional bradycardia, hypoxia, hypothermia, with stable blood
+   pressure.
+   .
+   #Bradycardia: Fluctuating between sinus and junctional bradycardia, in
+   the setting of hypoxia, hypothermia, and acute renal failure.  MI is
+   also a possibility for bradycardia, with elevated troponin, however
+   patient is also in ARF and  ekg is not showing ischemic changes from
+   baseline.  The patient was maintaining a MAP > 60 in the ED, however is
+   currently now  55.  EP following, may request pace maker to maintain HR
+   in setting of beta blockade for ischemic cardiomyopathy. No indication
+   for temporary pacing given other metabolic causes for bradycardia.
+   -peripheral dopamine to maintain MAP> 60.
+   -intubated for hypoxic respiratory failure
+   -bear hugger for hypothermia
+   -Pacer pads on
+   -sputum, blood, urine Cx.
+   -vanc and zosyn, broad coverage given low MAP and recent
+   hospitalizations.
+   -trending cardiac enzymes
+   -holding on A-line secondary to supratherapeutic INR 7.9.
+   -holding metoprolol
+   -holding digoxin
+   .
+   #Hypotension: Current MAP is 55. Recent vitals from outpatient records
+   show baseline BP 95/40. Hypotension secondary to systolic congestive
+   heart failure, exacerbated by unidentified infetion.  Holding on
+   Arterial line and central line in setting of INR 7.9.
+   -fluid boluses, dopamine
+   -pan culture
+   -vanc, zosyn
+   .
+   #Respiratory Status:Intubated for hypoxic respiratory failure in ED,
+   was 70% on NRB.  CXR with pulmonary infiltrates suggestive of CHF. Will
+   not diurese in setting of hypotension. currently oxygenating well on
+   FiO2 100%
+   -wean down FiO2, PEEP
+   .
+   #Acute renal failure: Cr 5.5, up from baseline of 2.5. Could be
+   secondary to overdiuresis given recent increase of bumex.  Could also
+   be secondary to exacerbation of congestive heart failure and low
+   cardiac output.  Renal following, no need for CVVH or HD.
+   -U lytes
+   -UA
+   -keep MAP > 55, w/ dopamine and IVF
+   .
+   #Hypothermia: possibly from infection. Wife reporting three days of
+   confusion, abdominal pain and diahrrea. will pan culture and cover with
+   broad spectrum abx.  Lactate 2.5.
+   -blood, sputum, urine cx
+   -stool for C.Diff
+   -vancomycin, zosyn
+   .
+   #Supratherapeutic INR: No new medications to suggest medication
+   interactions which could increase INR.  No new antibiotics. Unsure
+   etiology, will hold coumadin and monitor DIC labs.
+   -Pt, PTT, fibrinogen
+   -Vitamin K
+   -holding on procedures
+   -FFP for urgent INr reversal
+   .
+   # CORONARIES:  History of CAD s/p PCI to LAD, LMCA and LCX in [**2636**], and
+   chronically occluded RCA with L->R collaterals.  ekg not showing new
+   ischemic changes, will trend enzymes. Received aspirin in ED.
+   -continue aspirin
+   .
+   # PUMP:History of dilated cardiomyopathy secondary to ischemia, LVEF
+   17%. CXR with bilateral infiltrates suggestive of pulmonary edema. CHF
+   exacerbation likely caused by bradycardia.  Bradycardia likely resulted
+   from infection and acute renal failure.
+   -holding diuresis
+   -holding metoprolol
+   .
+   # RHYTHM:Currently in junctional rhythm, alternating with sinus.
+   Baseline rhythm is atrial flutter. Holding digoxin and metoprolol, will
+   consider temporary pacing in setting of hypotension.
+   .
+   #Bullous Pemphigoid: recently placed on sarna, hydroxyzine, and
+   minocycline by dermatology for pruritic rash over abdomen.  Biopsy
+   results showed bullous pemphigoid.  Will continue with sarna, but will
+   hold minocycline and hydroxyzine in setting of acute illness.
+   -sarna
+   -hold minocycline, hydroxyzine
+   .
+   #PPX: Supratherapeutic INR for DVT prophylaxis, IV protonix, holding
+   bowel regimen in setting of diahrrea.

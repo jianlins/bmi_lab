@@ -1,0 +1,247 @@
+Chief Complaint:  Instability/weakness
+   HPI:
+   This is an 81-year-old female with a history of stage IV NSCLC
+   diagnosed in [**5-/3129**], now getting palliative XRT, who presents today
+   after she was unable to rise from a seated position on her bed.
+   Patient states that she was sitting on her bed tonight and tried to get
+   up to go to the comode, but felt "very imbalanced" and sat back on the
+   bed.  She subsequently was able to make her way to the toilet, but her
+   husband was worried that she was so unsteady that he called 911.
+   Patient reports noticable instability for the past few weeks; nothing
+   acute, but increased trouble rising from a seated position and extra
+   help needed with ADLs.  She denies any falls in the past few weeks.
+   Upon arrival in the ED, patient was found to be short of breath, with
+   an 02 sat of 50-60% on room air.  She immediately came up to 100% with
+   a face mask.  A CXR was done, which showed a significantly larger
+   pleural effusion.  Patient received a CTA over concern for PE, which
+   was negative.  EKG showed frequent PVCs, but no concerning ST changes.
+   Troponin was 0.02 and patient received ASA.  Initial vitals were: T:
+   98.0, HR 86, BP: 146/71, RR: 22.  Vitals upon transfer were: HR: 103,
+   BP: 160/83, RR: 25, SP02: 98% on 5 liters.  Patient was more
+   comfortable, though still breathing at 25 times/minute.
+   ROS:  Patient actually denies any trouble breathing, stating that she
+   has had some DOE, but nothing at rest.  She also denies any fever,
+   "chest congestion," nausea, vomiting, diarrhea, chest pain, hemoptysis,
+   dysuria, or other symptoms.
+   Patient admitted from: Home
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Heparin Sodium (Prophylaxis) - [**3131-1-3**] 10:44 PM
+   Other medications:
+   Lipitor 10mg QD
+   Epipen for bee stings
+   Hctz 25mg QD
+   hydrocodone-homatropine 5 mg-1.5 mg Tablet prn cough
+   methyl[** Location **]ate: 5 mg, 1 tablet [**Hospital1 **] as needed for fatigue
+   Tylenol
+   ASA 81mg
+   Docusate
+   Ergocalciferol
+   Gucosamine-chondroitin
+   Loperamide
+   MV
+   Senokot
+   Past medical history:
+   Family history:
+   Social History:
+   --NSCLC: Patient is followed closely by Dr. [**Last Name (STitle) 2683**] of heme/onc and
+   Dr. [**Last Name (STitle) **] of rad-onc.  A CT scan on [**12-15**] showed extensive disease
+   (though slightly diminished from prior) with large right-sided tumor
+   and metastatic spread to liver.  Plan is for further review of cytology
+   by pathology, and then possibly initiation of systemic chemotherapy.
+   --Asthma as a child
+   --Left knee replacement
+   --Right hip fracture s/p ORIF [**3129**]
+   --Hypertension
+   --Amaurosis Fugax in [**3118**]
+   --AAA repair [**3129**]
+   --Tonsillectomy, adenoidectomy, mastoidectomy as a child
+   --Appendicectomy
+   --2 [**Name (NI) 9881**]
+   Father with chronic leukemia and mother with HTN.
+   Occupation: Bibliographer at [**Hospital3 2452**] Library
+   Drugs: Denies
+   Tobacco: 30-pack-year history
+   Alcohol: Denies
+   Review of systems:
+   Constitutional: Fatigue, Weight loss
+   Respiratory: Cough
+   Gastrointestinal: Mild diarrhea
+   Flowsheet Data as of [**3131-1-4**] 04:03 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 97 (96 - 102) bpm
+   BP: 144/76(89) {113/73(89) - 155/114(118)} mmHg
+   RR: 22 (19 - 29) insp/min
+   SpO2: 94%
+   Heart rhythm: SR (Sinus Rhythm)
+   Height: 60 Inch
+             Total In:
+             390 mL
+   PO:
+             240 mL
+   TF:
+   IVF:
+   153 mL
+   Blood products:
+   Total out:
+                                                                    400 mL
+                                                                    260 mL
+   Urine:
+   260 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                   -400 mL
+                                                                    133 mL
+   Respiratory
+   O2 Delivery Device: Venti mask
+   SpO2: 94%
+   ABG: ///38/
+   Physical Examination
+   General Appearance: No acute distress, thin, tachypnic
+   Eyes / Conjunctiva: PERRL
+   Head, Ears, Nose, Throat: Normocephalic
+   Cardiovascular: (PMI Normal), (S1: Normal), (S2: Normal)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Present), (Left DP pulse:
+   Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: No(t)
+   Crackles : , Wheezes : mild wheezes throughout, Diminished: on right)
+   Abdominal: Soft, Non-tender, Bowel sounds present
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace
+   Skin:  Warm
+   Neurologic: Attentive, Responds to: Verbal stimuli, Movement:
+   Purposeful, Tone: Not assessed, Oriented to person, place, and time,
+   though initially thought it was [**3129**].
+   Labs / Radiology
+   370 K/uL
+   10.0 g/dL
+   92 mg/dL
+   0.6 mg/dL
+   22 mg/dL
+   38 mEq/L
+   95 mEq/L
+   3.4 mEq/L
+   139 mEq/L
+   32.3 %
+   8.9 K/uL
+        [image002.jpg]
+                                  [**3127-1-10**]
+                         2:33 A12/26/[**3130**]  09:46 PM
+                                  [**3127-1-14**]
+                                   10:20 P
+                                  [**3127-1-15**]
+                                   1:20 P
+                                  [**3127-1-16**]
+                                   11:50 P
+                                  [**3127-1-17**]
+                                   1:20 A
+                                  [**3127-1-18**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3127-2-10**]
+                                   1:20 P
+                                  [**3127-2-10**]
+                                   11:20 P
+                                  [**3127-2-10**]
+                                   4:20 P
+   WBC
+                                     8.9
+   Hct
+                                    32.3
+   Plt
+                                     370
+   Cr
+                                     0.6
+   TropT
+                                    0.01
+   Glucose
+                                     92
+   Other labs: PT / PTT / INR:12.8/26.2/1.1, CK / CKMB /
+   Troponin-T:27/2/0.01, Albumin:2.9 g/dL, Ca++:10.5 mg/dL, Mg++:1.6
+   mg/dL, PO4:2.9 mg/dL
+   Assessment and Plan
+   This is an 81-year-old female with a past medical history of NSCLC who
+   presents from home with a 2-day history of worsening shortness of
+   breath.
+   INSTABILITY/WEAKNESS:  Ms. [**Known patient lastname 9882**] main complaint on arrival is
+   instability and inability to get up off her bed without falling.
+   Complaint is likely multifactorial, with etiologies including
+   hypercalcemia, deconditioning, and poor a[** Location **]e and intake.  Patient
+   also has a history of cervical spondylotic myelopathy, which could
+   contribute to her weakness.  Moreover, in a patient with cancer,
+   neurologic emergencies such as cord compression cannot be ruled out.
+   --Treat hypercalcemia with IVF (see below)
+   --Puruse other endocrinopathies including hypothyroidism and low
+   cortisol.  Unlikely diabetes with normal glucose.
+   --PT consult
+   --Continue to follow neuro exams; consider rectal exam to assess tone
+   in the AM.
+   --CT head [** Location **] read negative for intracranial process; follow-up
+   final read
+   --Consider nutrition consult to ensure patient is taking in appropriate
+   calories
+ HYPERCALCEMIA (HIGH CALCIUM):  Patient with elevated calcium,
+   espeically in light of low albumin.  In addition to other etiologies,
+   paraneoplastic syndrome must be entertained in an individual with lung
+   cancer (possibly squamous).
+   --IVF for now as patient tolerates clinically (attention to respiratory
+   status)
+   --Trend calcium
+   --Discontinue HCTZ for now, as this can increase ca2+
+ HYPERTENSION, BENIGN:
+   --Hold Hctz for now in setting of hypercalcemia
+   --[**Month (only) 11**] need to add another [**Doctor Last Name 23**] if BP continues to run high
+ HYPOXEMIA:   Shortness of breath most likely from increasing tumor
+   burden and worsening pulmonary effusions.  Other possibilities include
+   infection, cardiac cause, or pulmonary embolus (though ruled out with
+   CTA).  Infection is unlikely given absence of fever, leukocytosis, or
+   localizing symptoms.  Cardiac cause is also lower on the differential
+   given an absence of cardiac history.
+   --Continue 02 for now, with attempt to wean
+   --Repeat ABG if sats continue to drop, patient becomes more hypoxic, or
+   clinical status worsens
+   --CT-guided thoracentesis, as effusions are very loculated and hard to
+   tap at bedside
+   --Contact Dr. [**Last Name (STitle) 2683**] re: patient admission and condition
+   --Consider antibiotics only if condition deteriorates, patient becomes
+   febrile, develops leukocytosis, etc.
+ CANCER (MALIGNANT NEOPLASM), LUNG:  Patient with stage IV NSCLC.
+   Patient was unable to tolerate chemotherapy after her initial
+   diagnosis, and is currently being treated with palliative XRT.  The
+   plan is for further evaluation of her cytology, with the possibility of
+   further systemic treatment.  We will touch base with patient's primary
+   oncologist, Dr. [**Last Name (STitle) 2683**].
+   HYPERCHOLESTEROLEMIA:  Continue statin
+   DECREASED ENERGY:  Continue Ritalin
+   ICU Care
+   Nutrition:
+   Comments: Regular Diet
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3131-1-3**] 09:39 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer:
+   Communication: ICU consent signed Comments: CONTACT:  [**Name (NI) 438**], Dr.
+   [**Known patient lastname **].
+   CODE STATUS:  Discussed with patient and husband.  [**Name (NI) 239**] has not made
+   definitive decision as of yet, but would like to be intubated if
+   situation appears reversible.  She is not sure yet about chest
+   compressions
+   Disposition: ICU

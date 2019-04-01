@@ -1,0 +1,11 @@
+TITLE: Post Catherization Check
+   [**Age over 90 **] y.o male with history of aortic stenosis, hypertension,
+   hyperlipidemia here with NSTEMI now s/p bare metal stent to RCA.
+   Patient is comfortable, denies chest pain, shortness of breath, groin
+   pain or back pain.  Heart rate 109, blood pressure 90/55, RR 24,
+   Saturation 95% on 4L NC.  Physical exam shows no evidence of
+   ecchymoses, hematoma or bleeding.  No femoral bruit.  No distal edema.
+   DP and PT pulses dopplerable.  No evidence of retroperitoneal bleed,
+   hematoma or pseudoaneurysm.
+   [**First Name4 (NamePattern1) 406**] [**Last Name (NamePattern1) **], PGY-1
+   [**Numeric Identifier 10583**]

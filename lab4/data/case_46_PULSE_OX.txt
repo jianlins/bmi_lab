@@ -1,0 +1,277 @@
+Chief Complaint:  post-operative monitoring
+   HPI:
+   73 yo male with a history of bilateral renal cell carcinoma metastatic
+   to the right adrenal gland was transferred to the [**Hospital Unit Name 1**] for
+   post-operative monitoring after right adrenalectomy and prostate
+   biopsy.
+   Patient was [** Location **]usly diagnosed with bilateral renal cell carcinoma in
+   [**10-24**] and underwent right partial nephrectomy and left nephrectomy. He
+   developed metastatic disease to the right adrenal in [**2967-11-20**] for
+   which he received a course of sutent and temsirolimus. Patient was then
+   evaluated by Dr. [**Last Name (STitle) 382**] in [**1-/2969**] who recommended isolated surgical
+   resection of his right adrenal. He underwent right adrenalectomy in the
+   OR on [**2969-3-21**]. Of note, patient also underwent prostate biopsy due to
+   persistently elevated PSA.The procedure was approximately 4 hours.
+   During the procedure, he received 6 liters of Lactated Ringer's
+   Solution, 4 units pRBCs, and 1 unit FFP. Estimated blood loss was
+   1100mL with urine output of 2750 with 20mg IV lasix given. He also had
+   an epidural in place for pain control. Post-operatively he was
+   extubated without difficulty and transitioned to 6L facemask prior to
+   transfer.
+   Upon arrival to the floor, patient reports feeling generally well with
+   [**5-30**] abdominal pain surrounding his surgical incision site. He
+   otherwise denies fevers, chills, night sweats, chest pain, or shortness
+   of breath.
+   Patient admitted from: [**Hospital1 17**] OR / PACU
+   History obtained from Patient, Medical records
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Cefazolin - [**2969-3-21**] 09:43 PM
+   Infusions:
+   Other ICU medications:
+   Pantoprazole (Protonix) - [**2969-3-21**] 09:43 PM
+   Metoprolol - [**2969-3-21**] 11:38 PM
+   Other medications:
+   HOME MEDICATIONS:
+   1. Clonidine .1mg PO daily
+   2. Hydroxyzine 25mg PO tid prn
+   3. Norvasc 10mg PO daily
+   Past medical history:
+   Family history:
+   Social History:
+   1. Bilateral Renal Cell Carcinoma
+   Patient was initially diagnosed with T1b No M0 in [**2965-11-18**] after which
+   he underwent a left nephrectomy ([**10/2965**]) and right partial nephrectomy
+   ([**9-/2965**]) for a 6.5cm mass of his left kidney and 2.5cm mass of his
+   right kidney. He then developed a recurrence in his right adrenal in
+   [**2967-11-20**] at which time he was treated with Sutent. Unfortunately
+   he developed progression of his disease in [**2968-9-19**] and was then
+   started on tensirolimus in [**2968-11-19**].
+   2. Hypertension
+   3. s/p TURP in [**2961**] with negative biopsies in [**10/2966**] after having
+   elevated PSA 7.74
+   4. s/p appendectomy
+   Mother - Breast [**Name (NI) 383**] and [**Name (NI) **] Cancer
+   Father - died with alcoholism
+   Sister - alive
+   Occupation: retired firefighter and retired construction worker
+   Drugs: denies
+   Tobacco: [** Location **]us history of cigar use, but quit > 5 years ago
+   Alcohol: [**12-22**] drinks per week
+   Other: Home: lives alone in [**State 384**] but has supportive family
+   Review of systems:
+   Gastrointestinal: Abdominal pain
+   Pain: [**4-25**] Moderate
+   Pain location: surrounding incision site
+   Flowsheet Data as of [**2969-3-22**] 04:44 AM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37
+C (98.6
+   Tcurrent: 37
+C (98.6
+   HR: 84 (74 - 97) bpm
+   BP: 146/86(100) {130/76(92) - 146/86(100)} mmHg
+   RR: 25 (15 - 26) insp/min
+   SpO2: 96%
+   Heart rhythm: SR (Sinus Rhythm)
+   CVP: 7 (6 - 13)mmHg
+   PAP: (43 mmHg) / (18 mmHg)
+                                Total In:
+                                                                    263 mL
+                                                                    343 mL
+   PO:
+                                TF:
+   IVF:
+                                                                    263 mL
+                                                                    343 mL
+   Blood products:
+   Total out:
+                                                                  1,860 mL
+                                                                    620 mL
+   Urine:
+                                                                  1,860 mL
+                                                                    620 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                 -1,597 mL
+                                                                   -277 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 96%
+   ABG: ///23/
+   Physical Examination
+   T 98.4 / HR 96 / BP 143/84 / RR 18 / Pulse ox 95% on 60% ventimask
+   Gen: resting comfortably in bed, NAD, speaking in full sentences
+   HEENT: Clear OP, dry mucous membranes
+   NECK: Supple, No LAD, No JVD
+   CV: RR, NL rate. NL S1, S2. No murmurs, rubs or gallops
+   LUNGS: CTA, BS BL, No W/R/C
+   ABD: dressings on right-side of abdomen with blood leaking through one
+   dressing change; nontender to palpation on left abdomen but tender to
+   palpation approaching incision site
+   EXT: No edema. 2+ DP pulses BL
+   SKIN: No rashes
+   NEURO: A&Ox3. Appropriate. CN 2-12 grossly intact. Preserved sensation
+   throughout. 5/5 strength throughout.   Normal coordination. Gait
+   assessment deferred
+   PSYCH: Listens and responds to questions appropriately, pleasant
+   Labs / Radiology
+   349 K/uL
+   12.7 g/dL
+   120 mg/dL
+   1.7 mg/dL
+   17 mg/dL
+   23 mEq/L
+   107 mEq/L
+   4.9 mEq/L
+   141 mEq/L
+   36.3 %
+   27.1 K/uL
+         [image002.jpg]
+                                  [**2966-12-22**]
+                          2:33 A4/2/[**2968**]  02:28 AM
+                                  [**2966-12-26**]
+                                   10:20 P
+                                  [**2966-12-27**]
+                                   1:20 P
+                                  [**2966-12-28**]
+                                   11:50 P
+                                  [**2966-12-29**]
+                                   1:20 A
+                                  [**2966-12-30**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**2967-1-22**]
+                                   1:20 P
+                                  [**2967-1-22**]
+                                   11:20 P
+                                  [**2967-1-22**]
+                                   4:20 P
+   WBC
+                                    27.1
+   Hct
+                                    36.3
+   Plt
+                                     349
+   Cr
+                                     1.7
+   Glucose
+                                     120
+   Other labs: PT / PTT / INR:13.4/26.1/1.1, ALT / AST:[**10-11**], Alk Phos / T
+   Bili:78/0.8, LDH:240 IU/L, Ca++:8.7 mg/dL, Mg++:1.9 mg/dL, PO4:5.1
+   mg/dL
+   Fluid analysis / Other labs: [**2969-3-21**] - 4:15pm
+   WBC 24.6 / Hct 37 / Plt 356
+   .
+   [**2969-3-21**] - 2pm
+   Na 141 / K 4.2 / Cl 112 / CO2 19 / BUN 19 / Cr 1.7 / BG 167
+   Mg 2
+   WBC 15.9 / Hct 36.1 / Plt 386
+   .
+   [**2969-3-21**] - 11:41am
+   Na 141 / K 4.3 / Cl 115 / CO2 18 / BUN 18 / Cr 1.6 / BG 154
+   pH 7.34 / PCO2 36 / PO2 108
+   WBC 14 / Hct 29 / Plt 332
+   INR 1.2
+   Fibrinogen 516
+   .
+   [**2969-2-15**]
+   WBC 10.4 / Hct 30.4 / Plt 493
+   BUN 28 / Cr 2.3
+   Alk Phos 94
+   Testosterone 314 / Free Testosterone 13
+   PSA 10.4
+   Imaging: MRI Abdomen - [**2969-2-26**] -
+   1.  Large right adrenal mass with surrounding neovascularity and
+   without evidence of direct invasion into the adjacent liver. Doubt
+   extension into the IVC at this time. The MR appearance is non-specific,
+   but, according to the provided history, this is thought to represent a
+   metastatic lesion.
+   2. S/p left nephrectomy.  No soft tissue abnormality to suggest local
+   recurrence in the left renal bed.
+   3. S/p right partial nephrectomy. Multiple small cystic foci within the
+   right kidney, including one with ? septum or punctate enhancement.
+   Continued surveillance is recommended.
+   4.  Two subcentimeter right paraaortic lymph nodes not enlarged by size
+   criteria. If possible, comparison with prior studies (none on PACs
+   record) is recommended to assess for any evidence of interval growth.
+   5. Two small foci identified on limited assessment of the liver.  If
+   clinically indicated, dedicated MRI of the liver using BOPTA contrast
+   could help to assess whether the segment VII lesion represents focal
+   nodular hyperplasia and would also further characterize the high T2
+   lesion in the hepatic dome. The small lesion in the dome is not fully
+   characterized, but, statistically, most likely represents a small cyst
+   or hemangioma.
+   - Portable CXR - [**2969-3-21**]
+   Appropriate positioning of supporting lines and tubes.  Free air
+   under the diaphragm consistent with prior abdominal surgery.  No acute
+   cardiopulmonary abnormalities.
+   Microbiology: PATHOLOGY:
+   [**2969-3-21**] - Prostate Bx - pending
+   [**2969-3-21**] - Right adrenal gland - pending
+   Assessment and Plan
+   73 yo male with history of bilateral renal cell carcinoma metastatic to
+   right adrenalectomy presents for post-operative monitoring after right
+   adrenalectomy and prostate biopsy.
+   PLAN:
+   1. s/p right adrenalectomy
+   Patient just underwent right adrenalectomy complicated by 1.1L of blood
+   loss and requiring 4 units pRBCs and 6L of LR. He currently appears
+   stable and with complaints only of pain.
+   - continue to monitor post-operative vitals and UOP
+   - continue epidural  pain service
+   - ap[** Location **]te pain service recs
+   2. Hypoxia
+   Differential diagnosis includes most likely pulmonary edema, although
+   patient has no known history of congestive heart failure. Additional
+   possibilities include infection, although patient has remained afebrile
+   and without cough/sputum production. Additional possibility includes PE
+   given patient
+s active malignancy, although would be unwilling to risk
+   CTA in this patient with impaired renal function.
+   - continue autodiuresis as patient has been making good urine
+   - check CXR
+   - hold off on antibiotics for now without fever or sputum production
+   - continue to consider PE if symptoms persist or do not improve
+   - consider getting an echocardiogram if symptoms do not improve
+   3. Leukocytosis
+   Patient with elevated WBC to 26.4 in the post-operative setting,
+   although patient has remained afebrile.
+   - if patient spikes, pan-culture
+   - consider broad coverage with cefepime, cipro, and vancomycin if
+   patient spikes
+   - add on differential
+   4. Hypertension
+   Patient has remained normotensive after surgery.
+   - will hold patient's anti-HTN given blood loss and need for 6L IVF
+   with 4 units pRBCs intra-operatively.
+   - consider restarting anti-HTN in the AM
+   5. Renal Cell Carcinoma
+   Patient with bilateral renal cell carcinoma now s/p left nephrectomy
+   and partial right nephrectomy. Only known metastatic site is right
+   adrenal and now s/p right adrenalectomy.
+   - continue outpatient management per urology and oncology
+   ICU Care
+   Nutrition:  NPO for now
+   Glycemic Control:  adequate control for now, consider adding HISS if
+   sugars are elevated
+   Lines:
+   PA Catheter - [**2969-3-21**] 07:54 PM
+   20 Gauge - [**2969-3-21**] 09:26 PM
+   Prophylaxis:
+   DVT:  pneumoboots
+   Stress ulcer: not needed
+   VAP:   not needed
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  ICU for now and consider calling out if respiratory
+   status remains stable

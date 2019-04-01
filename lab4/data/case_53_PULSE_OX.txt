@@ -1,0 +1,324 @@
+Chief Complaint:  OSH transfer for STEMI
+   HPI:
+   78yo female with multiple medical problems including type 2 diabetes
+   mellitus, coronary artery disease, hyperlipidemia, hypertension,
+   peripheral vascular disease, and AAA was transferred from an OSH with a
+   STEMI.
+   .
+   In [**1-21**], patient recently fell at home from "legs buckling under her
+   because of neuropathy" and was sent to rehab. While in rehab, she
+   tripped on the stairs and broke her ankle with no subsequent surgical
+   intervention. At rehab, she endorsed 2 separate episodes of epigastric
+   burning over the past 2 weeks that lasted a short amount of time and
+   was relieved by oxygen and vomiting.  Today she had another episode
+   which she describes as an epigastric type burning sensation associated
+   with nausea and vomiting. The character of the episode was similar to
+   the [** Location **]us episodes; however this episode lasted longer.  She also
+   endorsed pain radiating to her back and shortness of breath.
+   .
+   Upon initial evaluation by EMS at 11:09am, her vital signs were HR 58,
+   BP 92/48, RR 16, and 88% on 2L.  She was taken to [**Hospital3 326**] and
+   arrived at 12:15pm. Upon arrival at [**Hospital3 326**], vital signs were BP
+   131/53, HR 86, RR 18, temp 98.4, and pulse ox 100% (unclear how much
+   supplemental O2 she received). She received SL NG x 1, ASA 325mg PO x
+   1, nitro gtt at 10mcg, dilaudid .5mg IV x 1, plavix 660mg PO x 1, and
+   heparin drip. ECG at the OSH demonstrated STE in II, III, and avF with
+   reciprocal STD in I, avL, V1, and V2.
+   .
+   She was med flighted to [**Hospital1 5**] where she was transferred to the cath lab
+   and received aspirin 325mg PO, heparin bolus, integrelin, and
+   potassium. She was found to have a subtotal occlusion in the mid left
+   circumflex for which she received a bare metal stent.
+   .
+   Of note, she was admitted to [**Hospital1 5**] on [**3332-2-18**] for a cardiac
+   catheterization and she was found to have 95% stenosis of her left
+   circumflex with a "miniscule" RCA with 30% mid segment stenosis.
+   .
+   Patient is on oxygen at baseline for COPD-usually 2L but recently
+   increased to 2.5L. She also endorsed increased lower extremity swelling
+   since her ankle fracture 3 weeks ago. She describes leg weakness and
+   chronic back pain.
+   .
+   On review of systems, she denies any prior history of stroke, TIA, deep
+   venous thrombosis, pulmonary embolism, bleeding at the time of surgery,
+   myalgias, joint pains, cough, hemoptysis, black stools or red stools.
+   She denies recent fevers, chills or rigors. She denies exertional
+   buttock or calf pain. All of the other review of systems were
+   negative.
+   .
+   Cardiac review of systems is notable for presence of chest pain,
+   dyspnea on exertion, ankle edema, but absence of palpitations,
+   paroxysmal nocturnal dyspnea, orthopnea, syncope or presyncope.
+   Allergies:
+   Augmentin (Oral) (Amox Tr/Potassium Clavulanate)
+   Rash;
+   Atacand (Oral) (Candesartan Cilexetil)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Eptifibatide (Integrilin) - 1 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   REHAB MEDICATIONS:
+   1. Levemir 20 units SC qhs
+   2. Diltiazem 300mg PO daily
+   3. Vitamin D 800 units PO daily
+   4. Actos 15mg PO qAM
+   5. Prevacid 30mg PO daily
+   6. Xalatan eye gtt 2 drops ou qhs
+   7. gabapentin 100mg PO qhs
+   8. Xopenex inh q4h prn
+   9. Tylenol 325-650mg PO q4h prn
+   10. MOM 30mL PO daily prn
+   11. Lasix 80mg PO daily (recently increased from 40mg daily on [**3335-3-9**])
+   12. Potassium 20mEq PO daily
+   13. Imdur 30mg PO daily
+   14. Flovent 1 puff [**Hospital1 **]
+   15. Xopenex tid prn
+   16. Atrovent inh qid standing
+   17. Hydralazine 10mg PO qid
+   18. Xanax .25mg qhs
+   .
+   - Patient recently completed a course of levofloxacin, lasix 40mg
+   daily, cephalexin
+   Past medical history:
+   Family history:
+   Social History:
+   1. Hypertension
+   2. Hyperlipidemia
+   3. Type 2 Diabetes Mellitus
+   4. h/o Tobacco Abuse
+   5. Peripheral Vascular Disease
+   6. Abdominal Aortic Aneurysm
+   7. Asthma
+   8. Breast Cancer
+   - treated with right mastectomy and tamoxifen
+   9. COPD
+   Social history is significant for the absence of current tobacco use.
+   Pt quit smoking in [**3317**]. There is no history of alcohol abuse. There is
+   no family history of premature coronary artery disease or sudden death.
+   She is a widower and lives alone. She has three sons and a daughter.
+   .
+   - Mother - CAD at age 70yo; died at age 82yo from CVA
+   - Sister - Rheumatic [**Name (NI) 3376**] Disease - died from heart problems at age 49
+   - Sister - CABG in her 60s
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**3335-3-26**] 07:04 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 35.6
+C (96
+   Tcurrent: 35.6
+C (96
+   HR: 58 (56 - 59) bpm
+   BP: 111/38(53) {111/38(53) - 122/54(69)} mmHg
+   RR: 13 (11 - 19) insp/min
+   SpO2: 95%
+   Heart rhythm: SB (Sinus Bradycardia)
+   Height: 61 Inch
+             Total In:
+             1,258 mL
+   PO:
+             TF:
+   IVF:
+   1,258 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    420 mL
+   Urine:
+   420 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    838 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 95%
+   ABG: ///35/
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   621 K/uL
+   8.8 g/dL
+   126 mg/dL
+   0.7 mg/dL
+   16 mg/dL
+   35 mEq/L
+   101 mEq/L
+   4.5 mEq/L
+   143 mEq/L
+   27.6 %
+   13.3 K/uL
+        [image002.jpg]
+                                  [**3332-1-14**]
+                          2:33 A3/14/[**3335**]  04:52 PM
+                                  [**3332-1-18**]
+                                   10:20 P
+                                  [**3332-1-19**]
+                                   1:20 P
+                                  [**3332-1-20**]
+                                   11:50 P
+                                  [**3332-1-21**]
+                                   1:20 A
+                                  [**3332-1-22**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3332-2-14**]
+                                   1:20 P
+                                  [**3332-2-14**]
+                                   11:20 P
+                                  [**3332-2-14**]
+                                   4:20 P
+   WBC
+                                    13.3
+   Hct
+                                    27.6
+   Plt
+                                     621
+   Cr
+                                     0.7
+   Glucose
+                                     126
+   Other labs: CK / CKMB / Troponin-T:44//, Ca++:8.7 mg/dL, Mg++:1.9
+   mg/dL, PO4:4.7 mg/dL
+   Fluid analysis / Other labs: [**3335-3-26**]:
+   BNP 237
+   wbc 12.3, hct 29.2, plt 556
+   CK TroponinI 0.03
+   CK-MB 0.5 wnl
+   CKMB 2.6 wnl
+   Imaging:
+   .
+   CARDIAC CATH performed on [**3332-2-15**] demonstrated:
+   1. Selective coronary angiography of this left dominant system revealed
+   a single vessel disease. The LMCA, and LAD had no angiographically
+   apparent disease. The LCx had 95% stenosis at the origin of a very
+   small OM2 branch. The RCA was miniscule with 30% mid segment stenosis.
+   2. Limited hemodynamics demonstrated mildly elevated LVEDP of 20mmHg.
+   3. Left ventriculography revealed neither mitral regurgitation nor wall
+   motion abnormalities. Calculated ejection fraction was 63%.
+   FINAL DIAGNOSIS:
+   1. Minor branch disease.
+   2. Normal ventricular function.
+   .
+   CARDIAC CATHETERIZATION on [**3335-3-26**]:
+   initial angiography showed the mid LCX to be subtotally occluded at the
+   site of known lesion (was seen on [**3332**] cath). We planned to treat this
+   with direct stenting. A 6 French 3.5 XB guide provided adequate
+   support. A Prowater wire crossed the lesion with minimal difficulty. A
+   3.0x18 mm Vision BMS was deployed at 14 ATM. Final angiography revealed
+   10% residual stenosis without dissection or distal emboli.
+   The patient left the cath lab free from angina and in stable
+   condition.
+   COMMENTS:
+   1-
+   2-
+   3-
+   4- Successful primary angioplasty (direct stenting) of the mid LCX with
+   a 3.0x18 mm Vision BMS. Final angiography revealed 0% residual stenosis
+   without dissection or distal emboli.
+   FINAL DIAGNOSIS:
+   1. One vessel coronary artery disease.
+   2. Successful primary angioplasty with stenting of the mid LCX with a
+   BMS.
+   ECG: EKG demonstrated NS bradycardia with normal axis. Good R wave
+   progression. PR interval wnl. STE in II, III, AvF with reciprocal
+   changes with STD in AvL, I, V1 and V2. Clearly significantly changed
+   from [**3332-2-15**].
+   Assessment and Plan
+   78yo female with a history of multiple medical problems including type
+   2 diabetes mellitus, hypertension, and peripheral vascular disease was
+   admitted with STEMI and had a bare metal stent placed to the left
+   circumflex.
+   .
+   1. CAD now s/pSTMEI: Has multiple risks for CAD as detailed above. Her
+   history of multiple episodes of epigastric pain appears most consistent
+   with unstable angina. Patient had STE in inferior region but has left
+   dominant system. Patient had BMS to LCx and now is chest pain free.
+   - continue aspirin
+   - recommended that patient start statin, but she refused due to
+   [** Location **]us episodes of myalgias with statin; will continue to readdress
+   as patient has multiple other reasons for which she may have had leg
+   pain
+   - check fasting lipid panel in the AM
+   - consider starting ACEI
+   - consider starting beta blocker tomorrow if HR improves
+   .
+   2. Pump: Patient appears mildly hypervolemic currently but difficult to
+   assess secondary to body habitus and post cath flat positioning.
+   Patient was [** Location **]usly on multiple anti-hypertensive agents at her
+   rehab facility, including hydralazine, CCB, and nitrate. Patient would
+   certainly benefit from ACEI and beta blockade given her STEMI.
+   - echocardiogram
+   - hold furosemide for now given that patient appears euvolemic and
+   consider restarting within the next 48 hours
+   - consider starting beta blocker tonight if HR improves
+   - consider starting ACEI tomorrow
+   .
+   3. Rhythm: Patient remains slightly bradycardic but in normal sinus
+   rhythm.
+   - continue to monitor on telemetry via ICU protocol
+   .
+   4. Type 2 Diabetes Mellitus
+   - f/u A1C
+   - continue insulin
+   - add humalog sliding scale
+   - hold oral hypoglycemics including actos for now and will plan to
+   restart within the next 1-2 days
+   .
+   5. Vitamin D deficiency:Stable
+   - continue vitamin D supplementation
+   .
+   6. GERD:Stable
+   - continue prevacid
+   .
+   7. Glaucoma
+   - continue xalatan eye drops
+   .
+   8. COPD: on 2L oxygen at baseline
+   - continue xopenex, flovent, and atrovent
+   .
+   9. Anxiety: Given patient's acute illness and age, will hold BDP for
+   now and consider restarting within the next 48-72 hours.
+   .
+   7. Pain: c/o back pain chronically worsened with lying flat post cath
+   -continue gabapentin 100mg PO qhs
+   -tylenol for now
+   .
+   #. FEN: Follow and replete electrolytes. Cardiac diet. 1L IVF post cath
+   #. Access: PIV
+   #. FEN: Cardiac diet, replete lytes prn
+   #. PPx: PPI, fall precautions, bowel regimen prn, subQ hep
+   #. Code: full code
+   #. Dispo: pending clinical stability
+   #. Communication:  with patient
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3335-3-26**] 03:30 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status:
+   Disposition:

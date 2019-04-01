@@ -1,0 +1,188 @@
+Chief Complaint:
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   52yo man with a h/o  EtOH-induced cirrhosis with esophageal and rectal
+   varices with prior episodes of bleeding admitted with painless brbpr
+   and hypotension. He had multiple episodes of bright red blood in his
+   stool starting this morning. With this brbpr . He denies any NSAID or
+   EtOH use. He presented to [**Hospital 2988**] Hospital where his SBP was 85 with a HR
+   of 102. His BP nadir there was 68/36. He Hct on admission was 17.6%
+   with an INR 1.9. EKG unremarkable, CXR clear. He received 2 units of
+   PRBC and NS x 1L, protonix 80 mg IV, octreotide 50 mcg then 25 mcg/hr.
+   He was transferred here for further care.
+   In the [**Hospital1 5**] ED, he was afebrile with a SBP of 89, HR of 100, and a
+   pulse ox of 100% on RA. His Hct was 25.5%, he received 3 more units of
+   pRBCs, 2 units FFP were ordered but not yet given.
+   He was recently hospitalized at [**Hospital1 5**] from [**8-15**] to [**2756-9-7**] for UGIB due
+   to duodenal ulcer, alcoholic hepatitis treated with corticosteroids,
+   hepatorenal syndrome, and respiratory failure requiring mechanical
+   ventilation. His last EGD was on [**8-16**] and showed esophageal varices,
+   blood in the stomach, blood in the second part of the duodenum, and a
+   large visible vessel in the proximal duodenum. C-scope [**9-5**] showed
+   medium non-bleeding grade 2 internal hemorrhoids and two 4mm non-
+   bleeding ulcers noted on the hemorrhoid at a site of [** Location **]us banding.
+   24 Hour Events:
+ ENDOSCOPY - At [**2756-10-9**] 05:19 PM
+ ULTRASOUND - At [**2756-10-9**] 09:00 PM
+ URINE CULTURE - At [**2756-10-9**] 09:00 PM
+ MULTI LUMEN - START [**2756-10-9**] 09:19 PM
+ NUCLEAR MEDICINE - At [**2756-10-10**] 01:00 AM
+   Red Tag Cell Scan
+ EKG - At [**2756-10-10**] 06:30 AM
+   History obtained from Patient
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Ceftriaxone - [**2756-10-10**] 04:00 AM
+   Infusions:
+   Octreotide - 50 mcg/hour
+   Pantoprazole (Protonix) - 8 mg/hour
+   Other ICU medications:
+   Other medications:
+   Ceftriaxone 1gm IV q24h
+   Protonix 8mg/hr IV gtt
+   Octreotide 50mcg/hr IV gtt
+   Vitamin K 10mg IV x 1
+   Changes to medical and family history:
+   Review of systems is unchanged from admission except as noted below
+   Review of systems:
+   Flowsheet Data as of  [**2756-10-10**] 07:51 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.7
+C (98.1
+   Tcurrent: 36.7
+C (98.1
+   HR: 121 (87 - 121) bpm
+   BP: 104/59(68) {64/27(33) - 132/75(85)} mmHg
+   RR: 27 (16 - 27) insp/min
+   SpO2: 100%
+   Heart rhythm: ST (Sinus Tachycardia)
+   CVP: 4 (2 - 11)mmHg
+   Total In:
+                                                                  6,819 mL
+                                                                  2,117 mL
+   PO:
+   TF:
+   IVF:
+                                                                  4,273 mL
+                                                                    421 mL
+   Blood products:
+                                                                  2,546 mL
+                                                                  1,696 mL
+   Total out:
+                                                                  1,830 mL
+                                                                    428 mL
+   Urine:
+                                                                    330 mL
+                                                                    128 mL
+   NG:
+   Stool:
+                                                                  1,500 mL
+                                                                    300 mL
+   Drains:
+   Balance:
+                                                                  4,989 mL
+                                                                  1,689 mL
+   Respiratory support
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   General Appearance: No(t) Well nourished, No(t) No acute distress,
+   No(t) Overweight / Obese, Thin, Anxious
+   Eyes / Conjunctiva: PERRL, No(t) Pupils dilated, No(t) Conjunctiva
+   pale, No(t) Sclera edema
+   Head, Ears, Nose, Throat: Normocephalic, No(t) Poor dentition
+   Lymphatic: Cervical WNL, Supraclavicular WNL, Cervical adenopathy
+   Cardiovascular: (S1: Normal), (S2: Normal), No(t) S3, No(t) S4,
+   (Murmur: No(t) Systolic, No(t) Diastolic)
+   Peripheral Vascular: (Right radial pulse: Present), (Left radial pulse:
+   Present), (Right DP pulse: Present), (Left DP pulse: Present)
+   Respiratory / Chest: (Expansion: Symmetric), (Percussion: No(t)
+   Resonant : , No(t) Dullness : ), (Breath Sounds: Clear : , No(t)
+   Crackles : , No(t) Bronchial: , No(t) Wheezes : )
+   Abdominal: Soft, Non-tender, Bowel sounds present, No(t) Distended,
+   No(t) Obese
+   Extremities: Right lower extremity edema: Trace, Left lower extremity
+   edema: Trace, No(t) Cyanosis, No(t) Clubbing
+   Musculoskeletal: Muscle wasting, No(t) Unable to stand
+   Skin:  Not assessed, No(t) Rash: , No(t) Jaundice
+   Neurologic: Attentive, Follows simple commands, Responds to: Verbal
+   stimuli, Oriented (to): person, place, why he is here, Movement: Not
+   assessed, No(t) Sedated, Tone: Not assessed
+   Labs / Radiology
+   11.6 g/dL
+   84 K/uL
+   146 mg/dL
+   1.2 mg/dL
+   10 mEq/L
+   4.9 mEq/L
+   37 mg/dL
+   123 mEq/L
+   140 mEq/L
+   31.6 %
+   17.1 K/uL
+        [image002.jpg]
+   Differential-Neuts:81.6 %, Lymph:12.9 %, Mono:4.5 %, Eos:0.4 %,
+                            [**2756-10-9**]  08:46 PM
+                            [**2756-10-9**]  11:31 PM
+                            [**2756-10-10**]  04:17 AM
+                            [**2756-10-10**]  06:12 AM
+   WBC
+   17.1
+   Hct
+   25.0
+   22.2
+   34.0
+   31.6
+   Plt
+   84
+   Cr
+   1.2
+   Glucose
+   146
+   Other labs:
+   PT / PTT / INR:18.1/45.8/1.6,
+   Lactic Acid:2.3 mmol/L,
+   Ca++:6.2 mg/dL, Mg++:1.4 mg/dL, PO4:4.2 mg/dL
+   Assessment and Plan
+   52yo man with a h/o  EtOH-induced cirrhosis with esophageal and rectal
+   varices with prior episodes of bleeding admitted with painless brbpr
+   and hypotension.
+ GASTROINTESTINAL BLEED, LOWER (HEMATOCHEZIA, BRBPR, GI BLEED, GIB)
+   GI performed endoscopy on arrival to the MICU and there was no clear
+   source of brisk bleeding. There was an area of possible prior bleeding
+   at the ampula, a possible non-bleeding ucler. On Protonix IV,
+   Octreotide and Ceftriaxone as per UGIB protocol. He has adequate IV
+   access with a central line and 3 pIVs. Liver service to repeat EGD this
+   AM given the positive tagged RBC scan last night.
+ END STAGE LIVER DISEASE
+   Hold Spironolactone and Lasix in the acute setting. Hold Lactulose
+   while monitoring him for further episodes of GI bleeding. Follow Liver
+   recs.
+ ETOH USE
+   None since [**7-3**]. Will monitor prospectively. No need for benzos at this
+   time. No e/o alcoholic hepatitis.
+ RENAL
+   He had acute renal failure during his prior hospitalization; his
+   creatinine is currently within normal limits. Will follow his
+   creatinine and UOP going forward.
+   ICU Care
+   Nutrition: NPO for now.
+   Glycemic Control:
+   Lines / Intubation: 18 Gauge - [**2756-10-9**] 05:09 PM
+   Comments:
+   Prophylaxis:
+   DVT: SCDs.
+   Stress ulcer: PPI IV.
+   VAP:  N/A.
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition: ICU for now.
+   Total time spent:

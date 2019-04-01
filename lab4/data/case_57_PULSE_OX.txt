@@ -1,0 +1,205 @@
+Chief Complaint:   bleed
+   HPI:
+   81yo female with multiple medical problems including CVA in [**3012**],
+   hypertension, and hyperlipidemia was admitted from the cath lab with
+   wire perforation and bleeding during peripheral vascular procedure.
+   .
+   She underwent noninvasive imaging studies of her lower extremities,
+   which demonstrated totally occluded bilateral superficial femoral
+   arteries. She underwent left SFA stenting at [**Hospital1 17**] on [**3026-2-14**] and then
+   presented to [**Hospital1 17**] on this day of admission for right SFA stenting.
+   While in the cath lab, a catheter was introduced into the left femoral
+   artery and wired through to the right SFA when a wire perforation
+   occurred in the right SFA. She developed bleeding into the right thigh.
+   She developed swelling in her right leg with thigh circumference of
+   52cm compared to left thigh of 46 cm.
+   .
+   On review of systems, she denies any prior history of pulmonary
+   embolism, bleeding at the time of surgery, myalgias, joint pains,
+   cough, hemoptysis, black stools or red stools. She denies recent
+   fevers, chills, or rigors.  All of the other review of systems were
+   negative.
+   .
+   Cardiac review of systems is notable for absence of chest pain, dyspnea
+   on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema,
+   palpitations, syncope or presyncope.
+   Patient admitted from: [**Hospital1 17**] Cath Lab
+   History obtained from Patient, Medical records
+   Allergies:
+   Latex
+   Unknown;
+   Black Dye
+   Unknown;
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   OUTPATIENT MEDICATIONS:
+   1. Amlodipine 5mg daily
+   2. Nexium 40mg PRN
+   3. Lopressor 25mg [**Hospital1 **]
+   4. Ativan 0.5mg prn
+   5. Cozaar 25mg [**Hospital1 **]
+   6. Meclizine 12.5mg prn
+   7. Plavix 75mg daily
+   8. Simvastatin 60mg daily
+   9. Vitamin c daily
+   10. B complex vitamins daily
+   11. Calcium plus D daily
+   12. Ferrous sulfate 325mg daily
+   13. MVI
+   14. Simethicone PRN
+   15. Ocean nasal spray
+   16. Vitamin E 400 IU daily
+   Past medical history:
+   Family history:
+   Social History:
+   PAST MEDICAL HISTORY:
+   1. CVA in [**3012**]
+   2. Hypertension
+   3. Hyperlipidemia
+   4. S/P bilateral DVT postoperatively to bowel surgery [**3019**]
+   5. GERD
+   6. Anxiety
+   7. Arthritis
+   .
+   PAST SURGICAL HISTORY:
+   1. S/p partial colectomy for adenoma
+   2. S/P right fifth metatarsal fracture
+   3. S/P fractured right humerus in [**3023**]
+   4. PVD s/p left SFA stenting
+   5. Left ankle surgery, ORIF in [**2994**]
+   There is no family history of premature coronary artery disease or
+   sudden death.
+   Occupation: Denies
+   Drugs: Denies
+   Tobacco: Denies
+   Alcohol: Denies
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**3026-3-7**] 07:03 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   HR: 68 (65 - 68) bpm
+   BP: 141/74(92) {141/74(92) - 141/74(92)} mmHg
+   RR: 15 (15 - 18) insp/min
+   SpO2: 100%
+             Total In:
+             975 mL
+   PO:
+             TF:
+   IVF:
+   975 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    900 mL
+   Urine:
+   900 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                     75 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 100%
+   Physical Examination
+   VS: HR 65 / BP 141/74 / RR 18 / Pulse ox 100% 2L NC
+   Gen: WDWN elderly female in NAD. Oriented x3. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   Neck: Supple
+   CV: PMI located in 5th intercostal space, midclavicular line. RR,
+   normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   Chest: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   Abd: + BS, Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   Ext: No c/c/e. No femoral bruits. Right thigh medially is hard and
+   tender with ecchymoses.
+   Skin: No stasis dermatitis, ulcers, scars, or xanthomas.
+   .
+   Pulses:
+   Right:  DP 2+ PT dopplerable
+   Left:  DP 2+ PT dopplerable
+   Labs / Radiology
+   Fluid analysis / Other labs: LABORATORY DATA:
+   [**3026-3-7**] Hb 11 / Hct 30.6
+   .
+   Imaging: MEDICAL DECISION MAKING
+   - TELEMETRY demonstrated: NSR
+   - 2D-ECHOCARDIOGRAM performed on [**3023-7-29**] demonstrated:  Regional left
+   ventricular systolic dysfunction c/w CAD. Mild mitral regurgitation
+   most likely due to papillary muscle dysfunction.
+   - ETT performed on [**3023-10-6**] demonstrated: No objective evidence of
+   myocardial ischemia by EKG. No anginal symptoms. Moderate grade AEA.
+   Nuclear report sent separately. ; Severe, fixed myocardial perfusion
+   defect of the basal inferior segment. Moderate, fixed defect of the
+   basal inferolateral segment. No reversible defects at the level of
+   exercise stress achieved. Normal left ventricular cavity size.
+   Hypokinetic basal inferior and inferolateral segments with calculated
+   LVEF 61%.
+   - CARDIAC CATH performed on [**3026-3-7**] demonstrated:
+   - HEMODYNAMICS:  not done
+   ECG: - EKG [**3026-3-7**]: NSR at ~65 bpm, normal axis,no acute ST changes
+   Assessment and Plan
+   81yo female with history of CVA, hypertension, and hyperlipidemia is
+   admitted to the CCU for monitoring after right SFA perforation during
+   right SFA stenting procedure.
+   1. Bleed
+   Patient has evidence of bleeding into the right thigh related to right
+   SFA perforation. Patient continues to have adequate blood flow into her
+   lower extremities with palpable DP pulses and dopplerable PT pulses
+   bilaterally.
+   - will check q4h Hct overnight
+   - maintain active T+S with blood consent
+   - keep 2 peripheral IVs
+   - hold heparin SC
+   - restart aspirin and clopidogrel in the AM if blood counts are stable
+   2. Hypertension
+   Patient's blood pressure is under adequate control currently.
+   - continue amlodipine, lopressor, and cozaar at home doses
+   - will consider giving hydralazine prn or nitro gtt overnight if
+   patient has elevated blood pressures
+   3. GERD
+   Stable
+   - consider PPI prn if needed
+   4. Peripheral Vascular Disease
+   Patient has marked peripheral vascular disease and has undergone left
+   SFA stent within the last 30 days.
+   - restart aspirin and clopidogrel tomorrow AM if blood counts are
+   stable
+   - will follow-up as an outpatient regarding repeat attempt at right SFA
+   - continue statin
+   ICU Care
+   Nutrition:
+   Comments: : Follow and replete electrolytes. Cardiac diet. D5 1/2 NS
+   150mL/hr x 1.5L
+   - continue Vitamin C, B complex vitamins, Calcium + Vitamin D, Ferrous
+   Sulfate, MVI, Vitamin E
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**3026-3-7**] 06:00 PM
+   Prophylaxis:
+   DVT:
+   Stress ulcer: Not indicated
+   VAP:
+   Comments:
+   Communication:  Comments: Communication:  [**Doctor Last Name 122**] (brother): [**Telephone/Fax (1) 6237**];
+   [**First Name8 (NamePattern2) 6238**] [**Last Name (NamePattern1) 6239**] 17-[**Telephone/Fax (1) 6240**]
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   Pt examined, discussed with team. Localized SFA perforation during
+   intervention, hemodynamically stable, R thigh firm hematoma which does
+   not appear to be expanding, groin site c/d/i. Ap[** Location **]te vascular
+   evaluation. Plan for continued monitoring clinically and serial hcts.
+   ------ Protected Section Addendum Entered By:[**Name (NI) 4934**] [**Last Name (NamePattern1) 6241**], MD
+   on:[**3026-3-7**] 19:20 ------

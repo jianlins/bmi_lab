@@ -1,0 +1,40 @@
+TITLE: EP note
+   81 year-old male with h/o ischemic cardiomyopathy, s/p recent VT
+   ablation for intractable VT. Has been quiet in terms of arrhythmias,
+   but complicated by e.coli UTI, and acute renal failure.
+   On physical exam alert and oriented, but appears weak, and febrile.
+   Heart rate 60, saturation is 96% with nasal cannula, and blood pressure
+   is 92/48. Lungs bilateral mild crackles. Heart regular rhythm with no
+   murmur, extremities with no edema.
+   Plan:
+    1. ARF with Cr of 2.7
+ d/c digoxin, eplerenone, losartan and
+       quinidine.
+    2. Continue on BB, and lasix
+    3. E.coli UTI
+ continue on ceftriaxone.
+    4. Continue on Heparin until INR >=2
+    5. Coumadin with goal of INR [**1-20**]
+   ------ Protected Section ------
+ATTENDING STAFF NOTE
+====================
+I saw and examined this patient today.  I discussed the patient's
+progress, assessment and plan with Dr. [**Last Name (STitle) 10301**] and reviewed
+his note from today (thereafter termed "today's note").  I agree
+with today's note, and would add the following remarks to its key
+portions:
+Patient feels weak, somewhat chilled.
+Exam is as per today's note, bp has been low. low grade temp.
+Impression/Plan
+================
+1. Recurrent VT.  s/p ep/ablation, vp rhythm now off
+Quinidine now in sr at times conducting.
+2. Heart failure, chronic systolic dysfn: stable cl 2 on present
+regimen. today bp quite low. can adjust beta block, cozaar,
+lasix, eplerenone, quinidine to have bp >/ 100.
+3. CAD no chest pain on present regimen
+4.fever, foul smell urine, white cells. Pos e coli, cr incr. req foley reinsert
+500cc
+5. Outpatient cardiology follow-up: Dr. [**Last Name (STitle) 4203**].
+   ------ Protected Section Addendum Entered By:[**Name (NI) **] [**Name (NI) **]
+   on:[**2776-9-19**] 15:21 ------

@@ -1,0 +1,299 @@
+Date of service: [**3366-1-22**]
+   Initial visit, Cardiology service: CCU
+   Presenting complaint: Chest pain, Claudication, (Other: CCU admit for
+   agitation following complicated coronary and peripheral
+   catheterization)
+   History of present illness: Please see [**Hospital1 2208**] admission note for further
+   details. This note will incorporate pertinent past cardiac and
+   interventional studies from their note.
+   In brief, this is a 53 y/oF with significant past cardiac history s/p
+   CABG who was admitted under the [**Hospital1 2208**] service on [**3366-1-19**] for cardiac and
+   peripheral catheterization given DOE, recent chest pain, and
+   claudication.
+   She underwent catheterization for planned RCA stenting and exernal
+   iliac stenting. Access was initiated through the left groin but
+   complicated by dissection that was treated with angioplasty.
+   Angiography showed prox 70% tubular lesion with flow into LCx, RCA had
+   90% stenosis at origin.
+   The patient developed a cold left leg in the post-cath holding area
+   following the procedure and was returned to the cath lab where she was
+   found to have a popliteal occlusion. She had a left SFA stent and
+   attempted embolectomy, but ultimately treated with popliteal stent. She
+   left the cath lab with palpable pulses on the left side and dopplerable
+   pulse in the PT, none in the DP.
+   In the CCU, she was transfused overnight, developed worsening hypoxia
+   with room air sats in the high 80s, requiring 4L of NC to maintain O2
+   sats of 95. Complained of ongoing back pain and nausea, which both
+   occurred following her past procedures. The back pain was not
+   characteristically different from prior. She was markedly agitated as
+   noted by housestaff and nurses, requiring supervision to ensure that
+   she does not try to induce emesis by stimulating gag reflex.
+   She presently denies chest pain, but does have worsening shortness of
+   breath.
+   Past medical history: Cardiac Risk Factors: (-)Diabetes,
+   (+)Dyslipidemia, (+)Hypertension
+   .
+   Cardiac History (per [**Hospital1 2208**] Admit):
+   CABG, in [**9-/3363**] anatomy as follows:
+   1. left internal mammary artery to left anterior descending  artery
+   2. saphenous vein grafts to right coronary artery
+   3. saphenous vein grafts to obtuse marginal artery
+   4. saphenous vein grafts to diagonal artery
+   Aortic Valve Replacement (19mm St. [**Male First Name (un) 4636**] Mechanical), Mitral Valve
+   Replacement (27mm St. [**Male First Name (un) 4636**] Mechanical), Aortic Root Enlargement with
+   Pericardial Patch
+   .
+   Percutaneous coronary intervention:
+   1. Silverhawk atherectomy of the left SFA/PFA origin on  [**3364-2-20**]
+   2. PTA was performed on the PFA origin on [**3364-2-20**]
+   3. Acculink stent in [**Doctor First Name 5854**] on [**3363-9-6**]
+   4. Protege stent in the L SFA on [**3363-6-6**]
+   5. Atherectomy and angioplasty of RSFA on [**3363-5-5**]
+   .
+   Other Past History:
+   1. Hypertension.
+   2. Hyperlipidemia.
+   3. Peripheral vascular disease status post bilateral lower  extremity
+   SFA revascularization by Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2964**]
+   - [**2-9**] ABIs: 0.82 and 1.05 on the right and left respectively,
+   remaining stable with exercise. She has triphasic waveforms throughout
+   with exception of monophasic right DP. Her PVRs are maintained at 16
+   bilaterally at the metatarsal level. Duplex results reveal elevated
+   velocities at proximal aspect of stents bilaterally (248 and 305
+   cm/sec, respectively) consistent with 50% narrowing.
+   - [**3363-3-28**] ABIs: Right: 0.55, decreasing to 0.15 with exercise.  Left:
+   0.41, decreasing to 0.21 with exercise. Impression: Left
+   iliofemoral arterial disease, right SFA disease, possible left  SFA
+   disease, bilateral infrapopliteal arterial disease.
+   - [**3363-5-5**] right SFA atherectomy and angioplasty (Dr. [**First Name (STitle) 2964**]
+   - [**3364-1-19**]-ABIs as below
+   4. Coronary artery disease, status post CABG x4 in [**3363-9-4**],
+   under the care of Dr. [**Last Name (STitle) **].
+   5. Rheumatic heart disease with AR and MR, s/p AVR/MVR in
+   [**3363-9-4**].
+   6. Cardiomyopathy: [**3362-2-12**] admission to [**Hospital1 52**] [**Location (un) 1375**] with
+   CHF, cardiomyopathy, EF = 25%. Etiology unclear; repeat echo
+   [**3362-3-16**] EF = 55%.
+   7. Asymptomatic bilateral carotid artery disease status post
+   [**Doctor First Name 5854**] stent, under the care of Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 2964**] prior to
+   cardiac surgery in [**3363-9-4**].
+   8. Congenital hip dysplasia status post left total-hip
+   replacement
+   9. Chronic back pain
+   10. Status post appendectomy
+   11. Status post cholecystectomy
+   CAD Risk Factors
+   CAD Risk Factors Present
+   Dyslipidemia, Hypertension, Family Hx of CAD
+   CAD Risk Factors Absent
+   Diabetes mellitus, Family Hx of sudden cardiac death
+   (Tobacco: Yes), (Quit: Yes), (Discontinue tobacco: 2 years ago)
+   Cardiovascular Procedural History
+   PCI: Most recent: Today:
+   # Vision 4.0*15to RCA
+   # Right Ext Iliac Stent
+   # Right Angioplasty SFA
+   # Zilver Biliary Stent to Left SFA
+   # Left Popliteal Stent
+   Past PCI
+   1. Silverhawk atherectomy of the left SFA/PFA origin on
+   [**3364-2-20**]
+   2. PTA was performed on the PFA origin on [**3364-2-20**]
+   3. Acculink stent in [**Doctor First Name 5854**] on [**3363-9-6**]
+   4. Protege stent in the L SFA on [**3363-6-6**]
+   5. Atherectomy and angioplasty of RSFA on [**3363-5-5**]
+   CABG: Grafts: [**9-/3363**] anatomy as follows:
+   1. left internal mammary artery to left anterior descending
+   artery
+   2. saphenous vein grafts to right coronary artery
+   3. saphenous vein grafts to obtuse marginal artery
+   4. saphenous vein grafts to diagonal artery
+   Aortic Valve Replacement (19mm St. [**Male First Name (un) 4636**] Mechanical), Mitral Valve
+   Replacement (27mm St. [**Male First Name (un) 4636**] Mechanical), Aortic Root Enlargement with
+   Pericardial Patch
+   There is no history of:
+   Pacemaker / ICD
+   Allergies:
+   Zoloft (Oral) (Sertraline Hcl)
+   confusion;
+   Tetracyclines
+   Hives;
+   Prozac (Oral) (Fluoxetine Hcl)
+   Confusion/Delir
+   Paxil (Oral) (Paroxetine Hcl)
+   Confusion/Delir
+   Darvocet A500 (Oral) (Propoxyphene/Acetaminophen)
+   ringing in ears
+   Current medications: Lisinopril 30 mg PO DAILY
+   Lorazepam 2 mg IV ONCE nauea, anxiety
+   Lorazepam 1 mg IV Q4H:PRN nausea,, anxiety
+   Aspirin 325 mg PO DAILY
+   Metoprolol Tartrate 100 mg PO BID
+   Omeprazole 20 mg PO BID
+   Clopidogrel 75 mg PO DAILY
+   Ondansetron 4 mg IV Q8H:PRN nausea, vomiting
+   Docusate Sodium 100 mg PO BID
+   Oxycodone SR (OxyconTIN) 80 mg PO Q8H
+   Ferrous Sulfate 325 mg PO TID
+   Pravastatin 40 mg PO DAILY
+   HYDROmorphone (Dilaudid) 2 mg IV Q6H:PRN pain
+   Senna 1 TAB PO BID:PRN constiation
+   Heparin IV 600 Units per hour
+   Lactulose 30 mL PO TID
+   Cardiovascular ROS
+   Cardiovascular ROS Signs and Symptoms Present
+   Rheumatic fever, Claudication
+   Cardiovascular ROS Signs and Symptoms Absent
+   Murmur, Chest pain, SOB, Orthopnea, Edema
+   Cardiovascular ROS Details: No current chest pain or shortness of
+   breath.
+   Review of Systems
+   Organ system ROS abnormal
+   Hematology / Lymphatic, Psychiatric
+   Organ system ROS normal
+   Constitutional, Eyes, ENT, Respiratory, Gastrointestinal, Endocrine,
+   Genitourinary, Musculoskeletal, Integumentary, Neurological
+   Signs and symptoms absent
+   Recent fevers, Chills, Rigors
+   Social History
+   Marital status: married ([**Doctor First Name 1895**])
+   (Alcohol: No), (Recreational drug use: No)
+   Family history: Significant for a mother with heart disease in her 50s
+   and father in his 60s.
+   Social history details: Significant for tobacco, quitting two years
+   ago. She does not drink alcohol.
+   Physical Exam
+   Date and time of exam: 21:30 [**3366-1-22**]
+   General appearance: Markedly Agitated
+   Vital signs: per R.N.
+   T current: 98.8F C
+   HR: 68 bpm
+   BP left arm:
+   181 / 75 mmHg
+   supine
+   RR: 14 insp/min
+   O2 sat: 94 %  on Room air
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: WNL)
+   Neck: (Right carotid artery: No bruit), (Left carotid artery: No bruit)
+   Respiratory: (Auscultation: WNL, decreased BS at bases anteriorly)
+   Cardiac: (Rhythm: Regular), (Palpation / PMI: WNL), (Auscultation: S1:
+   Abnormal, S2: mechanical s1, s1)
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Pulsatile mass:
+   No), (Hepatosplenomegaly: No) No clear abdominal tenderness on
+   palpation.
+   Femoral Artery: (Right femoral artery: No bruit), (Left femoral artery:
+   Bruit present) pulses present bilaterally.
+   Extremities / Musculoskeletal: (Digits and nails: WNL), (Gait and
+   station: WNL), (Muscle strength and tone: WNL), (Dorsalis pedis artery:
+   Right: unable to elicit, Left: 2+), (Posterior tibial artery: Right:
+   dopplerable, Left: 2+), (Edema: Right: 0, Left: 0)
+   Skin: ( WNL)
+   Neuro/Psych: Not fully oriented, asking where she is frequently. Her
+   strength and movement in all extremities is preserved.  Frequently
+   observed trying to induce emesis.
+   Labs
+   Outside / other labs: HCT after 1st procedure:  23.0
+   AM Labs: 09:05a
+   -----------------------------------------------------------------------
+   ---------
+   139  104  7  106   AGap=12
+   5.2  28  0.6   Mg: 2.1
+                   64
+   6.2  6.5  /  247
+         / 25.1
+   PT: 15.4  PTT: 64.3  INR: 1.4
+   Tests
+   ECG: On arrival to CCU
+   HR 68, No axis deviation
+   RBBB.
+   ST depressions in V4-V6, 1-2mm, downsloping V2-V3, more exaggerated
+   than prior
+   Assessment and Plan
+   53 y/o Female with premature and severe coronary artery disease and
+   peripheral vascular disease s/p RCA, R iliac stents c/b dissection of
+   left SFA down to popliteal resulting in ischemic limb managed with
+   recatheterization with stenting.
+   #) Coronary Artery Disease
+    - BMS (Vision) to RCA
+    - Continue plavix, aspirin dual antiplatelet therapy
+    - Continue risk management strategies including statin and BP agents
+   #) Ischemic Left Limb following femoral artery dissection
+    - Managed with stenting of popliteal occlusion after unable to perform
+   thrombectomy
+    - Follow pulses closely in left let
+    - Duplex ultrasound in am to evaluate flow, bruit
+   #) Right Puncture site/Migrated Angioseal
+    - Ultrasound in AM of right femoral artery to assess for
+   pseudoaneurysm, location of angioseal
+   #) Peripheral Vascular Disease
+    - Interval stenting of Right External Iliac
+    - Will discuss amonst team if further peripheral intervention/bypass
+   would be required for claudication, though this may be temporized by
+   percutaneous intervention.
+   #) Mechanical Valves (AV, MV)
+    - Continue anticoagulation with heparin, aim to keep PTT between
+   50-60.
+    - Can likely restart warfarin dosing tonight as recommended by cath
+   team, and hold further doses if additional interventions are necessary
+    - Monitor groin for signs of bleeding.
+   #) Hypoxia:
+   -          Worsening o2 sats with dyspnea in the setting of
+   transfusion. Concern for TACO or TRALI, though this does appear to be a
+   gradual change.
+   -          Checking CXR to assess for medistinal changes, interstitial
+   processes that would suggest we should stop the blood transfusion that
+   is in progress (though needed).
+   #) Hypertension
+   - Patient with widened pulse pressure and hypotension upon admission to
+   the hospital, not with exacerbation of those (otherwise not [** Location **]usly
+   noted to have this significant of a pulse pressure in outpatient record
+   190s/60s.
+   - Nitro as needed for SBP>180
+   - Pain/Agitation Control
+   - Repeat echocardiogram to asses valves.
+   #) Agitation
+    - [**Doctor First Name 1895**], her husband, notes that she commonly becomes agitated from a
+   combination of being supine with her bad back, but this does appear to
+   go beyond simple pain into a component of delirium given calling out
+   for parents and paranoia. Apparently per husband has paradoxic
+   reactions to haloperidol, so will treat with lorazepam as needed, which
+   may also help with next problem, nausea.
+   #) Nausea
+    - Also pt apparently has history of severe nausea after
+   catheterization procedures, so this is not unusual for her. Given RCA
+   procedure, we would consider coronary complications that would lead to
+   nausea, but ECG does not have any changes in inferior territory and
+   other changes are not specific. Will be checking post-cath CK, CK-MB
+   for f/u.  Manage with zofran, ativan.
+   - Check KUB
+   #) Back Pain
+    - Notable pieces of history include RP bleed in the past, but patient
+   has known, severe, chronic back pain and does not have a significant
+   HCT drop or change in heart rate, or changes on physical exam that
+   would be concerning for RP complication from procedure at this time.
+   This is most likely combination of missing her high doses of oxycontin
+   which she takes at home, and being supine on the table.
+   - Continue oxycontin,
+   - hydromorphone 2mg IV q2-4h for breakthrough
+   #) Iron Deficiency Anemia
+   - Continue Iron, being transfused today 2 units this evening
+   #) Hemolytic Anemia
+   -          Likely component of hemolysis from mechanical valves as
+   evidenced by pretransfusion low haptoglobin.
+   Code: full
+   Dispo: CCU pending improvement in BP, agitation.
+   Discussed case with interventional fellows, CCU covering fellow.
+   ------ Protected Section ------
+   ADDENDUM: Laboratory results received, Hgb 8, HCT 29, notable for
+   dissociation between values. CXR shows some mild interstitial,
+   reticular pattern. Discussed with radiology, who also cross-referenced
+   with her CT from 08 which showed mild interstitial edema at bases.
+   Given the subacute nature of her oxygen saturation decline (she was low
+   90s in cath lab), I do not at this time think that this is a
+   transfusion related lung injury, but rather likely mild interstitial
+   edema from slight volume overload. Will try lasix 10mg IV x1 to help
+   with pressure and hypoxia, monitor urine output.
+   [image002.jpg]
+   ------ Protected Section Addendum Entered By:[**Name (NI) 5950**] [**Last Name (NamePattern1) 5951**], MD
+   on:[**3366-1-23**] 00:46 ------

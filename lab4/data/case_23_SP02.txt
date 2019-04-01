@@ -1,0 +1,341 @@
+Chief Complaint:  SOB
+   HPI:
+   82M with CAD, chronic diastolic CHF, AFib on coumadin admitted with
+   dyspnea. Three days ago patient notes that he was not feeling well. He
+   was more fatigued than usual and had shortness of breath with walking.
+   He did not have palpitations, chest pain, fevers, chills, orthopnea,
+   pnd, worse edema than baseline (has had chronic LE edema X 5 years),
+   syncope, or presyncope. At about 3 am on the morning of admission he
+   awoke to turn down the AC because he was chilly. When he sat up he
+   became acutely short of breath. His wife was able to calm him down and
+   when he lay back down he felt better. However, over the course of the
+   next few hours he started to feel more and more short of breath, even
+   when lying down, and by 7am his wife was very concerned. She noticed
+   that when she tried to stand him up to walk to the living room he was
+   very weak and his legs were wobbly. She called 911, and they brought
+   him to the ED.
+   .
+   Upon presentation to the ED initial vitals were: T 98 HR 76 BP 179/68
+   RR 28 SP02 98%RA. In the ED patient denied CP, fever, chills, cough,
+   weight gain. His O2 sats declined from 98% on RA ->91% on 4L->96% on
+   NRB. CXR showed mild fluid overload and possible PNA. Bedside TTE
+   revealed:
+   The left atrium is moderately dilated. There is mild symmetric left
+   ventricular hypertrophy. The left ventricular cavity size is normal.
+   Overall left ventricular systolic function is normal (LVEF 70%). There
+   is no ventricular septal defect. Right ventricular chamber size and
+   free wall motion are normal. The ascending aorta is mildly dilated.
+   There are focal calcifications in the aortic arch. The aortic valve
+   leaflets (3) are mildly thickened but aortic stenosis is not present.
+   No aortic regurgitation is seen. The mitral valve leaflets are mildly
+   thickened. There is no mitral valve prolapse. Mild (1+) mitral
+   regurgitation is seen. The estimated pulmonary
+   artery systolic pressure is normal. There is no pericardial effusion.
+   .
+   Compared with the findings of the prior study (images reviewed) of [**2728-4-23**], the findings are similar.
+   .
+   He received the following medications: Aspirin 81mg, CeftriaXONE 1g,
+   Azithromycin 500mg, Nitroglycerin SL 0.4mg SLX3 (for HF not for
+   complaints of CP), and Furosemide 80mg IV X 1. He felt better after the
+   furosemide (he put out 500mL) and his O2 requirement came down to 94%
+   on 4L. He was transferred to the floor.
+   .
+   On the floor patient remained on NC and then on first set of vitals was
+   noted to be hypoxic to the mid-80s on 5L NC. He was placed on a NRB and
+   his O2 sat came up to 100%. He had no complaints of chest pain,
+   palpitations, shortness of breath, abdominal pain, nausea, vomiting, or
+   cough at the time. His EKG was unchanged from prior. A CXR was also
+   unchanged. ABG showed an elevated A-a gradient with PO2 103 on the NRB.
+   He was given another 80mg IV lasix, morphine, and started on nitro
+   paste. Intially he improved with this regimen, however, he would
+   occasionally dip into the high 80s and then recover spontaneously on
+   the NRB and they were unable to wean him off the NRB. He was
+   transferred to the CCU for his continued requirement of the NRB.
+   .
+   On presentation to the ccu the patient was comfortable on a NC. He
+   denied fevers, chills, palpitations, chest pain, nausea, vomiting,
+   diaphoresis, abdominal pain, bloating, worsening edema, weight gain,
+   diarrhea, and dysuria. He endorsed shortness of breath as outlined
+   above although currently less than prior, constipation off and on for
+   several years, and chronic edema of his lower extremities for the last
+   5 years - treated with lasix.
+   Patient admitted from: [**Hospital1 17**] [**Hospital1 152**]
+   History obtained from Patient, Family / Friend, Medical records
+   Allergies:
+   Ace Inhibitors
+   Renal Toxicity;
+   Norvasc (Oral) (Amlodipine Besylate)
+   edema;
+   Last dose of Antibiotics:
+   Infusions:
+   Heparin Sodium - 1,650 units/hour
+   Other ICU medications:
+   Other medications:
+   MEDICATIONS (confirmed with patient's wife and pharmacy)
+   ALLOPURINOL 300 mg daily
+   CLONIDINE 0.1 mg twice daily
+   FELODIPINE 10 mg daily
+   FUROSEMIDE 80 mg daily
+   HYDRALAZINE 150 mg TID
+   IMDUR 60 mg daily
+   SIMVASTATIN 40 mg daily
+   WARFARIN 5 mg daily
+   Past medical history:
+   Family history:
+   Social History:
+   1. CARDIAC RISK FACTORS: hypertension, dyslipidemia.
+   2. CARDIAC HISTORY:
+   -CABG:  None
+   -PERCUTANEOUS CORONARY INTERVENTIONS:  s/p PTCA x 1 15 years ago
+   records not at the [**Hospital1 17**]
+   -PACING/ICD:  none
+   3. OTHER PAST MEDICAL HISTORY:
+   GASTRITIS
+   H.pylori + (treated)
+   GOUT
+   SYNCOPE
+   RENAL INSUFFICIENCY  (creat ~ 1.6)
+   VENOUS INSUFFICIENCY and lower extremity edema
+   BENIGN PROSTATIC HYPERTROPHY
+   ATRIAL FIBRILLATION
+   diastolic dysfunction with volume overload treated with lasix
+   RETINAL VASCULAR OCCLUSION in [**2731-5-1**] thought [**2-2**] plaque rupture not
+   thrombotic event as therapeutic on coumadin at the time
+   No family history of early MI, arrhythmia, cardiomyopathies, or sudden
+   cardiac death; otherwise non-contributory.
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other: Originally from Poland. Worked in [**Doctor First Name 977**] labor camp for a few
+   years before emmigrating. Also was in the service in the US. Lives in
+   [**Location 212**], MA with his wife. [**Name (NI) 3283**] history: Former 15 pack-year smoker,
+   quit 60 years ago. Rare ETOH use.  No recent travel. No sick contacts.
+   Review of systems:
+   Flowsheet Data as of [**2731-9-1**] 08:53 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 38.9
+C (102
+   Tcurrent: 38.9
+C (102
+   HR: 55 (55 - 73) bpm
+   BP: 143/49(73) {143/49(73) - 179/67(95)} mmHg
+   RR: 23 (19 - 25) insp/min
+   SpO2: 93%
+   Heart rhythm: AF (Atrial Fibrillation)
+             Total In:
+             36 mL
+   PO:
+             TF:
+   IVF:
+   36 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                    620 mL
+   Urine:
+   620 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                   -584 mL
+   Respiratory
+   O2 Delivery Device: Nasal cannula
+   SpO2: 93%
+   Physical Examination
+   V/S: Wt 89.4 kg T 99.5->102 ax BP 170/71 HR 70 RR 22 O2sat 94%6L  NC
+   GENERAL: WDWN M in NAD.  Mood, affect appropriate.
+   HEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor or
+   cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP to angle of jaw
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line.
+   irregularly irregular with distant heart sounds. No m/r/g.
+   LUNGS:  Resp were unlabored, no accessory muscle use. Scattered
+   expiratory wheezes with poor air movement bilaterally and crackles
+   about [**1-3**] of the way up bilaterally.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits. Umbilical hernia without tenderness.
+   EXTREMITIES: 1+ edema bilaterally to knees. Negative homans sign.
+   NEURO: Alert and oriented X 3. Right pupil larger than left. Left arm
+   slightly weaker than right.
+   Labs / Radiology
+   WBC: 8.7
+   Hgb: 10.7
+   Hct: 34.4  (stable)
+   Plt: 214
+   N:89.6 L:6.0 M:4.1 E:0.3 Bas:0.1
+   .
+   PT: 20.1 PTT: 32.0 INR: 1.9
+   .
+   Na: 139
+   Cl: 101
+   BUN: 45
+   Glucose: 172 AGap=19
+   Potassium: 4.1
+   Bicarb: 23
+   Creatinine: 1.7 (2.2 in [**1-9**])
+   Trop: 0.06  -> 0.11
+   CK: 68 ->76 MB: Notdone X 2
+   proBNP: 2736 (prior 2100)
+   Imaging:
+   ECHO
+   [**2729-12-5**]: The left atrium is moderately dilated. There is mild symmetric
+   left ventricular hypertrophy. The left ventricular cavity size is
+   normal. Overall left ventricular systolic function is normal (LVEF
+   70%). There is no ventricular septal defect. Right ventricular chamber
+   size and free wall motion are normal. The ascending aorta is mildly
+   dilated. There are focal calcifications in the aortic arch. The aortic
+   valve leaflets (3) are mildly thickened but aortic stenosis is not
+   present. No aortic regurgitation is seen. The mitral valve leaflets are
+   mildly thickened. There is no mitral valve prolapse. Mild (1+) mitral
+   regurgitation is seen. The estimated pulmonary artery systolic pressure
+   is normal. There is no pericardial effusion.
+   TTE [**2731-9-1**] on floor:  The left atrium is mildly dilated. The left
+   ventricular cavity size is top normal/borderline dilated. Overall left
+   ventricular systolic function is normal (LVEF>55%). [Intrinsic left
+   ventricular systolic function is likely more depressed given the
+   severity of valvular regurgitation.] There may be inferolateral
+   hypokinesis but views are technically suboptimal. Right ventricular
+   chamber size is normal. with normal free wall contractility. The aortic
+   valve leaflets (3) are mildly thickened. No aortic regurgitation is
+   seen. The mitral valve leaflets are mildly thickened. An eccentric,
+   laterally directed jet of moderate to severe (3+) mitral regurgitation
+   is seen. There is severe pulmonary artery systolic hypertension. There
+   is no pericardial effusion.
+   Compared with the prior study (images reviewed) of [**2729-12-5**], mitral
+   regurgitation is now more prominent. There may be inferolateral
+   hypokinesis in the current study but images are technically suboptimal
+   for assessment of regional wall motion. The left ventricular cavity is
+   now more dilated.
+   CXR in ED [**2731-9-1**]: Bilateral perihilar opacities are noted.
+   There is a tiny right pleural effusion. No pneumothorax is seen. The
+   heart is mildly enlarged. The aorta is calcified and tortuous.
+   Degenerative changes of the spine are noted.
+   IMPRESSION:
+   Bilateral perihilar opacities may represent congestive heart failure
+   versus pneumonia. In the setting of the patient's elevated BNP,
+   findings more likely represent moderate congestive heart failure.
+   CXR on floor [**2731-9-1**]: Bilateral peri-hilar opacities and unchanged
+   cardiomegaly. No change from prior CXR from same day.
+   Microbiology: UA: Positive for bacteria, blood and RBC
+   ECG: EKG [**2731-9-1**] @ 0923 AFib 49 bpm nl axis 1-[**Street Address(2) 9616**]
+   depressions V3-V6 QTc [**Last Name (Titles) 9617**] elevation or T-wave inversion
+   Assessment and Plan
+   ASSESSMENT AND PLAN: 82yo M with h/o CAD s/p PCTA 15 years ago,
+   diastolic CHF with h/o fluid overload on lasix, afib on coumadin with
+   recent admission for retinal occlusion while on warfarin, now admitted
+   with DOE, hypoxia, and fever.
+   # Hypoxia: Likely this is multifactorial. He has evidence of volume
+   overload on exam, on CXR, and with his elevated BNP. In addition he has
+   had fever and a questionable infiltrate on his CXR although he denies
+   productive cough and sick contacts he could have PNA. PE is less likely
+   since he is systemically anti-coagulated and he has other more likely
+   etiologies for his hypoxia ([**Doctor Last Name **] score 4). However, his INR was
+   subtherapeutic on admission so this remains a possibility.
+   - Will continue treatment for community acquired pneumonia with
+   azithromycin and cetriaxone given the fever, hypoxia and possible
+   infiltrates on CXR.
+   - TTE showed new LV dilation likely causing more severe MR [**First Name (Titles) **] [**Last Name (Titles) **] with
+   preserved LVEF (although this is likely over-estimated in MR)
+   consistent with acute exacerbation of his diastolic CHF. Will treat
+   symptomatically with lasix with goal I/O of negative 1-2L today.
+   - Will cycle cardiac enzymes to rule out acute coronary event although
+   more likely the slight elevation is from stretch from fluid overload
+   rather than ACS.
+   - Daily I/O, weights
+   - Low salt diet
+   - Patient is unable to tolerate ACE-I or beta blockers [**2-2**] ADRs in
+   past. Will continue on current blood pressure regimen for afterload
+   reduction with felodipine and hydralazine and continue statin and ASA
+   - Non-invasive ventilation as needed to keep O2 sats >90%
+   - LENIs in am to r/o DVT as if he has a DVT while on coumadin he has
+   technically failed anti-coagulation and may need IVC filter to avoid
+   PEs.
+   - Will hold off on CTA for PE as more likely diagnoses at this time and
+   [**Doctor Last Name **] score only 4.
+   - CXR in am to evaluate for blossoming of the PNA and lessening of
+   pulmonary edema with diuresis
+   # Fever: Most likely infectious with either pulmonary or urinary
+   infection being most probable given leukocytosis, positive UA and
+   hypoxia with CXR showing possible infiltrate.
+   - Blood and urine cultures pending
+   - attempt to obtain sputum culture
+   - Continue to treat for CAP with CTX and azithromycin. [**Month (only) 47**] be able to
+   change to an oral regimen if stabilizes over next few days and cultures
+   do not grow resistent organisms.
+   - Will treat for UTI with ceftriaxone.
+   - Follow up cultures and narrow antibiotics as able.
+   # CORONARIES: Patient has remote history of CAD s/p PTCA at OSH and
+   currently has slightly elevated troponins with flat CKs and negative
+   MBs in the setting of CRF. currently denies anginal symptoms although
+   his SOB could be an anginal equivalent and it is possible that 3 days
+   ago he had an acute event causing the acute exacerbation of his CHF.
+   More likely, however, is that because of his infection he developed
+   fluid overload and ventricular dilation causing troponin elevation that
+   was not cleared [**2-2**] his renal failure.
+   - Will cycle cardiac enzymes.
+   - AM EKG
+   - Continue asa, statin at home dose. Unable to tolerate beta blockers
+   and ace inhibitors.
+   # PUMP: Patient has history of diastolic dysfunction and has had
+   episodes of fluid overload treated with oral lasix in the past. TTE
+   today revealed new LV dilation and likely as a result worsening of his
+   MR [**First Name (Titles) 608**] [**Last Name (Titles) **]. Unclear etiology of his new LV dilation although
+   potentially [**2-2**] infection vs late presentation of ACS.
+   - Will treat acute exacerbation of diastolic CHF as above with lasix,
+   daily weights, I/O, salt restricted diet and home medications
+   - Goal I/O 2L over 24 hours
+   # RHYTHM:  currently in slow afib with some EKGs looking like wandering
+   pacemaker and rate controlled in 50s. CHADS2 score 5.
+   - Will continue calcium channel blocker as ADR with beta blocker
+   - EKG in am
+   - heparin gtt given sub-therapeutic INR on admission and recent retinal
+   artery occlusion (thought more likely to be plaque not embolic from
+   heart per notes but no documentation from OSH where diagnosed so
+   unclear and thus higher risk patient than average AFib)
+   - continue coumadin 5mg for now as starting on abx and likely to
+   increase coumadin level so no need for increasing his home dose now.
+   - check daily INRs
+   # Hypertension: Patient's BP was 170/70 at recent PCP visit and has
+   been dificult to control according to OMR notes for last several years.
+   Unable to tolerate ACE inhibitors or beta blockers
+   - Will continue hydral/Imdur for afterload reduction
+   - Will continue CCB
+   - Will continue clonidine [**Hospital1 7**] given rebound effect with daily dosing
+   - Consider nitro gtt if hypertensive and acutely sob overnight although
+   on floor patient reportedly had [** Location **]itous drop in BP when this was
+   attempted.
+   # Chronic renal insufficiency: Currently patient is below his baseline
+   creatinine of 1.7.
+   -          Will continue home regimen and follow creatinines daily
+   #  Hyperlipidemia: As above will continue home dose of statin.
+   .
+   #  Gout: Will continue home dose of allopurinol
+   FEN:  No IVF, E- replete PRN, N- HH/low salt
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with coumadin and hep gtt until inr therapeutic
+   -Pain management with  apap
+   -Bowel regimen with  colace, senna
+   CODE: DNR/DNI  confirmed on admission with patient and family
+   CONTACT: Wife [**Name (NI) 6576**] [**Telephone/Fax (1) 9618**]; Son [**Name (NI) 442**] [**Telephone/Fax (1) 9619**]
+   [**Name2 (NI) **]O: CCU pending above
+   ICU Care
+   Nutrition: HH/low salt
+   Glycemic Control:
+   Lines:
+   20 Gauge - [**2731-9-1**] 05:47 PM
+   Prophylaxis:
+   DVT: (Systemic anticoagulation: Heparin gtt, Coumadin)
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication: Family meeting held , ICU consent signed Comments:
+   Code status: DNR / DNI
+   Disposition: ICU

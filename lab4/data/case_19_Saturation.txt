@@ -1,0 +1,55 @@
+Respiratory failure, acute (not ARDS/[**Doctor Last Name 73**])
+   Assessment:
+    orally intubated on CPAP 40%,  8 peep, 5 PS. Periods of desaturation
+   to high 80
+s. lungs rhonchorus
+   Action:
+   Chest CT scan, PEEP increased to 15, recruitment breath
+   Response:
+   SATs ^ 93%
+   Plan:
+   Monitor resp status, pulmonary toilet, ? trach [**5-22**]
+   Altered mental status (not Delirium)
+   Assessment:
+   Opens eyes to painful stimuli, had not moved any extremity this am on
+   fentanyl and versed.
+   Action/
+   response
+   Versed fentanyl off at 0900, unresponsive until 1300 when pt became
+   agitated, l arm flailing, non purposeful. Eyes open spontaneously, not
+   tracking, no startle. Bp ^ to 170/80 when agitated. Versed restarted at
+   .5 mg/hr and fentanyl  at 25 mcg/hr.  Head CT done, negative per PA
+   Plan:
+   Monitor neuro status, minimal sedation to maintain pt comfort
+   Renal failure, acute (Acute renal failure, ARF)
+   Assessment:
+   BUN, cr ^, fluid overload
+   Action:
+   Hemodialysis x4 hr
+   Response:
+   Required neo to maintain sbp > 100 during dialysis for fluid removal of
+   3liters. Neo off post dialysis
+   Plan:
+   Hemodialysis per team
+   Labs
+        [image002.jpg]
+   WBC
+   Hgb
+   Hct (Serum)
+   Hct (Whole blood)
+   Plt
+   INR
+   PTT
+   Na+
+   K + (Serum)
+   K + (Whole blood)
+   Cl
+   HCO3
+   BUN
+   Creatinine
+   Glucose
+   CK
+   CK-MB
+   Troponin T
+   O2 sat (mixed venous)
+   O2 sat (arterial)

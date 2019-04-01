@@ -1,0 +1,179 @@
+Chief Complaint:  Altered mental status, hypoxia
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   64 y.o. man with ESRD, ischemic CM, and colon [**Hospital **] transferred to [**Hospital1 52**]
+   on [**4-15**] for evaluation s/p right hip fracture. Transferred no from OMED
+   floor for hypoxia and mental status changes.  Was getting a staging CTA
+   earlier today and was noted to be 60% saturated on pulse ox on 4 L NC.
+   Also had increasing distress and changes in mental status.  ABG
+   7.25/70/43 on HFFM 8 L. at ~7 pm.  Of note, had oxycontin dose doubled
+   yesterday as was requiring higher doses of morphine on PCA the day
+   before.  Had been on BiPAP at home for OSA and home O2, 2 L/min NC for
+   unclear reasons.  On transfer he denied chest pain but did note
+   tightness when breathing.
+   Patient admitted from: [**Hospital1 52**] [**Hospital1 53**]
+   History obtained from Medical records
+   Patient unable to provide history: Language barrier, Portugese
+   Allergies:
+   Glyburide
+   low blood sugar
+   Sulfonylureas
+   refractory hypo
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Other medications:
+   oxycontin 40 mg [**Hospital1 **]
+   morphine PCA
+   amiodarone
+   toporol XL
+   atorvastatin
+   diltiazem
+   celexa
+   allopurinol
+   subcutaneous insulin
+   heparin subcutaneous
+   Past medical history:
+   Family history:
+   Social History:
+   colon CA ciagnosed [**3455**], had colostomy/take down, s/p chemoRx and XRT
+   [**1-1**] - rectosacral fistula/hematoma s/p colostomy and retrosacral
+   evacuation
+     Course c/b postsurgical ATN started on dialysis
+      Discharged to rehab
+   [**1-30**] - right hip fracture s.p fall at rehab, w/u consistent with
+   metastases - managed conservatively
+              Chronic hip pain, BLE numbness
+              Bone bx at [**Hospital1 172**] - path pending
+   OSA
+   CHF, EF 50%, 2+AS, 1+MR, ischemic CM
+   Afib on amiodarone
+   Chronic home O2 requirement
+   Type II DM
+   No colon CA
+   Father died when patient infant; unknown cause
+   Occupation: Retired
+   Drugs: None
+   Tobacco: 50 pack years, quit 22 years ago
+   Alcohol: None
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**3458-4-20**] 09:28 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.6
+C (97.8
+   Tcurrent: 36.6
+C (97.8
+   HR: 88 (88 - 91) bpm
+   BP: 109/74(81) {109/71(81) - 128/74(84)} mmHg
+   RR: 15 (15 - 18) insp/min
+   SpO2: 97%
+   Heart rhythm: SR (Sinus Rhythm)
+                  Total In:
+                  PO:
+                  TF:
+   IVF:
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                      0 mL
+   Respiratory
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 856 (856 - 856) mL
+   PS : 10 cmH2O
+   RR (Spontaneous): 16
+   PEEP: 5 cmH2O
+   FiO2: 40%
+   PIP: 16 cmH2O
+   SpO2: 97%
+   ABG: ////
+   Ve: 7.9 L/min
+   Physical Examination
+   Overweight
+   No JVD    PERRL  Reg, II/VI SEM  Decreased BS bilateral bases,
+   scattered rhonchi  Abdomen soft with NABS, mild diffuse tenderness with
+   very deep palpation, ostomy          [**12-27**]+ BLE pitting edema, and R>L UE
+   swelling   Somnolent but easily arousable to voice, A & O X 2 (person,
+   place)
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   444
+   30.7
+   84
+   3.3
+   34
+   32
+   101
+   4.7
+   142
+   8.5
+        [image002.jpg] Ca-8.4   Mg
+ 1.8  PO4
+ 4.9
+   Hip films: multible mets in right acetabullum/pubic
+   synthesis                  Bone scan: same regions
+   RUE US: no DVT          CTA (staging): Bilateral effusions, right
+   greater than left; ground glass opacities bilaterally
+   ECG: SR @ 90 bpm, q wave in III (old) T wave inversions anterior leads
+   (compared with [**12/3457**])
+   Assessment and Plan
+ ACUTE ON CHRONIC HYYPOXIC/HPERCARBIC RESPIRATORY FAILURE
+         Hypercarbic respiratory failure related to history of OSA
+   exacerbated by increased sedatives.  Also given hypoxia and
+   infiltrates/effusions concerned about CHF vs. amiodarone-induced lung
+   disease.  Also has a significant smoking history, ?underlying COPD.
+   Most likely due to fluid overload, also given history of ischemic CM
+   will want to rule out cardiac ischemia.  Will repeat ECG and cycle
+   cardiac enzymes.  Hold sedatives for now until awake enough to take
+   po
+s, consider restarting oxycontin at 20 mg q day.
+        BiPAP, O2
+         Bronchodilators
+         Consider diagnostic thorocentesis if effusions persist after
+   dialysis and volume removal, ? malignant
+ .H/O CANCER (MALIGNANT NEOPLASM), COLORECTAL (COLON CANCER)
+ RENAL FAILURE, END STAGE (END STAGE RENAL DISEASE, ESRD).  Patient is
+   anuric so cannot diurese.  Will cnsult renal service for planned
+   dialysis tomorrow.  Continue
+ HIP FRACTURE (FEMORAL NECK FRACTURE, FEMUR).  Pain management as
+   above.  Ortho consult tomorrow regarding any further intervention to
+   stablize albeit likely not.  Follow-up on biopsy at [**Hospital1 172**].
+ .H/O HEART FAILURE (CHF), SYSTOLIC, CHRONIC.  Ruling out for MI as
+   above.  ASA.
+ .H/O DIABETES MELLITUS (DM), TYPE II.  Keep NPO until mental status
+   clears, follow finger sticks, humilog insulin sliding scale
+ .H/O ATRIAL FIBRILLATION (AFIB).  Continue
+   amiodarone/diltiazem/metoporolol
+   ICU Care
+   Nutrition:
+   Glycemic Control: insulin sliding scale as above
+   Lines / Intubation:
+   22 Gauge - [**3458-4-20**] 08:00 PM
+   Comments:
+   Prophylaxis:
+   DVT: Subcutaneous heparin
+   Stress ulcer: PPI
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   Total time spent:  55 minutes

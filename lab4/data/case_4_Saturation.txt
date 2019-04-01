@@ -1,0 +1,316 @@
+Chief Complaint:  dyspnea, worsening hypoxia
+   HPI:
+   Mr. [**Known patient lastname 3624**] is a 55 yo M with end-stage sarcoid on 3LNC at
+   baseline, transferred from Radius with shortness of breath, tachypnea,
+   hypoxia and fevers.  According to reports from Radius has has been
+   hypoxic for several days with O2 sats 91-92% on 100% NRB with
+   desaturation to 86% with minimal exertion, patient refusing to come to
+   hospital.
+   .
+   In the ED T99.2 BP 145/84 RR 20-30 HR 92-140 96% on 100%NRB.  He was
+   noted to be significantly hypoxic and tachypnic and was intubated due
+   to concern for increasing work of breathing.  He was given 2.5LNS,
+   levofloxacin 750mg IV, cefepime 2g IV x1, decadron 10mg IV x1 and
+   versed 2mg IV x1.
+   Patient admitted from: Transfer from other hospital, Radius
+   History obtained from Medical records
+   Patient unable to provide history: Sedated
+   Allergies:
+   No Known Drug Allergies
+   Last dose of Antibiotics:
+   Infusions:
+   Propofol - 40 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Medications on Arrival:
+   -Albuterol Sulfate 2.5 mg/3 mL neb q4 hours and q7 hours prn
+   -Atrovent Nebs Q4Hours and Q 7 hours prn
+   -Solu-medrol 60mg IV Q6hrs
+   -Novalog sliding scale QACHS
+   -mucomyst 10% 3ML INH QID
+   -Clonazepam 1 mg PO TID prn
+   -NPH insulin [**Hospital1 **] (unclear dosing had been on 12QAM and 6QPM during last
+   admit)
+   -Nexium 40mg daily
+   -dulcolax 10mg pr qday prn
+   -colace 100mg po bid
+   -milk of magnesia 30ML daily
+   -MS Contin 45mg [**Hospital1 **]
+   -percocet 1-2 tabs TID prn
+   -zocor 20mg daily
+   -heparin SQ 5000mg TID
+   -Azathioprine 150 mg PO DAILY
+   -cymbalta 90mg po daily
+   -ASA 325mg daily
+   -Sennakot 1 [**Hospital1 **]
+   -Bactrim DS 1 tab QMWF
+   -trazodone 25mg qhs prn
+   -vitamin b1 100mg daily
+   -risperdal 1mg [**Hospital1 **]
+   -haldol 1mg po BID prn
+   -lactulose 30mg po tid prn
+   -saline nasal spray 2 sprays each nostril QID
+   -Mirtazapine 15 mg PO HS
+   -roxanol 10mg po q3hrs prn
+   -fleet enema pr daily prn
+   -MTV daily
+   -primaxin IV 250mg Q6 hours
+   Past medical history:
+   Family history:
+   Social History:
+   Past Medical History:
+   1. Hepatitis C, diagnosed as part of the lung transplant workup
+   at the [**Hospital1 **]. He is followed by Dr. [**First Name8 (NamePattern2) 61**] [**Last Name (NamePattern1) 3625**] in GI. He
+   is hepatitis B core surface antibody positive and surface
+   antigen negative.  In addition, he has hepatitis C antibody plus type
+   2b with a viral load in [**9-/3286**], of 5.5 million. He had grade 2
+   fibrosis on [**3285-5-23**]. He is not thought to be a candidate
+   currently for interferon treatment given his sarcoidosis.
+   2. Sarcoidosis. He is followed by Dr. [**Last Name (STitle) **]. The patient has
+   been obtaining PFTs from Dr. [**Last Name (STitle) 1099**], and he is currently on
+   azathioprine and prednisone with prophylaxis Bactrim.
+   3. Sleep apnea.
+   4. Erectile dysfunction.
+   5. Emotional lability and anxiety.
+   6. Status post mandible fracture [**9-14**].
+   7. Status post multiple rib and clavicle fractures
+   8. Spinal stenosis: diagnosed on MRI and is followed by Dr. [**First Name8 (NamePattern2) 90**]
+   [**Last Name (NamePattern1) **]. The diagnosis was established as part of a workup for
+   progressive lower leg weakness, which led to multiple falls and
+   currently an inability to ambulate.
+   9. Shingles in [**1-/3286**] on the right side of the face with
+   residual neuropathic pain.
+   NC
+   Occupation: on disability
+   Drugs: denies
+   Tobacco: denies
+   Alcohol: denies
+   Other: has been living at radius hospital since recent discharge in
+   [**Month (only) **]
+   Review of systems:
+   Flowsheet Data as of [**3287-7-26**] 07:51 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.4
+C (97.6
+   Tcurrent: 36.4
+C (97.6
+   HR: 100 (100 - 115) bpm
+   BP: 130/78(95) {38/-12(95) - 130/78(352)} mmHg
+   RR: 24 (14 - 28) insp/min
+   SpO2: 99%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Wgt (current): 88 kg (admission): 88 kg
+   CVP: 8 (6 - 8)mmHg
+   Total In:
+                                                                  2,113 mL
+   PO:
+   TF:
+   IVF:
+                                                                  2,113 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                     30 mL
+   Urine:
+                                                                     30 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                  2,083 mL
+   Respiratory
+   Ventilator mode: CMV
+   Vt (Set): 500 (500 - 500) mL
+   RR (Set): 20
+   PEEP: 10 cmH2O
+   FiO2: 100%
+   PIP: 29 cmH2O
+   SpO2: 99%
+   ABG: 7.34/64/106//6
+   Ve: 11.6 L/min
+   PaO2 / FiO2: 106
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+        [image002.jpg]
+                                  [**3285-1-8**]
+                          2:33 A7/19/[**3287**]  03:14 PM
+                                  [**3285-1-12**]
+                                   10:20 P
+                                  [**3285-1-13**]
+                                   1:20 P
+                                  [**3285-1-14**]
+                                   11:50 P
+                                  [**3285-1-15**]
+                                   1:20 A
+                                  [**3285-1-16**]
+                                   7:20 P
+                                  1//11/006
+                                   1:23 P
+                                  [**3285-2-8**]
+                                   1:20 P
+                                  [**3285-2-8**]
+                                   11:20 P
+                                  [**3285-2-8**]
+                                   4:20 P
+   TC02
+                                     36
+   Fluid analysis / Other labs: Labs in ED:
+   Na 142 K4.7 Cl 102 HCO 33 BUN 29 creat 0.5 Gluc 93
+   CK 29 MB - Trop <0.01
+   AST 100 ALT 102 AP 317
+   WBC 13.2 HCT 32.1 PLT 307  29% bands
+   UA: leuk neg, mod blood, nitr neg, [**3-12**] granular casts, [**11-27**] hyaline
+   casts
+   Imaging: [**3287-7-26**] CXR: ([** Location **] dictation) extensive pulm fibrosis and
+   emphysema unchanged, no effusion, no PTX, ETT terminates 4.5cm above
+   carina, RIJ at cavo-atrial junction, OG tube in esophagus.  Otherwise
+   no acute cardiopulmonary changes.
+   .
+   [**3287-5-3**] CTA chest:
+   1. Small PE of segmental/subsegmental right upper lobe branch. This was
+   communicated by Dr. [**First Name8 (NamePattern2) 3626**] [**Name (STitle) 3627**] with Dr. [**First Name8 (NamePattern2) 3628**] [**Last Name (NamePattern1) 3629**] by
+   telephone in the AM on [**3287-5-5**].
+   2. New minimally displaced fracture of the lateral right ninth rib.
+   Multiple additional bilateral healing rib fractures.
+   3. Healing left distal clavicle fracture.
+   3. Resolution of right upper lobe pneumonia.
+   4. Chronic severe pulmonary fibrosis in the setting of sarcoidosis.
+   .
+   [**3286-12-3**] ECHO:
+   The left atrium is normal in size. Left ventricular wall thicknesses
+   are normal. The left ventricular cavity size is normal. Overall left
+   ventricular systolic function is normal (LVEF>55%). The right
+   ventricular cavity is dilated. Right ventricular systolic function
+   appears depressed. There is abnormal septal motion/position consistent
+   with right ventricular pressure/volume overload. The ascending aorta is
+   mildly dilated. The aortic valve leaflets (3) are mildly thickened.
+   There is no aortic valve stenosis. Mild (1+) aortic regurgitation is
+   seen. The mitral valve appears structurally normal with trivial mitral
+   regurgitation. There is moderate pulmonary artery systolic
+   hypertension. Significant pulmonic regurgitation is seen. There is a
+   trivial/physiologic pericardial effusion.
+   Compared with the prior study (images reviewed) of [**3286-10-31**], right
+   ventricular systolic function now appears depressed.
+   Microbiology: [**3-26**] Blood Cx: pending
+   ECG: [**3287-7-26**] EKG:sinus tachycardia at 125bpm, normal axis, normal
+   intervals, poor baseline, no apparent ST segment or T wave changes.
+   Compared with [**3287-5-2**] sinus tachycardia is new otherwise no clear
+   change.
+   Assessment and Plan
+    Mr. [**Known patient lastname 3624**] is a 55 yo M with PMH of end stage sarcodiosis
+   admitted with fever, tachypnea, and hypoxia intubated in ED [**2-8**] concern
+   for increased work of breathing and hypoxia.
+   .
+   #SIRS/Sepsis - meets criteria based on tachycardia and bandemia of 29%
+   on diff,most likely due to PNA given underlying severe sarcoidosis,
+   other consideration is infected midline which has been in place for
+   unclear duration of time.  UA unremarkable and unlikely the source but
+   will f/u.
+   -vancomycin IV to cover for possible line infection
+   -meropenam given recent h/o resistant pseudomonas on recent sputum cx
+   -ua unremarkable, f/u urine culture
+   -d/c midline, send tip for culture
+   -BP had been stable until propofol started, will d/c propofol and
+   -IVF for CVP 8-10, will start levophed if MAP still < 65 despite CVP at
+   goal
+   .
+   #Hypoxemic respiratory failure - in setting of report of fever
+   concerning for superimposed PNA on severe pulmonary fibrosis [**2-8**] end
+   stage sarcoid.  No clear infiltrate on CXR although difficult to
+   interpret in the setting of already severe pulmonary fibrosis.
+   -treat for possible PNA given high susceptibility given underlying
+   pulmonary abnormalities
+   -vanc/meropenam for now for broad coverage given recent h/o multidrug
+   resistant pseudomonas (resistant to zosyn and cefepime)
+   -send sputum culture
+   -f/u blood cultures
+   -continue mechanical ventillation, wean FIO2 as tolerated for Sat >90
+   -consider bronchoscopy to obtain sputum sample
+   -consider CT scan to further evaluate for degree of airway disease
+   -albuterol/atrovent MDI
+   .
+   #End stage sarcodiosis - has severe sarcoid at baseline on high dose
+   steroids.
+   -continue high dose steroids for now with solumedrol 60mg IV Q6
+   -continue PCP prophylaxis [**Name Initial (PRE) **]/bactrim
+   -consider bronch/CT scan as discussed above
+   -continue mechanical ventillation
+   -continue azathioprine
+   .
+   #H/O severe anxiety - on multiple agents at baseline for severe anxiety
+   including ativan, risperdal, mirtazapine, haldol.
+   -Will hold for now while sedated for mechanical ventillation
+   -resume once getting close to weaning
+   .
+   #Chronic pain/spinal stenosis - on chronic ms contin/percocet, will
+   hold for now and sedate with fentanyl/midazolam while intubated.
+   .
+   #Type 2 DM
+ likely component [**2-8**] chronic steroids
+   -continue [**Hospital1 **] NPH/HISS
+   ICU Care
+   Nutrition:
+   Glycemic Control: NPH [**Hospital1 **]/ HISS
+   Lines:  [**Name [** Location **] ([** Location **]es) **]-[**Last Name ([** Location **]es) **]
+   Multi Lumen - [**3287-7-26**] 04:00 PM
+   Prophylaxis:
+   DVT: SQ UF Heparin
+   Stress ulcer: PPI
+   VAP: HOB elevation, Mouth care, Daily wake up, RSBI
+   Need for restraints reviewed
+   Comments:
+   Communication:  Comments: daughter [**Name (NI) 3630**] [**Last Name (NamePattern1) 3631**] is HCP H:
+   [**Telephone/Fax (1) 3632**] c: [**Telephone/Fax (1) 3633**]
+   Code status: Full code
+   Disposition: ICU
+   ------ Protected Section ------
+   MICU ATTENDING ADMISSION NOTE
+   Case reviewed, pt examined and primary data reviewed with Dr. [**Last Name (STitle) 70**],
+   whose note reflects my thoughts. Briefly, patient is a 53M with
+   advanced sarcoidosis c/b end stage fibrosis and severe PHTN, HCV,
+   osteopenia, recent abd wall hematoma, zoster c/b neuropathic pain
+   admitted with progressive respiratory failure from rehab. Intubated in
+   ED, currently critically ill on A/C vent and with borderline BP. RIJ
+   placed in ED, rx steroids, abx and xfered to [**Hospital Unit Name 42**]. Remainder of
+   PMH/HPI/ROS as above, NKDA.
+   On exam, asynchronous with vent, VS 97.6 90/60 115 24 99% on VAC 500 x
+   20 PEEP 10
+ 7.34 / 64 / 106
+   PERRL, distant coarse BS B with wheeze. RRR +PA tap, diffuse abd
+   purpura non-tender, 2+ edema
+   Labs with WBC 13K c 29% bands, HCO3 33, Cr 0.5. CXR c BLL fibrotic
+   changes and BUL cysts, minimal change from prior. ETT high, CVL in good
+   position.
+   A/P
+ 53M end stage sarcoidosis now with likely sepsis from pneumonia
+   and respiratory failure.
+     -  Will change to PSV for better synchrony and sedate with fent /
+   midaz.
+     -  Advance ETT 2cm, cover with [**Last Name (un) 411**] and vanco
+     -  Will send sputum and bronch if able to tolerate lower FiO2 to
+   speciate PSA and r/o PCP
+     [**Name Initial (PRE) **]  [**Name9 (PRE) **] treat with IV steroids since he has been on them and still
+   appears wheezy
+     -  Check Legionella Ag and beta-glucan, hold azathioprine, continue
+   bactrim TIW for now
+     -  Pan culture and consider CT though this is unlikely to change
+   treatment at this point
+     -  D/c PICC now and continue vanco, consider LENIs for ?DVT in AM
+     -  Start TFs
+     -  Pneumoboots
+     -  CVL, MICU, Full, d/w family
+     -  Above d/w team in detail, patient is critically ill, total time 60
+   min
+   ------ Protected Section Addendum Entered By:[**Name (NI) 33**] [**Last Name (NamePattern1) 32**], MD
+   on:[**3287-7-26**] 20:34 ------

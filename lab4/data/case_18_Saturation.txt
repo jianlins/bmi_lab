@@ -1,0 +1,140 @@
+Date of service: [**3492-12-26**]
+   Initial visit, Cardiology service: CCU
+   History of present illness: This is an 85 yo male with a history of
+   idiopathic dilated cardiomyopathy who presented to [**Hospital3 **]
+   [**Hospital 1613**] hospital S/p ventricular fibrillation arrest.  He collapsed
+   in his house and had been down for 2 minutes when EMS arrived.  He was
+   received 120J Biphasic and amiodarone 150mg IV followed by continuous
+   infusion by EMS for presumed V. fib/VT and subsequently arrived at [**Hospital 5248**].  Cooling protocol was initiated sometime between presentation at
+   [**Hospital3 **] ~ 7:30 AM, then was MedFlighted.  He had reached 89 degrees
+   Centigrade by presentation to [**Hospital1 17**] at 10:30 AM on [**3492-12-26**].
+   .
+   [**Name (NI) **] wife reports that patient came from bathroom this AM at 7AM
+   and lied down.  His wife tried to talk to him, but he was
+   unresponsive.  She contact[**Name (NI) **] EMS ~ 5 minutes afterwards, and EMS
+   arrived in 2 minutes.  They felt rhythm was Ventricular fibrillation,
+   and he received 1 shock and revereted to a narrow complex rhythm.  On
+   presentation to [**Hospital1 17**] ED, patient had been intubated and cooled to 89
+   degrees Fahrenheit.  He received Vecuronium IV and was started on
+   fentanyl and midazolam for sedation.  On arrival to CCU, vital signs
+   were 52, 218/109, T:33 Celsius, O2 Sat 100% on 100% FiO2.  He was
+   transiently on a nitroglycerin gtt which was turned off once patient
+   became hypotensive to 70s systolic, and pressure returned to 130s
+   systolic.  He was experiencing several runs of wide-complex
+   tachycardia, appearing monomorphic on telemetry, and received another
+   150mg IV amiodarone.
+   Past medical history: #.  Fluticasone/salmeterol 50/250 [**Hospital1 7**]
+   #.  Furosemide 40mg daily
+   #.  Losartan 50mg daily
+   #.  Doxepin 25mg TID
+   #.  Omeprazole 20mg daily
+   #.  Albuterol PRN
+   CAD Risk Factors
+   CAD Risk Factors Present
+   Dyslipidemia, Hypertension
+   CAD Risk Factors Absent
+   Diabetes mellitus, Family Hx of CAD, Family Hx of sudden cardiac death
+   (Tobacco: No)
+   Cardiovascular Procedural History
+   There is no history of:
+   PCI
+   CABG
+   Pacemaker / ICD
+   Allergies: NKDA
+   Current medications: Home medications:
+   #.  Fluticasone/salmeterol 50/250 [**Hospital1 7**]
+   #.  Furosemide 40mg daily
+   #.  Losartan 50mg daily
+   #.  Doxepin 25mg TID
+   #.  Omeprazole 20mg daily
+   #.  Albuterol PRN
+   Cardiovascular ROS
+   Cardiovascular ROS Signs and Symptoms Present
+   Syncope
+   Cardiovascular ROS Signs and Symptoms Absent
+   Chest pain, SOB, DOE
+   Cardiovascular ROS Details: Unable to perform review of systems, as
+   patient is sedated.  Per wife, as noted above.
+   Review of Systems
+   Organ system ROS normal
+   Constitutional, Respiratory, Neurological
+   Signs and symptoms absent
+   Recent fevers, Chills, Rigors
+   Social History
+   Marital status: Married
+   Children: None
+   (Alcohol: No)
+   Family history: Non-contributory
+   Social history details: Unable to obtain
+   Physical Exam
+   Date and time of exam: [**3492-12-26**] at 14:30
+   Vital signs: per R.N.
+   Height: 69 Inch, 175 cm
+   Weight: 78 kg
+   T current: 34.1 C
+   HR: 52 bpm
+   RR: 16 insp/min
+   O2 sat: 100 %  on Supplemental oxygen: 100% FiO2
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: WNL), (Teeth, gums and
+   palette: WNL)
+   Neck: (Right carotid artery: No bruit), (Left carotid artery: No bruit)
+   Back / Musculoskeletal: (Chest wall structure: WNL)
+   Respiratory: (Effort: WNL), (Auscultation: WNL)
+   Cardiac: (Rhythm: Irregular, Bradycardic), (Palpation / PMI: WNL),
+   (Auscultation: S1: WNL, S2: physiologically split, S3: Absent, S4:
+   Absent)
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Other
+   abnormalities: Arctic Sun Pads)
+   Genitourinary: (WNL, Foley catheter)
+   Femoral Artery: (Right femoral artery: No bruit), (Left femoral artery:
+   No bruit)
+   Extremities / Musculoskeletal: (Digits and nails: WNL), (Dorsalis pedis
+   artery: Right: 1+, Left: 1+), (Posterior tibial artery: Right: 1+,
+   Left: 1+), (Edema: Right: 0, Left: 0), (Extremity details: Cool upper
+   and lower extremities)
+   Skin: ( WNL)
+   Tests
+   ECG: (Date: [**3492-12-26**]), atrial fibrillation at 80bpm, normal axis,
+   normal QT 416, normal QRS morphology.  RBBB has resolved compared to
+   earlier this morning.  Non-specific T-wave changes in V5-V6
+   Telemetry: Wide-complex tachycardia
+   Cardiac Cath: (Date: [**3491-1-21**]), LV gram with severe global hypokinesis
+   with LVEF 25%
+   Mild MR, no Aortic stenosis
+   Coronaries:  Right-dominant, LMCA WNL, 30% Distal LAD, LCX WNL, RCA
+   WNL, PDA 30% lesion
+   HEMODYNAMICS:
+   Left Heart:
+   AO: 165/28
+   FA: 156/63
+   LV:147/2, 11
+   Right Heart:
+   RA: **/9 (5), 70% O2 Saturation
+   RV: 48/0, 4
+   PA: 45/11 (26), 61% O2Sat
+   PW: **/21 (12)
+   CO by thermodilution: 3.89 l/min
+   CI: 2.1 l/min/m2
+   Assessment and Plan
+   85 yo male with COPD, idiopathic dilated cardiomyopathy, who presents
+   S/P Ventricular fibrillatory arrest
+   1.  V fib arrest - Unclear etiology.  Ischemia is possibility, despite
+   relative clean coronaries on [**3490**] angiography.  [**Month (only) 47**] also be [** Location **]posed
+   to ventricular arrhythmia due to dilated cardiomyopathy, and this is a
+   more likely explanation.  Electrolytes repleted.
+   - Arctic sun protocol x 18 hours.
+   - Consider Head imaging if mental status remains obscured after cooling
+   protocol.
+   - Trend cardiac biomarkers, and q6 hour labs for cooling protocol.
+   - Repeat ECG in AM
+   - Consider beta-blockade if heart rate tolerates, definitely start
+   after cooling protocol is finished.
+   - Continue aspirin for now, consider heparin if elevation in biomarkers
+   of if there is polymorphic VT recurrence
+   2.  COPD - Continue Advair, Nebs
+   3.  Access - Peripheral IVs for now, no current indication for central
+   venous access
+   4. Prophylaxis - Pantoprazole, heparin SC
+   5.  Code status - full, confirmed with wife
+   6.  Communication - with wife and [**Name2 (NI) **]

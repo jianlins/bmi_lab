@@ -1,0 +1,153 @@
+TITLE:
+   History of Present Illness
+   - transitioned off bipap within hours of admission-->on Venti face mask
+   and breathing comfortably all day.  No diuresis given.
+   - overnight, pt SOB, tachycardiac, hypertensive, apparently
+   distressed.  UOP ~20cc/h for several hours, lungs sounded wheezy and
+   crackly, EKG showed more prominent T waves vs yesterday but unchanged
+   from prior in [**Month (only) 3**]. Given 80 mg IV lasix and oral morphine (on this
+   at nursing facility). Tachycardia improved, patient resting
+   comfortably, UOP ~300 cc/3 hours after.
+   - IV nurses recommend midline rather than PICC for access at NH; will
+   place [**2516-12-22**]
+   Medications
+   Unchanged
+   Physical Exam
+   Tmax C last 24 hours: 35.6 C
+   Tmax F last 24 hours: 96.1 F
+   T current C: 35.6 C
+   T current F: 96 F
+   [** Location **]us day:
+   Weight: 49.1 kg
+   Output: 365 mL
+   Fluid balance: -365 mL
+   Today:
+   Output: 370 mL
+   Fluid balance: -370 mL
+   VS: BP 118/55 (105-150/41-65), HR 76, RR 25, O2 Sat 98% on 40% Venti
+   mask
+   Eyes: (Conjunctiva and lids: WNL)
+   Ears, Nose, Mouth and Throat: (Oral mucosa: WNL), (Teeth, gums and
+   palette: WNL)
+   Neck: (Jugular veins: Not visible)
+   Respiratory: (Effort: WNL), (Auscultation: crackles at bases)
+   Cardiac: (Rhythm: Regular), (Auscultation: S1: WNL, S3: Absent, S4:
+   Absent), (Murmur / Rub: Absent)
+   Abdominal / Gastrointestinal: (Bowel sounds: WNL), (Pulsatile mass:
+   No), (Hepatosplenomegaly: No)
+   Extremities / Musculoskeletal: (Digits and nails: WNL), (Muscle
+   strength and tone: right upper extremity flexed.), (Dorsalis pedis
+   artery: Right: 1+, Left: 1+), (Posterior tibial artery: Right: 1+,
+   Left: 1+), (Edema: Right: 0, Left: 0)
+   Skin: ( WNL)
+   Labs
+   270
+   11.2
+   161
+   1.0
+   30
+   3.1
+   32
+   105
+   146
+   32.6
+   13.4
+        [image002.jpg]
+                            [**2516-12-21**]  06:03 PM
+                            [**2516-12-22**]  04:02 AM
+   WBC
+   13.4
+   Hgb
+   11.2
+   Hct (Serum)
+   32.6
+   Plt
+   270
+   INR
+   1.2
+   PTT
+   33.5
+   Na+
+   143
+   146
+   K + (Serum)
+   3.7
+   3.1
+   Cl
+   103
+   105
+   HCO3
+   31
+   30
+   BUN
+   33
+   32
+   Creatinine
+   1.1
+   1.0
+   Glucose
+   192
+   161
+   CK
+   34
+   35
+   Troponin T
+   0.09
+   0.08
+   ABG: /  /  / 30 /    Values as of [**2516-12-22**] 04:02 AM
+   Assessment and Plan
+ HEADACHE
+ HEART FAILURE (CHF), SYSTOLIC, ACUTE ON CHRONIC
+   80 year old woman with pmh significant for chronic systolic congestive
+   heart failure, presenting with shortness of breath.
+   .
+   # Acute on Chronic systolic congestive heart failure: History and
+   presentation consistent with CHF exacerbation. LVEF 20%, BNP 26,000 on
+   admission. Lung exam with crackles. Unclear etiology, dietary
+   indescretion and medicaiton non-compliance are likely not causes given
+   patient is presenting from [**Hospital **] rehab.  Possible upper respiratory
+   infection, possible worsening valvular disease. Uncontrolled
+   hypertension is also a possibility. Ischemia is also a possibility.
+   -diurese with lasix 40mg IV
+   -trend cardiac enzymes
+   -goal I/O neg 1L
+   -continue metoprolol
+   -continue losartan
+   -will place PICC, to allow easier lasix administration while at [**Hospital **]
+   rehab.
+   .
+   #Respiratory Status: Patient is breathing comfortablky on CPAP, PEEP
+   5Oxygen saturation 98% on FiO2 50%. Per report in ED, attempts at
+   weaning off CPAP to venti mask were unsuccessful secondary to marked
+   tachypnea to 40's.  recent ABG with adequate oxygenation, and CO2 49.
+   [**Month (only) 47**] need to increase pressure support.
+   -trend ABG
+   -wean off Bipap
+   .
+   #CAD: History of MI in [**2514**]. Will continue aspirin, lopressor, and
+   losartan.
+   .
+   #Peripheral Vascular Disease: S/p bypass.  will continue aspirin.  Will
+   restart plavix per discussion with PCP.
+   .
+   #CVA: patient with right sided hemiparesis, right facial droop,
+   expressive aphasia.  Will continue with aggressive bowel regimen, soft
+   diet.
+   .
+   #Hypertension: continue lopressor and losartan
+   .
+   #Diabetes: Type 2 on insulin.  will continue standing insulin in
+   addition to sliding scale.
+   .
+   #Parkinson's disease: Continue carbidopa levodopa TID.
+   .
+   #Depression:continue sertraline and bupropion
+   .
+   FEN:  pureed diet, diabetic consistent carbohydrate
+   ACCESS: PIV's
+   PROPHYLAXIS:
+   -DVT ppx with heparin sub q, pneumoboots
+   -Pain managment with  tylenol, morphine
+   -Bowel regimen  colace, senna milk of magnesia
+   CODE: DNR/DNI
+   DISPO: CCU

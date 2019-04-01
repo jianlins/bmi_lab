@@ -1,0 +1,209 @@
+TITLE: Cardiology Admission Note
+   DIVISION OF CARDIOLOGY CCU COMPREHENSIVE ADMISSION NOTE
+   .
+   OUTPATIENT CARDIOLOGIST:  [**Doctor Last Name 8476**]
+   .
+   CHIEF COMPLAINT:  Status post mitral valvuloplasty
+   .
+   HISTORY OF PRESENTING ILLNESS:
+   .
+   Mr [**Known patient lastname 787**] is a 73 year old man with complicated past medical history
+   including large B cell non-hodgkins lymphoma, mitral stenosis, Afib,
+   seizure disorder, electively admitted for valvuloplasty, transferred to
+   CCU for close monitoring.
+   .
+   Briefly, patient was admitted on [**8-28**] with SOB and DOE and was
+   evaluated for valvuloplasty, however at that time was found to have a
+   clot in the right atrium and procedure was deferred. He remained
+   anticoagulated and repeat TEE yesterday revealed persistent left atrial
+   appendage clot with smoke. Became hypotensive during the procedure and
+   was given 2L IV fluids, thought to be multifactorial from poor PO
+   intake, sedation, and afib with RVR. Today, he underwent planned mitral
+   vavuloplasty uneventfully with improvement in mitral valve area from
+   1.2 to 3.7 cm2 (gradient decreased from 10 to 2 mmHg); cardiac index
+   was 2.5 L/min/m2; mean PCWP 17 mmHg with LVEDP 9 mmHg. He currently has
+   no complaints.
+   .
+   On review of systems, he denies any prior history of deep venous
+   thrombosis, pulmonary embolism, bleeding at the time of surgery,
+   myalgias, cough, hemoptysis, black stools or red stools. He denies
+   recent fevers, chills or rigors. He denies exertional buttock or calf
+   pain. All of the other review of systems were negative.
+   .
+   PAST MEDICAL HISTORY:
+   1. CARDIAC RISK FACTORS: - Diabetes, + Dyslipidemia, - Hypertension
+   2. CARDIAC HISTORY:
+   -CABG: none
+   -PERCUTANEOUS CORONARY INTERVENTIONS: none
+   -PACING/ICD:
+   3. OTHER PAST MEDICAL HISTORY:
+   -AAA 4cm
+   -CVA: Cerebellar artery infarct on MRI
+   -TIA [**3411**]
+   -Large B cell non hodgkin's lymphoma treated with diverting
+   colostomy, chemo, radiation
+   -Moderate to severe Mitral stenosis wtih MVA of 1cm2
+   -Chronic atrial fibrillation
+   -Seizure disorder-last seizure 1.5 yrs ago
+   -Depressive disorder
+   -Osteopenia
+   -Pulmonary hypertension
+   -? dementia per wife
+   -Hx Cholecystectomy
+   -Hard of hearing
+   .
+   MEDICATIONS:  (ON TRANSFER)
+   Atorvastatin 40 mg PO/NG DAILY
+   Fluoxetine 40 mg PO/NG DAILY
+   Vitamin D 1000 UNIT PO/NG DAILY
+   Senna 1 TAB PO/NG [**Hospital1 7**]:PRN constipation
+   Docusate Sodium 100 mg PO DAILY
+   Acetaminophen 325 mg PO/NG Q6H:PRN
+   Divalproex (DELayed Release) 500 mg PO BID
+   Heparin IV Sliding Scale
+   .
+   MEDICATIONS (HOME)
+   Depakote 500mg [**Hospital1 **]
+   Lovastatin 40mg 2 tablets in the am
+   Fluoxetine 40mg daily
+   Warfarin 3mg last dose Sunday night
+   Vitamin D 1000 IU daily
+   .
+   ALLERGIES: NKDA
+   .
+   SOCIAL HISTORY
+   Currently lives with his wife in an [**Hospital3 9890**] facility. He is a
+   retired manager. He denies EtOH or drug use, smokes [**2-22**] cigs/day, has
+   been smoking since age 25.
+   .
+   FAMILY HISTORY:
+   No siblings. Father died in his 80s from emphysema. Mother
+   died in her early 50s from heart disease.
+   .
+   FAMILY HISTORY:
+   No family history of early MI, arrhythmia, cardiomyopathies, or sudden
+   cardiac death; otherwise non-contributory.
+   .
+   PHYSICAL EXAMINATION:
+   VS: T=94.1 BP=121/70 HR=72 [**Last Name (un) **] RR=16 O2 sat=  93% 2L NC
+   GENERAL: Cachectic male, NAD, lying flat. Alert, Oriented. Mood, affect
+   appropriate.
+   HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no
+   pallor or cyanosis of the oral mucosa. No xanthalesma.
+   NECK: Supple with JVP flat.
+   CARDIAC: PMI located in 5th intercostal space, midclavicular line.
+   irregular, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.
+   LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were
+   unlabored, no accessory muscle use. CTAB, no crackles, wheezes or
+   rhonchi.
+   ABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by
+   palpation. No abdominial bruits.
+   EXTREMITIES: No c/c/e. No femoral bruits.
+   SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+   PULSES:
+   Right: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   Left: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ PT 2+
+   .
+   LABS/STUDIES
+   EKG:  Afib 70s, low limb volts
+   .
+   TELEMETRY:  Afib 60s
+   .
+   2D-ECHOCARDIOGRAM ([**3429-10-30**]): Report pending.
+   .
+   TEE ([**3429-10-28**]): The left atrium is severely dilated. Mild to moderate
+   spontaneous echo contrast is seen in the body of the left atrium.
+   Moderate to severe spontaneous echo contrast is present in the left
+   atrial appendage. The left atrial appendage emptying velocity is
+   depressed (<0.2m/s). Definite thrombus is seen in the left atrial
+   appendage. No spontaneous echo contrast or thrombus is seen in the body
+   of the right atrium or the right atrial appendage. No atrial septal
+   defect is seen by 2D or color Doppler. Overall left ventricular
+   systolic function is probably normal (LVEF>55%) (not fully assessed).
+   Right ventricular free wall motion may be depressed. There are simple
+   atheroma in the ascending aorta. There are simple atheroma in the
+   aortic arch. There are simple atheroma in the descending thoracic
+   aorta. The aortic valve leaflets (3) are mildly thickened but aortic
+   stenosis is not present. Trace aortic regurgitation is seen. The mitral
+   valve leaflets are mildly to moderately thickened. The mitral valve
+   shows characteristic rheumatic deformity. The mitral stenosis gradient
+   was not assessed. Trivial mitral regurgitation is seen. The tricuspid
+   valve leaflets are mildly thickened. A TEE procedure related
+   complication occurred (see comments for details). IMPRESSION: Left
+   atrial appendage thrombus with prominent spontaneous echo contrast in
+   the left atrium and left atrial appendage. Mitral stenosis with
+   rheumatic deformity. Compared with the prior study (images reviewed) of
+   [**3429-9-11**], the severity of mitral regurgitation is reduced on the
+   current study. The other findings are similar.
+   .
+   ICE ([**3429-10-30**]: The left atrium is dilated. Mild spontaneous echo
+   contrast is seen in the body of the left atrium. No thrombus/mass is
+   seen in the body of the left atrium. Overall left ventricular systolic
+   function is normal (LVEF>55%). There is normal right ventricular free
+   wall contractility. The mitral valve leaflets are mildly thickened. The
+   mitral valve shows characteristic rheumatic deformity. There is
+   moderate valvular mitral stenosis (mean gradient, 8 mmHg). Mild (1+)
+   mitral regurgitation is seen. Moderate [2+] tricuspid regurgitation is
+   seen. There is mild pulmonary artery systolic hypertension. There is no
+   pericardial effusion.
+   .
+   CARDIAC CATH:  cardiac catheterization at [**Hospital1 **] on [**3429-8-6**]. The
+   catheterization revealed significant mitral stenosis with an MVA
+   of 1cm2. The coronary anatomy revealed a 50% OM2 lesion but all
+   other vessels without significant disease.
+   .
+   HEMODYNAMICS ([**3429-10-30**]):  Mitral vavuloplasty uneventfully with
+   improvement in mitral valve area from 1.2 to 3.7 cm2 (gradient
+   decreased from 10 to 2 mmHg); cardiac index was 2.5 L/min/m2; mean PCWP
+   17 mmHg with LVEDP 9 mmHg.
+   .
+   LABORATORY DATA:
+   See below.
+   .
+   .
+   ASSESSMENT AND PLAN
+   .
+   73 yo gentleman with PMH significant for CVA, B-cell non-hodgkin's
+   lymphoma, chronic afib on anticoagulation, s/p elective valvuloplasty
+   for mitral stenosis.
+   .
+   #: MITRAL STENOSIS: Patient s/p mitral valvuloplasty without
+   complication. Gradient significantly reduced post-intervention.
+   -- Post cath check
+   -- Monitor for evidence of embolization
+   -- ECHO in AM.
+   .
+   # ATRIAL FIBRILLATION: Continue rate control and IV heparin for
+   systemic anticoagulation.
+   -- resume warfarin and heparin 4 hrs after sheath pull
+   -- currently rate controlled off agents, will monitor
+   .
+   # PUMP: Normal systolic function. PCWP elevated [** Location **]tervention,
+   expect diminished post.
+   .
+   # Wt Loss: Concern for progression of his lymphoma vs deconditioning
+   and poor PO intake in the setting of his valvular dysfunction.
+   -valvuloplasty as above
+   -will attempt to obtain outside heme/onc notes today
+   .
+   # Hx B-cell lymphoma: s/p chemo/radiation/diverting colostomy.
+   .
+   # Hx seizures: no recent seizure activity
+   -- continue depakote
+   .
+   # Depression: continue fluoxetine
+   .
+   FEN:  Regular diet
+   .
+   ACCESS: PIV's, venous and arterial sheaths to be pulled later
+   .
+   PROPHYLAXIS:
+   -DVT ppx with heparin IV
+   -Pain management with tylenol prn
+   -Bowel regimen
+   .
+   CODE: Full
+   .
+   COMM: patient, family
+   .
+   DISPO: CCU for now

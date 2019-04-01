@@ -1,0 +1,191 @@
+Chief Complaint:  hypertension
+   HPI:
+   44 yo female with a history of hypertension, hepatitis C virus, and
+   IVDU was admitted from the ED with hypertension.
+   Patient initially presented to the emergency department on the morning
+   of admission with 2 days of abdominal pain, nausea, and vomiting.
+   Regarding the vomiting, she reports emesis with yellow/green without
+   food and with occasional streaks of blood. Her emesis has improved with
+   zofran in the ED. Additional review of systems was notable for the
+   following:
+   - malaise
+   - subjective fevers, night sweats, and chills
+   - decreased PO intake x 2 days due to nausea
+   - patient's xanax was recently discontinued by her PCP (at least one
+   week ago), and she then received valium from the ED on [**2840-5-1**] for
+   abdominal pain
+   - last heroin use one week ago
+   Upon arrival to the ED, temp 96.5, HR 94, BP 241/157, RR 18, and 99%
+   RA. While in the [**Name (NI) **], pt received zofran 2mg IV x 2, promethazine 25mg
+   IV x 1, Clonidine .3mg PO x 1, Hydralazine 20mg IV x 2, diazepam 5mg PO
+   x 1, morphine 2mg IV x 1, ativan 2mg IV x 2, and nitro gtt. She also
+   received approximately 3L of NS. CXR and labs were unremarkable.  While
+   in the ED, her blood pressure remained elevated from 180-230/130-150,
+   her heart rate increased from 90s to 120-130s, and she developed an
+   oxygen requirement of approximately 4L. Her blood pressure was 222/58
+   and she was 96% on 4L upon transfer to the [**Hospital Unit Name 42**].
+   Allergies:
+   All drug allergies [** Location **]usly recorded have been deleted
+   Last dose of Antibiotics:
+   Infusions:
+   Nitroglycerin - 0.5 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Home Medications:
+   1. Hydrochlorothiazide 12.5mg PO qdaily
+   2. Clonidine .3mg PO tid
+   3. Valium 5mg 1 tablet PO q6h (last filled on [**2840-5-1**] - 15 pills)
+   4. Motrin 600mg (12 pills on [**2840-5-1**])
+   5. Percocet (15 pills - [**2840-5-1**])
+   6. Citalopram 40mg PO daily
+   7. Albuterol neb prn
+   8. Albuterol inhaler prn
+   9. Advair (500/50)
+   10. Promethazine 25mg
+   11. Singulair 10mg daily
+   Past medical history:
+   Family history:
+   Social History:
+   1. Hypertension
+   2. Asthma
+   3. Hepatitis C
+   4. IVDU
+   5. Chronic Pain - possible diagnoses of fibromyalgia or lupus
+   noncontributory
+   Occupation: [** Location **]usly employed as a dog groomer, has not worked in
+   several years
+   Drugs: history of IVDU, primarily heroin, last use was 1 week ago but
+   was [** Location **]usly clean x 5 years
+   Tobacco: [**2-15**] cigs/week, history of 20 PPY history
+   Alcohol: [** Location **]us history of alcoholism while patient worked as a
+   bartender in the 80s; [** Location **]us drink of choice was whiskey
+   Other: Home: was [** Location **]usly staying at homeless shelter and recently
+   moved in with her sister and sister's family
+   Review of systems:
+   Constitutional: Fatigue, Fever
+   Ear, Nose, Throat: Dry mouth
+   Gastrointestinal: Abdominal pain, Nausea
+   Flowsheet Data as of [**2840-5-9**] 11:30 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 36.9
+C (98.4
+   Tcurrent: 36.6
+C (97.8
+   HR: 127 (125 - 129) bpm
+   BP: 155/108(119) {155/108(119) - 178/122(131)} mmHg
+   RR: 23 (15 - 24) insp/min
+   SpO2: 93%
+   Height: 63 Inch
+             Total In:
+             189 mL
+   PO:
+             100 mL
+   TF:
+   IVF:
+   89 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                      0 mL
+   Urine:
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                    189 mL
+   Respiratory
+   SpO2: 93%
+   Physical Examination
+   T 98.4 / RR 12 / BP 178/116 / HR 127 / RR 15 / Pulse ox 99% 4L
+   Gen: resting comfortably in bed, NAD
+   HEENT: dry mucous membranes, 2cm white rounded lesion on hard palate
+   with erythematous surroundings
+   NECK: Supple, No LAD, No JVD
+   CV: RR, tachycardic. NL S1, S2. No murmurs, rubs or gallops
+   LUNGS: CTA, BS BL, No W/R/C
+   ABD: Obese, Soft, NT, ND. NL BS.  No HSM
+   EXT: No edema. 2+ DP pulses BL
+   SKIN: No lesions or IV marks noted
+   NEURO: A&Ox3. Appropriate. CN 2-12 intact. Preserved sensation
+   throughout. 5/5 strength throughout. Normal coordination. Gait
+   assessment deferred
+   PSYCH: Listens and responds to questions appropriately, pleasant
+   Labs / Radiology
+        [image002.jpg]
+   Fluid analysis / Other labs: [**2840-5-9**] - 8:40am
+   Na 133 / K 4.3 / Cl 94 / CO2 23 / BUN 7 / Cr .8 / BG 181
+   ALT 21 / AST 30 / Alk Phos 118 / Lipase 16 / TB .5 / Alb 4.8
+   Acetone - trace
+   WBC 7.1 / Hct 48.5 / Plt 543
+   N 76 / L 20 / M 3 / E 1 / B 0
+   UA - hazy, 1.014, neg for urobil, bili, leuks, bld, nit, 30 prot, neg
+   glu, trace ketones; o RBCs, 0-2 WBCs, mod bacteria, no yeast, [**4-18**] epis
+   .
+   Imaging: CXR - [**2840-5-9**] - No acute pulmonary process.
+   ECG: ECG - [**2840-5-9**] - sinus rhythm with no ST changes
+   Assessment and Plan
+   ASSESSMENT:
+   44 yo female with history of hypertension and IVDU presents with
+   tachycardia and hypertensive urgency in the setting of medication
+   noncompliance.
+   1. Hypertension
+   Etiology of her hypertension appears most likely secondary to
+   medication noncompliance, particularly given the risks of rebound
+   hypertension with clonidine use. Additional possibilities include
+   benzodiazepine withdrawal as pt reports that she was recently taken off
+   of alprazolam and was given diazepam within the last week. Her blood
+   pressure has significantly improved since transfer to the floor.
+   - restart home meds
+   - increase HCTZ to 25mg daily
+   - consider adding third [**Doctor Last Name **] such as a CCB tomorrow if BP is still
+   elevated
+   - titrate off nitro gtt
+   - send serum and urine tox screens
+   2. Tachycardia
+   Differential diagnosis for patient's tachycardia includes dehydration
+   or benzodiazepine withdrawal. Regarding benzodiazepine withdrawal,
+   patient was [** Location **]usly taking xanax and then her primary care stopped
+   providing her xanax. She then went to the ED on [**2840-5-1**] where she was
+   prescribed both percocet and valium. If she has taken valium over the
+   last week, she has likely tapered off benzodiazepines herself with a
+   long acting benzodiazepine. Given that her tachycardia worsened while
+   being in the ED, this appears most consistent with a withdrawal
+   syndrome.
+   - send serum and urine tox screens
+   - monitor on telemetry
+   - continue IVF
+   3. IVDU
+   Patient reports a rela[** Location **] heroin use in the last week.
+   - Addictions consult once hemodynamically stable
+   4. Oral Ulcer
+   Unclear etiology for oral ulcer. Differential includes infectious or
+   pre-malignant/malignant lesion.
+   - swab lesion
+   - consider ENT referral in the AM for further evaluation.
+   5. Asthma
+   Patient appears stable and appears well-controlled on current regimen.
+   - continue advair, albuterol prn, and singulair prn
+   6. Nausea and vomiting
+   Symptoms appear to have resolved now. Etiology is unclear. Differential
+   includes gastroenteritis, withdrawal. Abdominal exam benign.
+   - antiemetics prn
+   - continue to follow
+   ICU Care
+   Nutrition: Regular diet
+   Glycemic Control: appropriate without ISS
+   Lines:
+   20 Gauge - [**2840-5-9**] 06:46 PM
+   Prophylaxis:
+   DVT:  heparin
+   Stress ulcer: not needed
+   VAP:  not needed
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:  ICU monitoring overnight and then consider call-out to
+   floor if BP and HR improve

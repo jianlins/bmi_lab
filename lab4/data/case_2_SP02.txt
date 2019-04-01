@@ -1,0 +1,201 @@
+TSICU
+   HPI:
+   91F p/w lt-sided weakeness/gait instability s/p mechanical fall in
+   sometime [**2565-3-31**]. Was worked up as outpatient by PCP for dropping
+   things, L sided weakness/neglect. OSH CT scan yesterday showed large R
+   sided acute on chronic SDH, pt sent here for neurosurg eval. Today
+   underwent R frontoparietal craniotomy with Dr. [**Last Name (STitle) 437**] for evacuation of
+   SDH, sent to TSICU for q1 hr neurochecks, extubated, HD stable doing
+   well.
+   Chief complaint:
+   headache
+   PMHx:
+   PMH/PSH: pacemaker placement 14 years ago, tonsillectomy age 21,
+   appendectomy age 14, L CEA left side 10 years ago, Meniere's Disease
+   -had a procedure in the right ear, R ear complete hearing loss, L ear
+   partial hearing loss, Bilateral cataracts removed several years ago
+   Current medications:
+   1. 2. 3. 1000 mL LR 4. Acetaminophen 5. Alprazolam 6. Amlodipine 7.
+   Calcium Gluconate 8. Ciprofloxacin
+   9. Docusate Sodium 10. Evista 11. HYDROmorphone (Dilaudid) 12.
+   HydrALAzine 13. Magnesium Sulfate
+   14. Metoprolol Succinate XL 15. Metoprolol Succinate XL 16. Metoprolol
+   Tartrate 17. Ondansetron 18. Pantoprazole
+   19. Phenytoin 20. Pneumococcal Vac Polyvalent 21. Potassium Chloride
+   22. Potassium Phosphate 23. Propafenone HCl
+   24. Senna 25. Sodium Chloride 0.9% Flush 26. Sodium Chloride 0.9% Flush
+   27. Vancomycin 28. Vancomycin
+   24 Hour Events:
+ OR RECEIVED - At [**2565-6-5**] 02:10 PM
+   adm from OR. fully reversed Trying to get OOB to go to the BR
+ ARTERIAL LINE - START [**2565-6-5**] 03:09 PM
+ NASAL SWAB - At [**2565-6-5**] 04:00 PM
+   admit
+   [**2565-6-5**]: R craniotomy for evacuation of SDH, extubated, HD stable,
+   received one unit platelets intra-op.
+   Post operative day:
+   POD#1 - Evac Rt subdural hematoma
+   Allergies:
+   Penicillins
+   Unknown;
+   Tetracycline
+   Unknown;
+   Last dose of Antibiotics:
+   Ciprofloxacin - [**2565-6-6**] 12:07 AM
+   Infusions:
+   Other ICU medications:
+   Fentanyl - [**2565-6-5**] 04:38 PM
+   Hydromorphone (Dilaudid) - [**2565-6-5**] 11:13 PM
+   Other medications:
+   Flowsheet Data as of  [**2565-6-6**] 06:28 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**68**] a.m.
+   Tmax: 36.8
+C (98.2
+   T current: 36.8
+C (98.2
+   HR: 60 (60 - 97) bpm
+   BP: 102/92(98) {88/47(65) - 139/94(109)} mmHg
+   RR: 16 (13 - 25) insp/min
+   SPO2: 100%
+   Heart rhythm: SR (Sinus Rhythm)
+             Total In:
+                                                                  1,198 mL
+                                                                    883 mL
+   PO:
+                                                                    160 mL
+                                                                     60 mL
+   Tube feeding:
+   IV Fluid:
+                                                                    818 mL
+                                                                    823 mL
+   Blood products:
+                                                                    220 mL
+   Total out:
+                                                                  1,315 mL
+                                                                    213 mL
+   Urine:
+                                                                  1,000 mL
+                                                                    158 mL
+   NG:
+   Stool:
+   Drains:
+                                                                    140 mL
+                                                                     55 mL
+   Balance:
+                                                                   -117 mL
+                                                                    670 mL
+   Respiratory support
+   O2 Delivery Device: Non-rebreather
+   SPO2: 100%
+   ABG: 7.44/37/188/25/1
+   Physical Examination
+   General Appearance: No acute distress
+   HEENT: PERRL
+   Cardiovascular: (Rhythm: Regular), (Murmur: Systolic
+ [**4-5**]
+   pan-systolic), pt states murmur is "old"
+   Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds: CTA
+   bilateral : )
+   Abdominal: Soft, Non-distended
+   Left Extremities: (Temperature: Warm)
+   Right Extremities: (Temperature: Warm)
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   (Responds to: Verbal stimuli), Moves all extremities
+   Labs / Radiology
+   241 K/uL
+   11.2 g/dL
+   131 mg/dL
+   0.6 mg/dL
+   25 mEq/L
+   4.2 mEq/L
+   13 mg/dL
+   108 mEq/L
+   141 mEq/L
+   31.6 %
+   8.9 K/uL
+        [image002.jpg]
+                             [**2565-6-5**]  01:16 PM
+                             [**2565-6-5**]  03:19 PM
+                             [**2565-6-5**]  09:00 PM
+                             [**2565-6-6**]  03:05 AM
+   WBC
+   7.8
+   8.9
+   Hct
+   33
+   33.3
+   31.6
+   Plt
+   305
+   241
+   Creatinine
+   0.5
+   0.6
+   TCO2
+   26
+   Glucose
+   121
+   108
+   112
+   131
+   Other labs: PT / PTT / INR:12.1/22.8/1.0, Lactic Acid:1.5 mmol/L,
+   Albumin:3.4 g/dL, Ca:9.2 mg/dL, Mg:1.8 mg/dL, PO4:4.0 mg/dL
+   Imaging: CT head [**2565-6-5**] pre-op: Subdural hematoma layering over the
+   right frontoparietal curvature producing 7 mm of leftward shift.
+   CT head [**2565-6-5**] post-op: 1. Overall decreased blood products and midline
+   shift post right subdural evacuation. 2. High density (70 [**Doctor Last Name **]) right
+   extra axial collection measuring up to 7 mm from the inner table may
+   represent residual subdural blood or epidural hemorrhage.
+   Assessment and Plan
+   PAIN CONTROL (ACUTE PAIN, CHRONIC PAIN), FALL(S), IMPAIRED HEALTH
+   MAINTENANCE, SUBDURAL HEMORRHAGE (SDH)
+   Assessment and Plan: 91 F s/p fall approx one month ago, on ASA, found
+   to have large R SDH, now s/p evacuation.
+   Neurologic: Neuro checks Q: 1 hr
+ change to Q2,. Pain: dilaudid prn
+   change to percocet PO. Neurosurg aware of post-op head CT findings,
+   will follow clinical exam. Low threshold for repeat CT if neuro exam
+   changes. Currently A&O to person, place, events, MAE. Continue dilantin
+   for now, f/u with neurosurg re: ? need to increase given low level.
+   Cardiovascular: HD stable, Metoprolol (home med) and Hydral to keep SBP
+   < 140
+   Pulmonary: extubated successfully post-op, Sp02 high 90s on room air.
+   Per neurosurgery on 100% FiO2 to resolve pneumocephalus. Otherwise
+   stable. OOB
+ chair
+   Gastrointestinal / Abdomen: ADAT
+   Nutrition: Regular diet, Advance diet as tolerated
+   Renal: has UTI, treating with cipro x5days per neurosurg. Will f/u with
+   primary team UTI management with cipro given concern for seizure and
+   switching to an alternative antibiotics.
+   Hematology: trend cbc, nl plt and stable post-op mild anemia
+   Endocrine: RISS with adequate glucose control. Keep < 150
+   Infectious Disease: vancomycin for drain prophylaxis, cipro for UTI, ?
+   changing cipro.
+   Lines / Tubes / Drains: PIV, foley, R radial A-line
+ d/c a-line
+   Wounds: subgaleal drain in place
+   Imaging:
+   Fluids: LR at 75cc/hr for [**Last Name (LF) 6088**], [**First Name3 (LF) 119**] hep lock when taking adequate po
+   Consults: Neuro surgery
+   Billing Diagnosis: CVA
+   ICU Care
+   Nutrition:
+   Glycemic Control:  Regular insulin sliding scale
+   Lines:
+   Arterial Line - [**2565-6-5**] 03:09 PM
+   20 Gauge - [**2565-6-6**] 06:16 AM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: Not indicated
+   VAP bundle:
+   Comments:
+   Communication: Patient discussed on interdisciplinary rounds , Family
+   meeting held , ICU consent signed Comments:
+   Code status: Full code
+   Disposition: Transfer to step-down
+   Total time spent: 15 minutes

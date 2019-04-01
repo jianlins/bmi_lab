@@ -1,0 +1,38 @@
+Clinician:  Attending
+   55 yr old with severe PVD, CAD with EF 20%, ESRD, chronic hep C, DM, 50
+   py ex-smoker, s/p right AKA and left BKA, admitted with non-healing
+   gangrenous ulcerations of both hands, requiring left brachial to radial
+   bypass on [**3276-12-8**]. Had large vol paracentesis (4.1 L) also on [**12-8**]
+   c/b brady, hypotension, demand ischemia and unresponsiveness requiring
+   intubation and pressors.
+   This AM, was noted to lethargic, desat to 88% on 3L. Had diagnostic
+   para which showed 7K wbc, 28K rbc, c/w SBP. Was already on vanc, given
+   dose of ceftriaxone.  Received 50 g albumin x 2 today, last time about
+   6pm. Although mentating well, appeared somnolent. ABG was obtained -
+   acute resp acidosis with pCO2 88.
+   NPPV was attempted but pt required intubation and ventilation. Because
+   of persistent hypercapnia, switched to PC ventilation. Currently PC 33
+   cm, peep 12, FiO2 100%. Most recent VBG 7.26/59. Sats ~94-98%. There is
+   no obvious CHF on [** Location **]tubation CXR. Reduced breath sounds on left,
+   scant wheeze, heart sounds distant, abd distended. Difficult to obtain
+   ABGs. CXR notable for atelectasis +/- large effusion on left.
+   Labs notable for Hct 30, wbc 8.0, 80% polys, no bands, INR 1.3, K 5.0,
+   creat 3.5, vanc level 21.6. Last pO2 on ABG 94 on 100% FiO2. Micro - 3
+   sets BC, urine, ascites sent today. Multiple cdiffs negative.
+   Impression - altered MS and subsequent hypotension likely due to SBP.
+   Acute respiratory failure is likely related to a combination of
+   atelectasis of LLL, probable left sided pleural effusion, +/- volume
+   overload in the setting of getting albumin and not being dialysed x 2
+   days, and fatigue.
+   He now has a tense abdomen and bladder pressure of 20 cm. BP has
+   improved without need for pressors. Will proceed with therapeutic
+   thoracentesis, try to obtain femoral a-line, agree with Vanc/Zosyn,
+   follow up on cultures. Will likely need to resite the central line
+   which was placed on the floor. Scheduled for HD in AM.
+   Rest of the plan as outlined in Dr[**Name (NI) 10728**] note.
+   Total time spent:  80 minutes
+   Patient is critically ill.
+   Paracentesis performed: I was present during entire procedure. Approx
+   1.7 L of ascites removed. No complications. Tidal volumes improved with
+   Ve increasing from 12 to 17 L on current vent settings. Bladder
+   pressure decreased to 16. ABG pending.

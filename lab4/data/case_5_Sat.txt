@@ -1,0 +1,201 @@
+TSICU
+   HPI:
+   47 yr old s/p Flex and Rigid Bronch, Right Thoracotomy, Tracheal
+   Reconstruction using cardiopulmonary bypass, Y stent placement for
+   posterior tracheal tear from a [** Location **]us tracheal stent placement. Had
+   femoral, femoral bypass under sedation, and general anesthesia since
+   wanted to avoid PPV.  Tracheal tear repaired, rigid bronch y stent.
+   Chief complaint:
+   PMHx:
+   TBM hiatal hernia / GERD dx '[**56**] (no heartburn, but odd metalic taste,
+   frequent dental caries, confirmed on 24hr pH study)
+   s/p lap Nissen fundoplication [**11-3**] Mayo
+   Hashimoto thyroiditis >> hypothyroidism
+   mid thoracic vertebral fx @ age 15, s/p TLSO
+   Current medications:
+   Insulin SC  (per Insulin Flowsheet)Sliding Scale Order date: [**1-4**] @
+   1738 1000 mL LR Continuous at 125 ml/hr Ipratropium Bromide Neb 1 NEB
+   IH Q6H:PRN Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN  Metoprolol
+   Tartrate 5 mg IV Q6H Fentanyl Citrate 25-100 mcg IV Q2H:PRN
+   Ondansetron 4 mg IV Q8H:PRN  Fluticasone-Salmeterol Diskus (250/50)  1
+   INH IH [**Hospital1 7**] Piperacillin-Tazobactam Na 4.5 g IV Q8H Fluconazole 200 mg
+   IV Q24H  Heparin 5000 UNIT SC TID
+   24 Hour Events:
+   Allergies:
+   Demerol (Injection) (Meperidine Hcl)
+   Nausea/Vomiting
+   Last dose of Antibiotics:
+   Infusions:
+   Other ICU medications:
+   Fentanyl - [**3262-1-4**] 11:30 PM
+   Other medications:
+   Flowsheet Data as of  [**3262-1-5**] 12:36 AM
+   Vital signs
+   Hemodynamic monitoring
+   Fluid balance
+                                                                  24 hours
+                                                             Since [**64**] a.m.
+   Tmax: 36.1
+C (97
+   T current: 35.9
+C (96.6
+   HR: 88 (88 - 103) bpm
+   BP: 135/78(96) {97/62(73) - 135/81(98)} mmHg
+   RR: 18 (17 - 23) insp/min
+   SPO2: 100%
+   Height: 67 Inch
+   CVP: 0 (0 - 8) mmHg
+   Total In:
+                                                                  3,422 mL
+                                                                     69 mL
+   PO:
+   Tube feeding:
+   IV Fluid:
+                                                                  2,672 mL
+                                                                     69 mL
+   Blood products:
+                                                                    750 mL
+   Total out:
+                                                                  1,623 mL
+                                                                      0 mL
+   Urine:
+                                                                    213 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                  1,799 mL
+                                                                     69 mL
+   Respiratory support
+   O2 Delivery Device: Face tent
+   Ventilator mode: CPAP/PSV
+   Vt (Spontaneous): 864 (417 - 864) mL
+   PS : 5 cmH2O
+   RR (Spontaneous): 18
+   PEEP: 5 cmH2O
+   FiO2: 50%
+   PIP: 11 cmH2O
+   SPO2: 100%
+   ABG: 7.35/38/87.[**Numeric Identifier 175**]/25/-3
+   Ve: 13 L/min
+   PaO2 / FiO2: 88
+   Physical Examination
+   General Appearance: Well developed, well nourished, laying on her side,
+   slightly uncomfortable
+   HEENT: NCAT, PERRL, EOMI
+   Cardiovascular: (Rhythm: Regualr, slightly tachycardic, normal S1S2)
+   Respiratory / Chest: (Expansion: Symmetric, coarse breath sounds
+   through out, good respiratory effort)
+   Abdominal: Soft, non-tender, non-distended, normal bowel sounds
+   Left Extremities: Warm, DP 2+, no edema
+   Right Extremities: Warm, DP 2+, no edema
+   Neurologic: (Awake / Alert / Oriented: x 3), Follows simple commands,
+   Moves all extremities; pain not adequately controlled with iv pain
+   medication
+   Labs / Radiology
+   266 K/uL
+   10.4 g/dL
+   135 mg/dL
+   0.8 mg/dL
+   25 mEq/L
+   3.9 mEq/L
+   10 mg/dL
+   108 mEq/L
+   138 mEq/L
+   29.0 %
+   21.2 K/uL
+        [image002.jpg]
+                             [**3262-1-4**]  03:44 PM
+                             [**3262-1-4**]  04:25 PM
+                             [**3262-1-4**]  04:27 PM
+                             [**3262-1-4**]  04:58 PM
+                             [**3262-1-4**]  06:11 PM
+                             [**3262-1-4**]  06:17 PM
+                             [**3262-1-4**]  07:55 PM
+                             [**3262-1-4**]  08:49 PM
+                             [**3262-1-4**]  10:47 PM
+                             [**3262-1-5**]  12:06 AM
+   WBC
+   16.5
+   21.2
+   Hct
+   26
+   26.3
+   27
+   30
+   29.0
+   Plt
+   201
+   266
+   Creatinine
+   0.8
+   TCO2
+   28
+   28
+   25
+   26
+   25
+   24
+   25
+   22
+   Glucose
+   128
+   130
+   125
+   154
+   144
+   135
+   Other labs: PT / PTT / INR:16.7/48.0/1.5, Fibrinogen:258 mg/dL, Lactic
+   Acid:1.4 mmol/L, Ca:8.8 mg/dL, Mg:2.4 mg/dL, PO4:4.7 mg/dL
+   Assessment and Plan
+   .H/O TRACHEOBRONCHOMALACIA (TRACHEOMALACIA, BRONCHOMALACIA), ACUTE PAIN
+   Assessment and Plan: 47 yr old s/p Flex and Rigid Bronch, Right
+   Thoracotomy, Tracheal Reconstruction using cardiopulmonary bypass
+   Neurologic: extubated and no longer needed sedation
+   Neuro checks Q: 4 hours
+   Pain: Presently on IV pain medication and not reaching adequate pain
+   control; APS service contact[**Name (NI) **] for placement of epidural catheter vs.
+   paravertebral block
+ will discuss with primary team -> INR at 1.4;
+   will reassess pain control after epidural placement / block placement
+   Cardiovascular: Tachycardic without adequate pain control, lopressor 5
+   q6, will reassess when pain control adequate and consider increasing
+   lopressor if still tachycardic
+   Pulmonary: Tracheal Y stent and intercoastal muscle flap to tracheal
+   tear.  Extubated overnight and doing well maintaining O2 sats of 100%
+   on nasal cannula oxygen.  Continue aggressive pulmonary toilet, OOB to
+   chair, ISS.   Continue chest tubes to suction.
+   Gastrointestinal / Abdomen:  No acute issues
+   Nutrition: npo for now; continue IVF for hydration
+   Renal: adequate urine output, Cr normal, will check daily lytes and
+   replete as needed
+   Hematology: recieved protamine perioperativly.  Hct stable.  Will
+   follow coags -> INR 1.4 presently.
+   Endocrine: RISS and blood sugars adequately controlled
+   Infectious Disease: vancomycin, zosyn for post operative antibiotics
+   will discuss with surgical team for duration of therapy
+   Lines / Tubes / Drains: Chest tube - pleural , Chest tube -
+   mediastinal, a line, central line, Foley
+   Wounds: thoracotomy -> dressing clean / dry / intact
+   Imaging: CXR today, CT scan chest today
+   Fluids: d5
+ NS at 75cc/hr
+   Consults: Thoracic surgery
+   Billing Diagnosis:
+   ICU Care
+   Nutrition: NPO for now
+   Glycemic Control:  RISS
+   Lines:  R IJ CVL, CT x2, foley, a-line
+   Arterial Line - [**3262-1-4**] 06:00 PM
+   Multi Lumen - [**3262-1-4**] 06:00 PM
+   18 Gauge - [**3262-1-4**] 06:00 PM
+   16 Gauge - [**3262-1-4**] 06:00 PM
+   Prophylaxis:
+   DVT: Boots
+   Stress ulcer: H2 blocker
+   VAP bundle:
+   Comments:
+   Communication:  Comments: patient and daughter
+   [**Name (NI) 34**] status: Full
+   Disposition: ICU
+   Total time spent: 32 min

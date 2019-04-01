@@ -1,0 +1,153 @@
+Chief Complaint:  respiratory failure
+   I saw and examined the patient, and was physically present with the ICU
+   Resident for key portions of the services provided.  I agree with his /
+   her note above, including assessment and plan.
+   HPI:
+   53 year-old woman with hx of COPD (with recent admission for COPD with
+   exacerbation)
+   She is now intubated and sedated, and history is obtained from ED notes
+   and family.  She initially came to the ED with confusion, stating that
+   she "felt like she was retaining CO2" and with 10/10 headache.
+   In the ED, her vital signs included temp 95.7, HR 65, BP 237/75, RR 12,
+   Pulse ox 95% RA.  A TNG infusion was started for hypertension.  She was
+   treated with bronchodilators and BiPAP because she reported feeling as
+   if she was retaining CO2 (but ABG 7/40 /45 / 74). She also noted
+   abdominal pain and blurry vision. She developed increasing confused and
+   agitation and was intubated for combativeness.  Her ED course was also
+   notable for an episode of bradycardia to the 30s.
+   LP in ED showed rbc 39 - 63, wbc [**2-5**] with ~40% PMNs, total protein 158,
+   glucose 94, negative gram stain.
+   Additional medications received include ipratropium neb, albuterol neb,
+   nitro gtt, ativan 1mg IV x 1, naloxone .4mg IV x 1, ceftriaxone 2g IV x
+   1, vancomycin 1mg IV ativan, propofol for sedation, etomidate,
+   .
+   Upon arrival to the [**Name (NI) 42**], pt is intubated and sedated.
+   Patient admitted from: [**Hospital1 52**] ER
+   Patient unable to provide history: Sedated, Encephalopathy
+   Allergies:
+   Dilantin (Oral) (Phenytoin Sodium Extended)
+   Rash;
+   Last dose of Antibiotics:
+   Infusions:
+   Propofol - 50 mcg/Kg/min
+   Other ICU medications:
+   Other medications:
+   Ordered here: ativan, hydralazine, CHG, acyclovir, SQI, prednisone 50,
+   tiotropium, advair, albuterol
+   Past medical history:
+   Family history:
+   Social History:
+   Occupation:
+   Drugs:
+   Tobacco:
+   Alcohol:
+   Other:
+   Review of systems:
+   Flowsheet Data as of [**2779-3-26**] 12:44 PM
+   Vital Signs
+   Hemodynamic monitoring
+   Fluid Balance
+                                                                  24 hours
+                                                               Since 12 AM
+   Tmax: 37.8
+C (100.1
+   Tcurrent: 37.8
+C (100.1
+   HR: 96 (77 - 96) bpm
+   BP: 152/77(94) {138/77(94) - 191/106(123)} mmHg
+   RR: 23 (19 - 23) insp/min
+   SpO2: 94%
+   Heart rhythm: ST (Sinus Tachycardia)
+   Height: 68 Inch
+             Total In:
+             1,150 mL
+   PO:
+             TF:
+   IVF:
+   130 mL
+   Blood products:
+   Total out:
+                                                                      0 mL
+                                                                  2,285 mL
+   Urine:
+   625 mL
+   NG:
+   Stool:
+   Drains:
+   Balance:
+                                                                      0 mL
+                                                                 -1,135 mL
+   Respiratory
+   Ventilator mode: CMV/ASSIST/AutoFlow
+   PS : 5 cmH2O
+   RR (Spontaneous): 21
+   PEEP: 0 cmH2O
+   FiO2: 30%
+   RSBI: 58
+   SpO2: 94%
+   ABG: 7.54/37/94.[**Numeric Identifier 120**]/27/9
+   PaO2 / FiO2: 313
+   Physical Examination
+   Peripheral Vascular: (Right radial pulse: Not assessed), (Left radial
+   pulse: Not assessed), (Right DP pulse: Not assessed), (Left DP pulse:
+   Not assessed)
+   Skin:  Not assessed
+   Neurologic: Responds to: Not assessed, Movement: Not assessed, Tone:
+   Not assessed
+   Labs / Radiology
+   179 K/uL
+   44.8 %
+   15.9 g/dL
+   120 mg/dL
+   0.7 mg/dL
+   14 mg/dL
+   27 mEq/L
+   95 mEq/L
+   2.9 mEq/L
+   136 mEq/L
+   15.6 K/uL
+        [image002.jpg]
+                             [**2779-3-26**]  06:36 AM
+                             [**2779-3-26**]  09:32 AM
+                             [**2779-3-26**]  11:40 AM
+   WBC
+                                    15.6
+   Hct
+                                    44.8
+   Plt
+                                     179
+   Cr
+                                     0.7
+   TC02
+                                     31
+                                     33
+   Glucose
+                                     120
+   Other labs: PT / PTT / INR:11.1/24.9/0.9, Ca++:8.4 mg/dL, Mg++:2.3
+   mg/dL, PO4:3.3 mg/dL
+   Fluid analysis / Other labs: see HPI for LP
+   tox with methadone and barbiturates
+   Imaging: CXR without infiltrate; (+) hyperinflation
+   Assessment and Plan
+   53 y/o woman with
+   Suspect that the major differential diagnosis here is hypertensive
+   encephalopathy (PRES), encephalitis (e.g. HSV), and subarachnoid
+   hemorrhage (not seen on CT).  The finding of elevated protein in the
+   CSF suggests that this is a meaningful intracranial process rather than
+   a red [**Doctor Last Name 1730**].
+   ICU Care
+   Nutrition:
+   Glycemic Control:
+   Lines / Intubation:
+   18 Gauge - [**2779-3-26**] 07:21 AM
+   20 Gauge - [**2779-3-26**] 07:23 AM
+   Comments:
+   Prophylaxis:
+   DVT:
+   Stress ulcer:
+   VAP:
+   Comments:
+   Communication:  Comments:
+   Code status: Full code
+   Disposition:
+   Total time spent:

@@ -1,0 +1,11 @@
+Comments: 
+Direction: ''
+Lex: high temperature
+Regex: (?<=[^\d])(3[89](\.[0-9])?|4[0-9](\.[0-9])|10[2-9](\.[0-9])?|11[0-9](\.[0-9]))(?!(\.[0-9])?[/\d])
+Type: number
+---
+Comments: 
+Direction: ''
+Lex: normal temperature
+Regex: (?<=[^\d])(3[5-7](\.[0-9])?|10[0-1](\.[0-9])?|9[3-9](\.[0-9]))(?!(\.[0-9])?[/\d])
+Type: number
